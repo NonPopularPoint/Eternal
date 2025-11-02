@@ -1,6 +1,6 @@
 {
   "date": "2025-11-02",
-  "last_updated": "2025-11-02T05:24:41.579582+00:00",
+  "last_updated": "2025-11-02T17:13:41.415279+00:00",
   "collection_status": {
     "total_sources": 6,
     "successful": 3,
@@ -19,91 +19,91 @@
         "title": "Granite 4.0 Nano: Just how small can you go?",
         "summary": "Granite 4.0 Nano: Just how small can you go?",
         "link": "https://huggingface.co/blog/ibm-granite/granite-4-nano",
-        "published": "2025-11-02T05:24:42.339551+00:00"
+        "published": "2025-11-02T17:13:42.079359+00:00"
       },
       {
         "title": "Why Did MiniMax M2 End Up as a Full Attention Model?",
         "summary": "Why Did MiniMax M2 End Up as a Full Attention Model?",
         "link": "https://huggingface.co/blog/MiniMax-AI/why-did-m2-end-up-as-a-full-attention-model",
-        "published": "2025-11-02T05:24:42.339705+00:00"
+        "published": "2025-11-02T17:13:42.079539+00:00"
       },
       {
         "title": "The World’s First and Best Speed Painting Software",
         "summary": "The World’s First and Best Speed Painting Software",
         "link": "https://huggingface.co/blog/wang12390/speed-painting-software",
-        "published": "2025-11-02T05:24:42.339834+00:00"
+        "published": "2025-11-02T17:13:42.079687+00:00"
       },
       {
         "title": "On the Shifting Global Compute Landscape",
         "summary": "On the Shifting Global Compute Landscape",
         "link": "https://huggingface.co/blog/huggingface/shifting-compute-landscape",
-        "published": "2025-11-02T05:24:42.339985+00:00"
+        "published": "2025-11-02T17:13:42.079832+00:00"
       },
       {
         "title": "🛡️ Nemotron PII: Synthesized Data for Privacy-Preserving AI",
         "summary": "🛡️ Nemotron PII: Synthesized Data for Privacy-Preserving AI",
         "link": "https://huggingface.co/blog/nvidia/nemotron-pii",
-        "published": "2025-11-02T05:24:42.340115+00:00"
+        "published": "2025-11-02T17:13:42.079971+00:00"
       },
       {
         "title": "What makes good reasoning data",
         "summary": "What makes good reasoning data",
         "link": "https://huggingface.co/blog/MiniMax-AI/what-makes-good-reasoning-data",
-        "published": "2025-11-02T05:24:42.340234+00:00"
+        "published": "2025-11-02T17:13:42.080107+00:00"
       },
       {
         "title": "Cosmos Predict 2.5 & Transfer 2.5: Evolving the World Foundation Models for Physical AI",
         "summary": "Cosmos Predict 2.5 & Transfer 2.5: Evolving the World Foundation Models for Physical AI",
         "link": "https://huggingface.co/blog/nvidia/cosmos-predict-and-transfer2-5",
-        "published": "2025-11-02T05:24:42.340355+00:00"
+        "published": "2025-11-02T17:13:42.080261+00:00"
       },
       {
         "title": "NVIDIA Isaac GR00T in LeRobot",
         "summary": "NVIDIA Isaac GR00T in LeRobot",
         "link": "https://huggingface.co/blog/nvidia/nvidia-isaac-gr00t-in-lerobot",
-        "published": "2025-11-02T05:24:42.340484+00:00"
+        "published": "2025-11-02T17:13:42.080408+00:00"
       },
       {
         "title": "How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare",
         "summary": "How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare",
         "link": "https://huggingface.co/blog/nvidia/nvidia-isaac-for-healthcare",
-        "published": "2025-11-02T05:24:42.340605+00:00"
+        "published": "2025-11-02T17:13:42.080547+00:00"
       },
       {
         "title": "Aligning to What? Rethinking Agent Generalization in MiniMax M2",
         "summary": "Aligning to What? Rethinking Agent Generalization in MiniMax M2",
         "link": "https://huggingface.co/blog/MiniMax-AI/aligning-to-what",
-        "published": "2025-11-02T05:24:42.340724+00:00"
+        "published": "2025-11-02T17:13:42.080681+00:00"
       },
       {
         "title": "NVIDIA Releases 8 Million Sample Open Dataset and Tooling for OCR, Image Reasoning, Image and Video QA Tasks",
         "summary": "NVIDIA Releases 8 Million Sample Open Dataset and Tooling for OCR, Image Reasoning, Image and Video QA Tasks",
         "link": "https://huggingface.co/blog/nvidia/nemotron-vlm-dataset-v2",
-        "published": "2025-11-02T05:24:42.340848+00:00"
+        "published": "2025-11-02T17:13:42.080825+00:00"
       },
       {
         "title": "Can Your LLM Think Like a Professional? Introducing ProfBench",
         "summary": "Can Your LLM Think Like a Professional? Introducing ProfBench",
         "link": "https://huggingface.co/blog/nvidia/profbench",
-        "published": "2025-11-02T05:24:42.340980+00:00"
-      },
-      {
-        "title": "3+ Years of ML & Society at Hugging Face 🤗🤝🧑‍🤝‍🧑",
-        "summary": "3+ Years of ML & Society at Hugging Face 🤗🤝🧑‍🤝‍🧑",
-        "link": "https://huggingface.co/blog/yjernite/ml-society-at-3",
-        "published": "2025-11-02T05:24:42.341106+00:00"
+        "published": "2025-11-02T17:13:42.080963+00:00"
       },
       {
         "title": "LightOnOCR-1B: The Case for End-to-End and Efficient Domain-Specific Vision-Language Models for OCR",
         "summary": "LightOnOCR-1B: The Case for End-to-End and Efficient Domain-Specific Vision-Language Models for OCR",
         "link": "https://huggingface.co/blog/lightonai/lightonocr",
-        "published": "2025-11-02T05:24:42.341228+00:00"
+        "published": "2025-11-02T17:13:42.081102+00:00"
+      },
+      {
+        "title": "3+ Years of ML & Society at Hugging Face 🤗🤝🧑‍🤝‍🧑",
+        "summary": "3+ Years of ML & Society at Hugging Face 🤗🤝🧑‍🤝‍🧑",
+        "link": "https://huggingface.co/blog/yjernite/ml-society-at-3",
+        "published": "2025-11-02T17:13:42.081257+00:00"
       },
       {
         "title": "Code a simple RAG from scratch",
         "summary": "Code a simple RAG from scratch",
         "link": "https://huggingface.co/blog/ngxson/make-your-own-rag",
-        "published": "2025-11-02T05:24:42.341346+00:00"
+        "published": "2025-11-02T17:13:42.081396+00:00"
       }
     ],
     "producthunt": [],
@@ -113,31 +113,31 @@
         "title": "How LeapXpert uses AI to bring order and oversight to business messaging",
         "summary": "Artificial Intelligence",
         "link": "https://www.artificialintelligence-news.com/news/how-leapxpert-uses-ai-to-bring-order-and-oversight-to-business-messaging/",
-        "published": "2025-11-02T05:24:49.606512+00:00"
+        "published": "2025-11-02T17:13:49.362271+00:00"
       },
       {
         "title": "How Lumana is redefining AI’s role in video surveillance",
         "summary": "Artificial Intelligence",
         "link": "https://www.artificialintelligence-news.com/news/how-lumana-is-redefining-ais-role-in-video-surveillance/",
-        "published": "2025-11-02T05:24:49.606892+00:00"
+        "published": "2025-11-02T17:13:49.362704+00:00"
       },
       {
         "title": "Bending Spoons’ acquisition of AOL shows the value of legacy platforms",
         "summary": "AI Mergers & Acquisitions",
         "link": "https://www.artificialintelligence-news.com/news/bending-spoons-acquisition-of-aol-shows-the-value-of-legacy-platforms/",
-        "published": "2025-11-02T05:24:49.607262+00:00"
+        "published": "2025-11-02T17:13:49.363123+00:00"
       },
       {
         "title": "The role of machine learning in enhancing cloud-native container security",
         "summary": "Artificial Intelligence, How It Works, Inside AI, Utilities",
         "link": "https://www.artificialintelligence-news.com/news/the-role-of-machine-learning-in-enhancing-cloud-native-container-security/",
-        "published": "2025-11-02T05:24:49.607608+00:00"
+        "published": "2025-11-02T17:13:49.363523+00:00"
       },
       {
         "title": "Google’s Veo 3 AI video creation tools are now widely available",
         "summary": "AI in Action, AI Market Trends, Artificial Intelligence",
         "link": "https://www.artificialintelligence-news.com/news/google-veo-3-ai-video-creation-tools-now-widely-available/",
-        "published": "2025-11-02T05:24:49.608167+00:00"
+        "published": "2025-11-02T17:13:49.364118+00:00"
       }
     ],
     "crescendo": [
@@ -145,25 +145,25 @@
         "title": "Crescendo Unveils Multimodal AI: A First for Customer Experience",
         "summary": "Crescendo Unveils Multimodal AI: A First for Customer Experience",
         "link": "https://crescendo.ai/news/crescendo-unveils-multimodal-ai-a-first-for-customer-experience",
-        "published": "2025-11-02T05:24:50.104381+00:00"
+        "published": "2025-11-02T17:13:49.693775+00:00"
       },
       {
         "title": "All NEWS",
         "summary": "All NEWS",
         "link": "https://crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-        "published": "2025-11-02T05:24:50.106766+00:00"
+        "published": "2025-11-02T17:13:49.696379+00:00"
       },
       {
         "title": "Latest AI Startup Funding News and VC Investment Deals - 2025",
         "summary": "Latest AI Startup Funding News and VC Investment Deals - 2025",
         "link": "https://crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-        "published": "2025-11-02T05:24:50.111169+00:00"
+        "published": "2025-11-02T17:13:49.701169+00:00"
       },
       {
         "title": "The Latest AI News and AI Breakthroughs that Matter Most: 2025",
         "summary": "The Latest AI News and AI Breakthroughs that Matter Most: 2025",
         "link": "https://crescendo.ai/news/latest-ai-news-and-updates",
-        "published": "2025-11-02T05:24:50.111561+00:00"
+        "published": "2025-11-02T17:13:49.701631+00:00"
       }
     ]
   }
