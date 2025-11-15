@@ -1,6 +1,6 @@
 {
   "date": "2025-11-15",
-  "last_updated": "2025-11-15T05:24:48.246971+00:00",
+  "last_updated": "2025-11-15T17:12:59.569777+00:00",
   "collection_status": {
     "total_sources": 6,
     "successful": 4,
@@ -18,91 +18,91 @@
         "title": "We’re open-sourcing our text-to-image model and the process behind it",
         "summary": "We’re open-sourcing our text-to-image model and the process behind it",
         "link": "https://huggingface.co/blog/Photoroom/prx-open-source-t2i-model",
-        "published": "2025-11-15T05:24:49.120946+00:00"
+        "published": "2025-11-15T17:13:00.441836+00:00"
       },
       {
         "title": "Text-to-image Architectural Experiments",
         "summary": "Text-to-image Architectural Experiments",
         "link": "https://huggingface.co/blog/Photoroom/prx-part1-architectures",
-        "published": "2025-11-15T05:24:49.121178+00:00"
+        "published": "2025-11-15T17:13:00.442031+00:00"
       },
       {
         "title": "🌳 QAT: The Art of Growing a Bonsai Model",
         "summary": "🌳 QAT: The Art of Growing a Bonsai Model",
         "link": "https://huggingface.co/blog/onekq/qat-bonsai",
-        "published": "2025-11-15T05:24:49.121354+00:00"
+        "published": "2025-11-15T17:13:00.442198+00:00"
       },
       {
         "title": "Why Did MiniMax M2 End Up as a Full Attention Model?",
         "summary": "Why Did MiniMax M2 End Up as a Full Attention Model?",
         "link": "https://huggingface.co/blog/MiniMax-AI/why-did-m2-end-up-as-a-full-attention-model",
-        "published": "2025-11-15T05:24:49.121516+00:00"
+        "published": "2025-11-15T17:13:00.442359+00:00"
       },
       {
         "title": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "summary": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "link": "https://huggingface.co/blog/not-lain/kv-caching",
-        "published": "2025-11-15T05:24:49.121674+00:00"
-      },
-      {
-        "title": "Granite 4.0 Nano: Just how small can you go?",
-        "summary": "Granite 4.0 Nano: Just how small can you go?",
-        "link": "https://huggingface.co/blog/ibm-granite/granite-4-nano",
-        "published": "2025-11-15T05:24:49.121829+00:00"
-      },
-      {
-        "title": "ViDoRe V3: a comprehensive evaluation of retrieval for enterprise use-cases",
-        "summary": "ViDoRe V3: a comprehensive evaluation of retrieval for enterprise use-cases",
-        "link": "https://huggingface.co/blog/QuentinJG/introducing-vidore-v3",
-        "published": "2025-11-15T05:24:49.121983+00:00"
+        "published": "2025-11-15T17:13:00.442518+00:00"
       },
       {
         "title": "Effective Prompting for Generative Vision Models",
         "summary": "Effective Prompting for Generative Vision Models",
         "link": "https://huggingface.co/blog/PrunaAI/prompting-guide-vision",
-        "published": "2025-11-15T05:24:49.122164+00:00"
+        "published": "2025-11-15T17:13:00.442691+00:00"
+      },
+      {
+        "title": "Granite 4.0 Nano: Just how small can you go?",
+        "summary": "Granite 4.0 Nano: Just how small can you go?",
+        "link": "https://huggingface.co/blog/ibm-granite/granite-4-nano",
+        "published": "2025-11-15T17:13:00.442861+00:00"
       },
       {
         "title": "The 1 Billion Token Challenge: Finding the Perfect Pre-training Mix",
         "summary": "The 1 Billion Token Challenge: Finding the Perfect Pre-training Mix",
         "link": "https://huggingface.co/blog/codelion/optimal-dataset-mixing",
-        "published": "2025-11-15T05:24:49.122368+00:00"
+        "published": "2025-11-15T17:13:00.443023+00:00"
       },
       {
         "title": "Who Routes LLM Routers? RouterArena: Building the Evaluation Foundation for LLM Routing",
         "summary": "Who Routes LLM Routers? RouterArena: Building the Evaluation Foundation for LLM Routing",
         "link": "https://huggingface.co/blog/JerryPotter/who-routes-the-routers",
-        "published": "2025-11-15T05:24:49.122526+00:00"
+        "published": "2025-11-15T17:13:00.443224+00:00"
       },
       {
-        "title": "SYNTH: the new data frontier",
-        "summary": "SYNTH: the new data frontier",
-        "link": "https://huggingface.co/blog/Pclanglais/synth-data-frontier",
-        "published": "2025-11-15T05:24:49.122679+00:00"
-      },
-      {
-        "title": "Introduction to State Space Models (SSM)",
-        "summary": "Introduction to State Space Models (SSM)",
-        "link": "https://huggingface.co/blog/lbourdois/get-on-the-ssm-train",
-        "published": "2025-11-15T05:24:49.122832+00:00"
+        "title": "ViDoRe V3: a comprehensive evaluation of retrieval for enterprise use-cases",
+        "summary": "ViDoRe V3: a comprehensive evaluation of retrieval for enterprise use-cases",
+        "link": "https://huggingface.co/blog/QuentinJG/introducing-vidore-v3",
+        "published": "2025-11-15T17:13:00.443380+00:00"
       },
       {
         "title": "Fine-Tuning Your First Large Language Model (LLM) with PyTorch and Hugging Face",
         "summary": "Fine-Tuning Your First Large Language Model (LLM) with PyTorch and Hugging Face",
         "link": "https://huggingface.co/blog/dvgodoy/fine-tuning-llm-hugging-face",
-        "published": "2025-11-15T05:24:49.122984+00:00"
+        "published": "2025-11-15T17:13:00.443534+00:00"
+      },
+      {
+        "title": "SYNTH: the new data frontier",
+        "summary": "SYNTH: the new data frontier",
+        "link": "https://huggingface.co/blog/Pclanglais/synth-data-frontier",
+        "published": "2025-11-15T17:13:00.443700+00:00"
       },
       {
         "title": "On the Shifting Global Compute Landscape",
         "summary": "On the Shifting Global Compute Landscape",
         "link": "https://huggingface.co/blog/huggingface/shifting-compute-landscape",
-        "published": "2025-11-15T05:24:49.123187+00:00"
+        "published": "2025-11-15T17:13:00.443855+00:00"
       },
       {
         "title": "⚡ Power, Heat, and Intelligence ☁️ - AI Data Centers Explained 🏭",
         "summary": "⚡ Power, Heat, and Intelligence ☁️ - AI Data Centers Explained 🏭",
         "link": "https://huggingface.co/blog/sasha/ai-data-centers-explained",
-        "published": "2025-11-15T05:24:49.123350+00:00"
+        "published": "2025-11-15T17:13:00.444013+00:00"
+      },
+      {
+        "title": "⛳ Optimizer: What Does It Do and Why We Need It",
+        "summary": "⛳ Optimizer: What Does It Do and Why We Need It",
+        "link": "https://huggingface.co/blog/onekq/adam-optimizer",
+        "published": "2025-11-15T17:13:00.444172+00:00"
       }
     ],
     "producthunt": [],
@@ -120,16 +120,28 @@
         "published": "2025-10-31T02:31:34+00:00"
       },
       {
+        "title": "[r/machinelearning] [R] 1,100 NeurIPS 2025 Papers with Public Code or Data",
+        "summary": "Here is a list of ~1,100 NeurIPS 2025 accepted papers that have associated public code, data, or a demo link available. The links are directly extracted from their paper submissions. This is approximately 22% of the 5,000+ accepted papers. The List:...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1oxt01e/r_1100_neurips_2025_papers_with_public_code_or/",
+        "published": "2025-11-15T14:25:24+00:00"
+      },
+      {
         "title": "[r/machinelearning] [D] Is a PhD Still “Worth It” Today? A Debate After Looking at a Colleague’s Outcomes",
         "summary": "So I recently got into a long discussion with a colleague about what actually counts as a “successful” PhD in today’s hyper-competitive research environment. The conversation started pretty casually, but it spiraled into something deeper when we...",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1ox9exv/d_is_a_phd_still_worth_it_today_a_debate_after/",
         "published": "2025-11-14T21:40:04+00:00"
       },
       {
-        "title": "[r/machinelearning] [P] I visualized 8,000+ LLM papers using t-SNE — the earliest “LLM-like” one dates back to 2011",
-        "summary": "I’ve been exploring how research on large language models has evolved over time. To do that, I collected around 8,000 papers from arXiv, Hugging Face, and OpenAlex, generated text embeddings from their abstracts, and projected them using t-SNE to...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1owz9g5/p_i_visualized_8000_llm_papers_using_tsne_the/",
-        "published": "2025-11-14T15:18:39+00:00"
+        "title": "[r/machinelearning] [D] Do Google Scholar or arXiv citations change if I revert my arXiv paper title?",
+        "summary": "Hi everyone, I have an arXiv paper where Version 1 had the original title, and in Version 2 I changed it to a longer title. After that change, the arXiv page stopped showing any citations when I google the paper, even though Google Scholar has shown...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1oxno3l/d_do_google_scholar_or_arxiv_citations_change_if/",
+        "published": "2025-11-15T09:42:17+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [R] Sharp Minima Can Generalize: A Loss Landscape Perspective On Data",
+        "summary": "submitted by /u/modelling_is_fun [link] [comments]",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1oxwzkt/r_sharp_minima_can_generalize_a_loss_landscape/",
+        "published": "2025-11-15T17:07:03+00:00"
       },
       {
         "title": "[r/machinelearning] [R] Generative Flows on Weight Space for Covariate Shift Detection (AAAI 2026 Workshop)",
@@ -138,34 +150,22 @@
         "published": "2025-11-15T00:22:20+00:00"
       },
       {
+        "title": "[r/machinelearning] [P] I visualized 8,000+ LLM papers using t-SNE — the earliest “LLM-like” one dates back to 2011",
+        "summary": "I’ve been exploring how research on large language models has evolved over time. To do that, I collected around 8,000 papers from arXiv, Hugging Face, and OpenAlex, generated text embeddings from their abstracts, and projected them using t-SNE to...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1owz9g5/p_i_visualized_8000_llm_papers_using_tsne_the/",
+        "published": "2025-11-14T15:18:39+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [D] Linear Regression From Scratch: Derivation, Intuition, and Python Implementation",
+        "summary": "I wrote a clear educational breakdown of Linear Regression starting from the basic idea, deriving the slope and intercept from the MSE loss function, and implementing the entire model from scratch in Python without using scikit-learn. Summary of...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1oxqhrh/d_linear_regression_from_scratch_derivation/",
+        "published": "2025-11-15T12:28:11+00:00"
+      },
+      {
         "title": "[r/machinelearning] [D] Resources for Designing Out of Distribution Pipelines for Text Classification",
         "summary": "Hey all, I am looking into designing an automated system for evaluating data points as being out of distribution. This would be for a transformer classification model , multi-class setting. I am finding good resources very hard to come by. Currently...",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1ox7kqg/d_resources_for_designing_out_of_distribution/",
         "published": "2025-11-14T20:27:17+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [D] Travel grants for graduated UG students?",
-        "summary": "Had a paper accepted recently as a 1st author to AAAI conference. The issue is I have graduated recently from my undergraduate and thereby my university won't be funding for my travel Are there any travel grants to which recently graduated students...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1owwpvj/d_travel_grants_for_graduated_ug_students/",
-        "published": "2025-11-14T13:38:08+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [D] are 2.10> versions of Tensorflow on WSL2 so much better than the 2.10 version on native Windows?",
-        "summary": "hi everyone, i'm reluctant to install linux as i'm a research assisstant informally for now so i currently run experiments on my home computer (with videogames on it), since TensorFlow lost native support starting from 2.10, i was wondering if...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1ox7v93/d_are_210_versions_of_tensorflow_on_wsl2_so_much/",
-        "published": "2025-11-14T20:38:50+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [D] Let's discuss World Models",
-        "summary": "Hey everyone, I've been reading about \"World Models\" for a while now and wanted to share my understanding of them, as well as why I think they're such a big deal, especially for general-purpose robotics and potentially a major step toward \"AGI\" What...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1ox5xu0/d_lets_discuss_world_models/",
-        "published": "2025-11-14T19:24:47+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [R] LeJEPA: New Yann Lecun paper",
-        "summary": "Abstract: Learning manipulable representations of the world and its dynamics is central to AI. Joint-Embedding Predictive Architectures (JEPAs) offer a promising blueprint, but lack of practical guidance and theory has led to ad - hoc R&D. We...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1ovm4fd/r_lejepa_new_yann_lecun_paper/",
-        "published": "2025-11-13T00:07:56+00:00"
       },
       {
         "title": "[r/claudeai] Usage Limits, Bugs and Performance Discussion Megathread - beginning November 13, 2025",
@@ -180,52 +180,52 @@
         "published": "2025-11-14T19:04:51+00:00"
       },
       {
+        "title": "[r/claudeai] 🚨 Anthropic Update: The free \"Sonnet 4.5\" access has ended.",
+        "summary": "• Free Plan: Now \"Everyday Claude\" (Haiku 4.5). • Paid Plan: \"Smarter Claude\" (Sonnet 4.5) now requires an upgrade and is labeled \"PRO\" on mobile. Source: NearExplains...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1oxuupr/anthropic_update_the_free_sonnet_45_access_has/",
+        "published": "2025-11-15T15:43:22+00:00"
+      },
+      {
+        "title": "[r/claudeai] \"frontend-design\" skill is so amazing!",
+        "summary": "Today I tried to create a landing page for my \"Human MCP\" repo with Claude Code and \"frontend-design\" skills, and the result is amazing! All I did was just throwing the github repo url and telling CC to generate a landing page (Skip to 5:10 to see...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1oxn1gj/frontenddesign_skill_is_so_amazing/",
+        "published": "2025-11-15T09:01:24+00:00"
+      },
+      {
         "title": "[r/claudeai] China just used Claude to hack 30 companies. The AI did 90% of the work. Anthropic caught them and is telling everyone how they did it.",
         "summary": "September 2025. Anthropic detected suspicious activity on Claude. Started investigating. Turns out it was Chinese state-sponsored hackers. They used Claude Code to hack into roughly 30 companies. Big tech companies, Banks, Chemical manufacturers,...",
         "link": "https://www.reddit.com/r/ClaudeAI/comments/1ox361v/china_just_used_claude_to_hack_30_companies_the/",
         "published": "2025-11-14T17:41:44+00:00"
       },
       {
-        "title": "[r/claudeai] Epstein relationship networks, extracted from recent doc dumps with claude",
-        "summary": "Built this graph explorer for the epstein emails. Used Claude agent SDK to extract the data from docs, and claude code to build the service, now live! https://epstein-doc-explorer-1.onrender.com/ submitted by /u/madmax_br5 [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1ox1qgb/epstein_relationship_networks_extracted_from/",
-        "published": "2025-11-14T16:49:05+00:00"
+        "title": "[r/claudeai] How are you spending down your Claude code web credits?",
+        "summary": "For those who have them (particularly $1k). I’m curious how are you spending them down? Are you using it in the same way as the cli tool? submitted by /u/Venturefarther [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1oxrksr/how_are_you_spending_down_your_claude_code_web/",
+        "published": "2025-11-15T13:21:15+00:00"
+      },
+      {
+        "title": "[r/claudeai] Claude 4.5 is still saying “fucking” or “fuck” when it gets hyped",
+        "summary": "submitted by /u/OwnZookeepergame1599 [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1oxl5r1/claude_45_is_still_saying_fucking_or_fuck_when_it/",
+        "published": "2025-11-15T07:03:28+00:00"
+      },
+      {
+        "title": "[r/claudeai] Anyone else notice that most Claude Code “thinking keywords” stopped working?",
+        "summary": "Yesterday I tested the November 2025 Claude Code build and ran into something unexpected. All the old keyword tiers people still use — think, think hard, think harder — no longer affect reasoning depth. They’re parsed as plain text and return zero...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1oxsx4g/anyone_else_notice_that_most_claude_code_thinking/",
+        "published": "2025-11-15T14:21:50+00:00"
+      },
+      {
+        "title": "[r/claudeai] Claude is sassy today!",
+        "summary": "Was chatting with claude about the cobol modernisation demo Anthropic published recently. Lets say it has a clear opinion 😄 submitted by /u/Maas_b [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1oxrgpq/claude_is_sassy_today/",
+        "published": "2025-11-15T13:15:46+00:00"
       },
       {
         "title": "[r/claudeai] RIP Claude Sonnet 3.7, The Only Model That Actually Understood Creative Writing",
         "summary": "I need to vent because I'm genuinely pissed off about losing access to Sonnet 3.7. For context, I do Japanese-to-English translation as a hobby (and sometimes professionally), often working with spicy/adult content from visual novels and games....",
         "link": "https://www.reddit.com/r/ClaudeAI/comments/1oxdgzc/rip_claude_sonnet_37_the_only_model_that_actually/",
         "published": "2025-11-15T00:29:22+00:00"
-      },
-      {
-        "title": "[r/claudeai] I believe Claude is about to change my life",
-        "summary": "A Cyber Security engineer who has been struggling to find a clear path in the field and any work I applied to for the last 2.5 years was rejected (Various reasons), Claude has come in with a clutch, I can finally build what I want and do as I please...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1owvs65/i_believe_claude_is_about_to_change_my_life/",
-        "published": "2025-11-14T12:57:30+00:00"
-      },
-      {
-        "title": "[r/claudeai] I just bought a game in 60 seconds by telling Claude to do it",
-        "summary": "I'm a gamer; played all Civilization games from 3-6. So I built payment infrastructure that lets Claude buy games autonomously. Turns out Claude is pretty good at shopping (with few custom MCPs) Here's what happened: Claude searched 10,000+ games...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1owqgrp/i_just_bought_a_game_in_60_seconds_by_telling/",
-        "published": "2025-11-14T07:49:50+00:00"
-      },
-      {
-        "title": "[r/claudeai] I just revived my 13-year-old game for $43 using Claude Code",
-        "summary": "Mictlan, a Game from 2011 Back in 2011, I released my first game, Mictlan, using XNA (a framework by Microsoft, now discontinued) for Windows Phone 7. Both the platform and framework are long dead, so the game has been unplayable for years. I was...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1ox5w34/i_just_revived_my_13yearold_game_for_43_using/",
-        "published": "2025-11-14T19:22:57+00:00"
-      },
-      {
-        "title": "[r/claudeai] Claude Sonnet: Oh sh*t ...",
-        "summary": "So, how often does Claude swear when you talk to it? This it's probably only the second time in six months of pretty intense use.... submitted by /u/MRmcnuts [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1ox55td/claude_sonnet_oh_sht/",
-        "published": "2025-11-14T18:55:31+00:00"
-      },
-      {
-        "title": "[r/claudeai] Edit Video with Claude Code (open source library)",
-        "summary": "I created a free open-source library so Claude can edit video. Buttercut supports Final Cut Pro and Premiere and just added support for DaVinci Resolve too. https://github.com/barefootford/buttercut The app is basically two pieces, Claude skills for...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1oxflyz/edit_video_with_claude_code_open_source_library/",
-        "published": "2025-11-15T02:09:32+00:00"
       }
     ],
     "ai_news": [
@@ -233,31 +233,31 @@
         "title": "Anthropic details cyber espionage campaign orchestrated by AI",
         "summary": "Cybersecurity AI",
         "link": "https://www.artificialintelligence-news.com/news/anthropic-details-cyber-espionage-campaign-orchestrated-by-ai/",
-        "published": "2025-11-15T05:24:57.592941+00:00"
+        "published": "2025-11-15T17:13:09.204218+00:00"
       },
       {
         "title": "Visa builds AI commerce infrastructure for the Asia Pacific’s 2026 Pilot",
         "summary": "AI and Us",
         "link": "https://www.artificialintelligence-news.com/news/visa-ai-commerce-intelligent-commerce-2026/",
-        "published": "2025-11-15T05:24:57.593398+00:00"
+        "published": "2025-11-15T17:13:09.204669+00:00"
       },
       {
         "title": "IBM: Data silos are holding back enterprise AI",
         "summary": "World of Work",
         "link": "https://www.artificialintelligence-news.com/news/ibm-data-silos-are-holding-back-enterprise-ai/",
-        "published": "2025-11-15T05:24:57.593820+00:00"
+        "published": "2025-11-15T17:13:09.205088+00:00"
       },
       {
         "title": "The role of machine learning in enhancing cloud-native container security",
         "summary": "Artificial Intelligence, How It Works, Inside AI, Utilities",
         "link": "https://www.artificialintelligence-news.com/news/the-role-of-machine-learning-in-enhancing-cloud-native-container-security/",
-        "published": "2025-11-15T05:24:57.594224+00:00"
+        "published": "2025-11-15T17:13:09.205478+00:00"
       },
       {
         "title": "Google’s Veo 3 AI video creation tools are now widely available",
         "summary": "AI in Action, AI Market Trends, Artificial Intelligence",
         "link": "https://www.artificialintelligence-news.com/news/google-veo-3-ai-video-creation-tools-now-widely-available/",
-        "published": "2025-11-15T05:24:57.594844+00:00"
+        "published": "2025-11-15T17:13:09.206105+00:00"
       }
     ],
     "crescendo": [
@@ -265,25 +265,25 @@
         "title": "Crescendo Unveils Multimodal AI: A First for Customer Experience",
         "summary": "Crescendo Unveils Multimodal AI: A First for Customer Experience",
         "link": "https://crescendo.ai/news/crescendo-unveils-multimodal-ai-a-first-for-customer-experience",
-        "published": "2025-11-15T05:24:58.036601+00:00"
+        "published": "2025-11-15T17:13:09.555904+00:00"
       },
       {
         "title": "All NEWS",
         "summary": "All NEWS",
         "link": "https://crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-        "published": "2025-11-15T05:24:58.039292+00:00"
+        "published": "2025-11-15T17:13:09.558528+00:00"
       },
       {
         "title": "Latest AI Startup Funding News and VC Investment Deals - 2025",
         "summary": "Latest AI Startup Funding News and VC Investment Deals - 2025",
         "link": "https://crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-        "published": "2025-11-15T05:24:58.044267+00:00"
+        "published": "2025-11-15T17:13:09.563364+00:00"
       },
       {
         "title": "The Latest AI News and AI Breakthroughs that Matter Most: 2025",
         "summary": "The Latest AI News and AI Breakthroughs that Matter Most: 2025",
         "link": "https://crescendo.ai/news/latest-ai-news-and-updates",
-        "published": "2025-11-15T05:24:58.044720+00:00"
+        "published": "2025-11-15T17:13:09.563825+00:00"
       }
     ]
   }
