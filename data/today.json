@@ -1,6 +1,6 @@
 {
   "date": "2025-11-16",
-  "last_updated": "2025-11-16T05:25:32.063070+00:00",
+  "last_updated": "2025-11-16T17:13:59.708025+00:00",
   "collection_status": {
     "total_sources": 6,
     "successful": 4,
@@ -18,91 +18,91 @@
         "title": "We’re open-sourcing our text-to-image model and the process behind it",
         "summary": "We’re open-sourcing our text-to-image model and the process behind it",
         "link": "https://huggingface.co/blog/Photoroom/prx-open-source-t2i-model",
-        "published": "2025-11-16T05:25:32.817254+00:00"
+        "published": "2025-11-16T17:14:00.429940+00:00"
       },
       {
         "title": "Text-to-image Architectural Experiments",
         "summary": "Text-to-image Architectural Experiments",
         "link": "https://huggingface.co/blog/Photoroom/prx-part1-architectures",
-        "published": "2025-11-16T05:25:32.817452+00:00"
+        "published": "2025-11-16T17:14:00.430136+00:00"
       },
       {
         "title": "🌳 QAT: The Art of Growing a Bonsai Model",
         "summary": "🌳 QAT: The Art of Growing a Bonsai Model",
         "link": "https://huggingface.co/blog/onekq/qat-bonsai",
-        "published": "2025-11-16T05:25:32.817618+00:00"
+        "published": "2025-11-16T17:14:00.430329+00:00"
       },
       {
         "title": "Why Did MiniMax M2 End Up as a Full Attention Model?",
         "summary": "Why Did MiniMax M2 End Up as a Full Attention Model?",
         "link": "https://huggingface.co/blog/MiniMax-AI/why-did-m2-end-up-as-a-full-attention-model",
-        "published": "2025-11-16T05:25:32.817800+00:00"
+        "published": "2025-11-16T17:14:00.430495+00:00"
       },
       {
         "title": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "summary": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "link": "https://huggingface.co/blog/not-lain/kv-caching",
-        "published": "2025-11-16T05:25:32.817961+00:00"
+        "published": "2025-11-16T17:14:00.430655+00:00"
       },
       {
         "title": "Effective Prompting for Generative Vision Models",
         "summary": "Effective Prompting for Generative Vision Models",
         "link": "https://huggingface.co/blog/PrunaAI/prompting-guide-vision",
-        "published": "2025-11-16T05:25:32.818120+00:00"
-      },
-      {
-        "title": "Granite 4.0 Nano: Just how small can you go?",
-        "summary": "Granite 4.0 Nano: Just how small can you go?",
-        "link": "https://huggingface.co/blog/ibm-granite/granite-4-nano",
-        "published": "2025-11-16T05:25:32.818275+00:00"
+        "published": "2025-11-16T17:14:00.430812+00:00"
       },
       {
         "title": "The 1 Billion Token Challenge: Finding the Perfect Pre-training Mix",
         "summary": "The 1 Billion Token Challenge: Finding the Perfect Pre-training Mix",
         "link": "https://huggingface.co/blog/codelion/optimal-dataset-mixing",
-        "published": "2025-11-16T05:25:32.818443+00:00"
+        "published": "2025-11-16T17:14:00.430968+00:00"
       },
       {
         "title": "Who Routes LLM Routers? RouterArena: Building the Evaluation Foundation for LLM Routing",
         "summary": "Who Routes LLM Routers? RouterArena: Building the Evaluation Foundation for LLM Routing",
         "link": "https://huggingface.co/blog/JerryPotter/who-routes-the-routers",
-        "published": "2025-11-16T05:25:32.818650+00:00"
+        "published": "2025-11-16T17:14:00.431131+00:00"
       },
       {
         "title": "ViDoRe V3: a comprehensive evaluation of retrieval for enterprise use-cases",
         "summary": "ViDoRe V3: a comprehensive evaluation of retrieval for enterprise use-cases",
         "link": "https://huggingface.co/blog/QuentinJG/introducing-vidore-v3",
-        "published": "2025-11-16T05:25:32.818826+00:00"
+        "published": "2025-11-16T17:14:00.431368+00:00"
       },
       {
-        "title": "Fine-Tuning Your First Large Language Model (LLM) with PyTorch and Hugging Face",
-        "summary": "Fine-Tuning Your First Large Language Model (LLM) with PyTorch and Hugging Face",
-        "link": "https://huggingface.co/blog/dvgodoy/fine-tuning-llm-hugging-face",
-        "published": "2025-11-16T05:25:32.818988+00:00"
+        "title": "Granite 4.0 Nano: Just how small can you go?",
+        "summary": "Granite 4.0 Nano: Just how small can you go?",
+        "link": "https://huggingface.co/blog/ibm-granite/granite-4-nano",
+        "published": "2025-11-16T17:14:00.431529+00:00"
       },
       {
         "title": "SYNTH: the new data frontier",
         "summary": "SYNTH: the new data frontier",
         "link": "https://huggingface.co/blog/Pclanglais/synth-data-frontier",
-        "published": "2025-11-16T05:25:32.819145+00:00"
-      },
-      {
-        "title": "Let's talk about LLM evaluation",
-        "summary": "Let's talk about LLM evaluation",
-        "link": "https://huggingface.co/blog/clefourrier/llm-evaluation",
-        "published": "2025-11-16T05:25:32.819300+00:00"
+        "published": "2025-11-16T17:14:00.431684+00:00"
       },
       {
         "title": "Uncensor any LLM with abliteration",
         "summary": "Uncensor any LLM with abliteration",
         "link": "https://huggingface.co/blog/mlabonne/abliteration",
-        "published": "2025-11-16T05:25:32.819454+00:00"
+        "published": "2025-11-16T17:14:00.431841+00:00"
+      },
+      {
+        "title": "Fine-Tuning Your First Large Language Model (LLM) with PyTorch and Hugging Face",
+        "summary": "Fine-Tuning Your First Large Language Model (LLM) with PyTorch and Hugging Face",
+        "link": "https://huggingface.co/blog/dvgodoy/fine-tuning-llm-hugging-face",
+        "published": "2025-11-16T17:14:00.431998+00:00"
       },
       {
         "title": "On the Shifting Global Compute Landscape",
         "summary": "On the Shifting Global Compute Landscape",
         "link": "https://huggingface.co/blog/huggingface/shifting-compute-landscape",
-        "published": "2025-11-16T05:25:32.819613+00:00"
+        "published": "2025-11-16T17:14:00.432154+00:00"
+      },
+      {
+        "title": "⚡ Power, Heat, and Intelligence ☁️ - AI Data Centers Explained 🏭",
+        "summary": "⚡ Power, Heat, and Intelligence ☁️ - AI Data Centers Explained 🏭",
+        "link": "https://huggingface.co/blog/sasha/ai-data-centers-explained",
+        "published": "2025-11-16T17:14:00.432332+00:00"
       }
     ],
     "producthunt": [],
@@ -120,16 +120,22 @@
         "published": "2025-10-31T02:31:34+00:00"
       },
       {
-        "title": "[r/machinelearning] [D] Do researchers care about non-citation impact metrics? (GitHub, Twitter, HuggingFace, etc.)",
-        "summary": "I'm curious whether researchers actually track or care about their work's impact outside traditional citations. Things like: - GitHub stars/forks on code they released - GitHub referencing/citing your paper - Twitter mentions - HuggingFace stats...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1oy1t6o/d_do_researchers_care_about_noncitation_impact/",
-        "published": "2025-11-15T20:19:23+00:00"
-      },
-      {
         "title": "[r/machinelearning] [D] A Reviewer Posted 40 Weaknesses and 40 Questions",
         "summary": "I deleted my previous post, as I was too emotional and included a wrong link. As pointed out by the public comment, \"Always the same score (4) and same confidence (5). Clearly not reasonable, at the very least.\"...",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1oyce03/d_a_reviewer_posted_40_weaknesses_and_40_questions/",
         "published": "2025-11-16T04:28:07+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [D] Peer Review vs Open Review",
+        "summary": "I’ve been seeing more talk about “open review” in academic publishing, and honestly I’m trying to wrap my head around what that really looks like in practice. Traditional peer review is known as slow, inconsistent, and sometimes opaque. But I wonder...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1oyp77k/d_peer_review_vs_open_review/",
+        "published": "2025-11-16T15:55:02+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [D] Do researchers care about non-citation impact metrics? (GitHub, Twitter, HuggingFace, etc.)",
+        "summary": "I'm curious whether researchers actually track or care about their work's impact outside traditional citations. Things like: - GitHub stars/forks on code they released - GitHub referencing/citing your paper - Twitter mentions - HuggingFace stats...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1oy1t6o/d_do_researchers_care_about_noncitation_impact/",
+        "published": "2025-11-15T20:19:23+00:00"
       },
       {
         "title": "[r/machinelearning] [R] 1,100 NeurIPS 2025 Papers with Public Code or Data",
@@ -138,34 +144,28 @@
         "published": "2025-11-15T14:25:24+00:00"
       },
       {
+        "title": "[r/machinelearning] [D] ARR Oct 2025 Discussion (EACL 2026)",
+        "summary": "Discussion thread for the upcoming reviews from ARR Oct 2025 for EACL 2026 (and early submissions for ACL 2026). EACL 2026 deadlines: ARR submission deadline: 6 October 2025 Author response & reviewer discussion: 18 – 24 November 2025 EACL...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1oyl7c9/d_arr_oct_2025_discussion_eacl_2026/",
+        "published": "2025-11-16T13:03:26+00:00"
+      },
+      {
         "title": "[r/machinelearning] [R] Sharp Minima Can Generalize: A Loss Landscape Perspective On Data",
         "summary": "submitted by /u/modelling_is_fun [link] [comments]",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1oxwzkt/r_sharp_minima_can_generalize_a_loss_landscape/",
         "published": "2025-11-15T17:07:03+00:00"
       },
       {
-        "title": "[r/machinelearning] [D] Do Google Scholar or arXiv citations change if I revert my arXiv paper title?",
-        "summary": "Hi everyone, I have an arXiv paper where Version 1 had the original title, and in Version 2 I changed it to a longer title. After that change, the arXiv page stopped showing any citations when I google the paper, even though Google Scholar has shown...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1oxno3l/d_do_google_scholar_or_arxiv_citations_change_if/",
-        "published": "2025-11-15T09:42:17+00:00"
+        "title": "[r/machinelearning] [D]Diffusion Evaluation",
+        "summary": "Can anyone tell me how do you evaluate precision/recall of diffusion model after distillation over datasets like LsunBed? Torch-fidelity library requires a target folder, but what should be used as the target? The validation set? Or the train set?...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1oyg2wm/ddiffusion_evaluation/",
+        "published": "2025-11-16T08:03:59+00:00"
       },
       {
-        "title": "[r/machinelearning] [D] Is a PhD Still “Worth It” Today? A Debate After Looking at a Colleague’s Outcomes",
-        "summary": "So I recently got into a long discussion with a colleague about what actually counts as a “successful” PhD in today’s hyper-competitive research environment. The conversation started pretty casually, but it spiraled into something deeper when we...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1ox9exv/d_is_a_phd_still_worth_it_today_a_debate_after/",
-        "published": "2025-11-14T21:40:04+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [R] Generative Flows on Weight Space for Covariate Shift Detection (AAAI 2026 Workshop)",
-        "summary": "Abstract: Flow-based generative modeling provides a powerful framework for reasoning about uncertainty in weight space. In this work, we explore model uncertainty and distributional anomalies through weight space learning, where a generative...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1oxdb5z/r_generative_flows_on_weight_space_for_covariate/",
-        "published": "2025-11-15T00:22:20+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [P] I visualized 8,000+ LLM papers using t-SNE — the earliest “LLM-like” one dates back to 2011",
-        "summary": "I’ve been exploring how research on large language models has evolved over time. To do that, I collected around 8,000 papers from arXiv, Hugging Face, and OpenAlex, generated text embeddings from their abstracts, and projected them using t-SNE to...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1owz9g5/p_i_visualized_8000_llm_papers_using_tsne_the/",
-        "published": "2025-11-14T15:18:39+00:00"
+        "title": "[r/machinelearning] Beyond Hyperparameters: We're Now Quantifying (and Steering) the Internal Physics of AI Training. [R]",
+        "summary": "This morning, I've been validating a core concept from my AGI research: the Vector Space Mapping (VSM) protocol. The theory? To truly understand Transformer models, we must first quantify the specialization of their attention heads. Initial tests...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1oyjt7k/beyond_hyperparameters_were_now_quantifying_and/",
+        "published": "2025-11-16T11:50:59+00:00"
       },
       {
         "title": "[r/claudeai] Usage Limits, Bugs and Performance Discussion Megathread - beginning November 13, 2025",
@@ -198,34 +198,34 @@
         "published": "2025-11-15T21:17:02+00:00"
       },
       {
+        "title": "[r/claudeai] Are you actually serious...?",
+        "summary": "An hour of Deep Research query & it outputs literally this. Can't even make this up right now submitted by /u/kelemon [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1oykcor/are_you_actually_serious/",
+        "published": "2025-11-16T12:20:07+00:00"
+      },
+      {
+        "title": "[r/claudeai] What's your Claude Code workflow setup?",
+        "summary": "I'm curious about how you're using Claude Code in production and what your actual workflows look like. What Setup and Tools and Optimization are you running for what kind of Project Context? Would like to see some actual examples of your setups and...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1oyj0l2/whats_your_claude_code_workflow_setup/",
+        "published": "2025-11-16T11:04:52+00:00"
+      },
+      {
         "title": "[r/claudeai] FYI - Reddit shadowbanned my claude Epstein docs visualizer project sitewide",
-        "summary": "Sorry for slightly OT post, but there was a lot on engagement on the project so thought some of you might want to know what happened. The post was taken down this morning, seemingly not by mods on this sub but at the sitewide filter level. I...",
+        "summary": "Edit: repo now open-source here: https://github.com/maxandrews/Epstein-doc-explorer/tree/main Sorry for slightly OT post, but there was a lot on engagement on the project so thought some of you might want to know what happened. The post was taken...",
         "link": "https://www.reddit.com/r/ClaudeAI/comments/1oxwzar/fyi_reddit_shadowbanned_my_claude_epstein_docs/",
         "published": "2025-11-15T17:06:43+00:00"
       },
       {
-        "title": "[r/claudeai] 🚨 Anthropic Update: The free \"Sonnet 4.5\" access has ended.",
-        "summary": "• Free Plan: Now \"Everyday Claude\" (Haiku 4.5). • Paid Plan: \"Smarter Claude\" (Sonnet 4.5) now requires an upgrade and is labeled \"PRO\" on mobile. Source: NearExplains...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1oxuupr/anthropic_update_the_free_sonnet_45_access_has/",
-        "published": "2025-11-15T15:43:22+00:00"
+        "title": "[r/claudeai] Claude is simply awesome - I created a simple app that easily explains planetary placements",
+        "summary": "Yesterday I found my old astrology chart. The information is sensitive and quite personal, so I didn't want to upload it directly. So I tried to understand astrology - how each planet affects different house positions, but it's incredibly hard to...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1oyn8f0/claude_is_simply_awesome_i_created_a_simple_app/",
+        "published": "2025-11-16T14:34:20+00:00"
       },
       {
-        "title": "[r/claudeai] \"frontend-design\" skill is so amazing!",
-        "summary": "Today I tried to create a landing page for my \"Human MCP\" repo with Claude Code and \"frontend-design\" skills, and the result is amazing! All I did was just throwing the github repo url and telling CC to generate a landing page (Skip to 5:10 to see...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1oxn1gj/frontenddesign_skill_is_so_amazing/",
-        "published": "2025-11-15T09:01:24+00:00"
-      },
-      {
-        "title": "[r/claudeai] Claude helped me make a multi agent ecosystem where models interact with each other autonomously",
-        "summary": "in this experiment I just asked them to evolve a tokenizer.. with a prompt like this shown in the image they will just go forever evolving the idea nonstop until u give them a new direction any ai model is really capable of being fully autonomous...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1oyb79s/claude_helped_me_make_a_multi_agent_ecosystem/",
-        "published": "2025-11-16T03:26:33+00:00"
-      },
-      {
-        "title": "[r/claudeai] Anyone else type lazy and rushed prompts to speed things up?",
-        "summary": "I used write detailed prompts, correct spelling and grammar, give as much context info when starting new chats. Over time I've gotten lazier, idc about spelling mistakes and grammar. Instead of writing something like: \"Please fix the styling by...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1oyb41l/anyone_else_type_lazy_and_rushed_prompts_to_speed/",
-        "published": "2025-11-16T03:21:51+00:00"
+        "title": "[r/claudeai] Tradeoff analysis between MCP tools and code generation approaches: What Anthropic's blog post didn't cover",
+        "summary": "https://preview.redd.it/wk4ml047hl1g1.png?width=4169&format=png&auto=webp&s=d9de7439a99d2dd762b516511da015df5c29d4d5 I learned a lot reading Anthropic's post on code execution with MCP which makes some impressive claims about token efficiency. But...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1oyhdye/tradeoff_analysis_between_mcp_tools_and_code/",
+        "published": "2025-11-16T09:25:32+00:00"
       }
     ],
     "ai_news": [
@@ -233,31 +233,31 @@
         "title": "Anthropic details cyber espionage campaign orchestrated by AI",
         "summary": "Cybersecurity AI",
         "link": "https://www.artificialintelligence-news.com/news/anthropic-details-cyber-espionage-campaign-orchestrated-by-ai/",
-        "published": "2025-11-16T05:25:41.924280+00:00"
+        "published": "2025-11-16T17:14:09.192535+00:00"
       },
       {
         "title": "Visa builds AI commerce infrastructure for the Asia Pacific’s 2026 Pilot",
         "summary": "AI and Us",
         "link": "https://www.artificialintelligence-news.com/news/visa-ai-commerce-intelligent-commerce-2026/",
-        "published": "2025-11-16T05:25:41.924734+00:00"
+        "published": "2025-11-16T17:14:09.192978+00:00"
       },
       {
         "title": "IBM: Data silos are holding back enterprise AI",
         "summary": "World of Work",
         "link": "https://www.artificialintelligence-news.com/news/ibm-data-silos-are-holding-back-enterprise-ai/",
-        "published": "2025-11-16T05:25:41.925158+00:00"
+        "published": "2025-11-16T17:14:09.193414+00:00"
       },
       {
         "title": "The role of machine learning in enhancing cloud-native container security",
         "summary": "Artificial Intelligence, How It Works, Inside AI, Utilities",
         "link": "https://www.artificialintelligence-news.com/news/the-role-of-machine-learning-in-enhancing-cloud-native-container-security/",
-        "published": "2025-11-16T05:25:41.925545+00:00"
+        "published": "2025-11-16T17:14:09.193806+00:00"
       },
       {
         "title": "Google’s Veo 3 AI video creation tools are now widely available",
         "summary": "AI in Action, AI Market Trends, Artificial Intelligence",
         "link": "https://www.artificialintelligence-news.com/news/google-veo-3-ai-video-creation-tools-now-widely-available/",
-        "published": "2025-11-16T05:25:41.926179+00:00"
+        "published": "2025-11-16T17:14:09.194509+00:00"
       }
     ],
     "crescendo": [
@@ -265,25 +265,25 @@
         "title": "Crescendo Unveils Multimodal AI: A First for Customer Experience",
         "summary": "Crescendo Unveils Multimodal AI: A First for Customer Experience",
         "link": "https://crescendo.ai/news/crescendo-unveils-multimodal-ai-a-first-for-customer-experience",
-        "published": "2025-11-16T05:25:42.408043+00:00"
+        "published": "2025-11-16T17:14:09.479071+00:00"
       },
       {
         "title": "All NEWS",
         "summary": "All NEWS",
         "link": "https://crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-        "published": "2025-11-16T05:25:42.410695+00:00"
+        "published": "2025-11-16T17:14:09.481730+00:00"
       },
       {
         "title": "Latest AI Startup Funding News and VC Investment Deals - 2025",
         "summary": "Latest AI Startup Funding News and VC Investment Deals - 2025",
         "link": "https://crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-        "published": "2025-11-16T05:25:42.415590+00:00"
+        "published": "2025-11-16T17:14:09.486608+00:00"
       },
       {
         "title": "The Latest AI News and AI Breakthroughs that Matter Most: 2025",
         "summary": "The Latest AI News and AI Breakthroughs that Matter Most: 2025",
         "link": "https://crescendo.ai/news/latest-ai-news-and-updates",
-        "published": "2025-11-16T05:25:42.416046+00:00"
+        "published": "2025-11-16T17:14:09.487066+00:00"
       }
     ]
   }
