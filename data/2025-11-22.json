@@ -1,6 +1,6 @@
 {
   "date": "2025-11-22",
-  "last_updated": "2025-11-22T05:24:44.823857+00:00",
+  "last_updated": "2025-11-22T17:14:12.637611+00:00",
   "collection_status": {
     "total_sources": 6,
     "successful": 3,
@@ -19,91 +19,91 @@
         "title": "We’re open-sourcing our text-to-image model and the process behind it",
         "summary": "We’re open-sourcing our text-to-image model and the process behind it",
         "link": "https://huggingface.co/blog/Photoroom/prx-open-source-t2i-model",
-        "published": "2025-11-22T05:25:12.165519+00:00"
+        "published": "2025-11-22T17:14:13.667704+00:00"
       },
       {
         "title": "Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models",
         "summary": "Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models",
         "link": "https://huggingface.co/blog/ServiceNow-AI/apriel-h1",
-        "published": "2025-11-22T05:25:12.165717+00:00"
+        "published": "2025-11-22T17:14:13.667895+00:00"
       },
       {
         "title": "Text-to-image Architectural Experiments",
         "summary": "Text-to-image Architectural Experiments",
         "link": "https://huggingface.co/blog/Photoroom/prx-part1-architectures",
-        "published": "2025-11-22T05:25:12.165884+00:00"
+        "published": "2025-11-22T17:14:13.668072+00:00"
       },
       {
         "title": "Introducing Cogito v2.1",
         "summary": "Introducing Cogito v2.1",
         "link": "https://huggingface.co/blog/deepcogito/cogito-v2-1",
-        "published": "2025-11-22T05:25:12.166046+00:00"
+        "published": "2025-11-22T17:14:13.668235+00:00"
       },
       {
         "title": "Projected Abliteration",
         "summary": "Projected Abliteration",
         "link": "https://huggingface.co/blog/grimjim/projected-abliteration",
-        "published": "2025-11-22T05:25:12.166212+00:00"
+        "published": "2025-11-22T17:14:13.668392+00:00"
       },
       {
         "title": "AI Model Optimization More Flexible Than Ever",
         "summary": "AI Model Optimization More Flexible Than Ever",
         "link": "https://huggingface.co/blog/PrunaAI/ai-model-optimization-flexible",
-        "published": "2025-11-22T05:25:12.166390+00:00"
+        "published": "2025-11-22T17:14:13.668550+00:00"
       },
       {
         "title": "The Heterogeneous Feature of RoPE-based Attention in Long-Context LLMs",
         "summary": "The Heterogeneous Feature of RoPE-based Attention in Long-Context LLMs",
         "link": "https://huggingface.co/blog/SII-xrliu/heterogeneous-features",
-        "published": "2025-11-22T05:25:12.166557+00:00"
+        "published": "2025-11-22T17:14:13.668713+00:00"
       },
       {
         "title": "Uncensor any LLM with abliteration",
         "summary": "Uncensor any LLM with abliteration",
         "link": "https://huggingface.co/blog/mlabonne/abliteration",
-        "published": "2025-11-22T05:25:12.166716+00:00"
+        "published": "2025-11-22T17:14:13.668876+00:00"
       },
       {
         "title": "ViDoRe V3: a comprehensive evaluation of retrieval for enterprise use-cases",
         "summary": "ViDoRe V3: a comprehensive evaluation of retrieval for enterprise use-cases",
         "link": "https://huggingface.co/blog/QuentinJG/introducing-vidore-v3",
-        "published": "2025-11-22T05:25:12.166881+00:00"
+        "published": "2025-11-22T17:14:13.669032+00:00"
       },
       {
         "title": "Norm-Preserving Biprojected Abliteration",
         "summary": "Norm-Preserving Biprojected Abliteration",
         "link": "https://huggingface.co/blog/grimjim/norm-preserving-biprojected-abliteration",
-        "published": "2025-11-22T05:25:12.167038+00:00"
+        "published": "2025-11-22T17:14:13.669201+00:00"
       },
       {
         "title": "The Pharmome Map: a comprehensive public dataset for drug-target interaction modeling",
         "summary": "The Pharmome Map: a comprehensive public dataset for drug-target interaction modeling",
         "link": "https://huggingface.co/blog/hugging-science/eve-bio-mapping-the-pharmone-drug-interaction",
-        "published": "2025-11-22T05:25:12.167193+00:00"
-      },
-      {
-        "title": "To Think or Not to Think: A Router for Hybrid LLMs",
-        "summary": "To Think or Not to Think: A Router for Hybrid LLMs",
-        "link": "https://huggingface.co/blog/AmirMohseni/reasoning-router",
-        "published": "2025-11-22T05:25:12.167361+00:00"
-      },
-      {
-        "title": "How to make NeuTTS-air generate over 200 seconds of audio in a single second.",
-        "summary": "How to make NeuTTS-air generate over 200 seconds of audio in a single second.",
-        "link": "https://huggingface.co/blog/YatharthS/making-neutts-200x-realtime",
-        "published": "2025-11-22T05:25:12.167519+00:00"
+        "published": "2025-11-22T17:14:13.669355+00:00"
       },
       {
         "title": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "summary": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "link": "https://huggingface.co/blog/not-lain/kv-caching",
-        "published": "2025-11-22T05:25:12.167673+00:00"
+        "published": "2025-11-22T17:14:13.669509+00:00"
       },
       {
-        "title": "Why Did MiniMax M2 End Up as a Full Attention Model?",
-        "summary": "Why Did MiniMax M2 End Up as a Full Attention Model?",
-        "link": "https://huggingface.co/blog/MiniMax-AI/why-did-m2-end-up-as-a-full-attention-model",
-        "published": "2025-11-22T05:25:12.167827+00:00"
+        "title": "How to make NeuTTS-air generate over 200 seconds of audio in a single second.",
+        "summary": "How to make NeuTTS-air generate over 200 seconds of audio in a single second.",
+        "link": "https://huggingface.co/blog/YatharthS/making-neutts-200x-realtime",
+        "published": "2025-11-22T17:14:13.669662+00:00"
+      },
+      {
+        "title": "To Think or Not to Think: A Router for Hybrid LLMs",
+        "summary": "To Think or Not to Think: A Router for Hybrid LLMs",
+        "link": "https://huggingface.co/blog/AmirMohseni/reasoning-router",
+        "published": "2025-11-22T17:14:13.669813+00:00"
+      },
+      {
+        "title": "🧠 SQaLe: Enabling new Text-to-SQL models with our massive dataset",
+        "summary": "🧠 SQaLe: Enabling new Text-to-SQL models with our massive dataset",
+        "link": "https://huggingface.co/blog/cwolff/sqale",
+        "published": "2025-11-22T17:14:13.669968+00:00"
       }
     ],
     "producthunt": [],
@@ -113,31 +113,31 @@
         "title": "WorldGen: Meta reveals generative AI for interactive 3D worlds",
         "summary": "AI in Action",
         "link": "https://www.artificialintelligence-news.com/news/worldgen-meta-generative-ai-for-interactive-3d-worlds/",
-        "published": "2025-11-22T05:25:20.196752+00:00"
+        "published": "2025-11-22T17:14:21.455191+00:00"
       },
       {
         "title": "ChatGPT group chats may help teams bring AI into daily planning",
         "summary": "World of Work",
         "link": "https://www.artificialintelligence-news.com/news/chatgpt-group-chats-may-help-teams-bring-ai-into-daily-planning/",
-        "published": "2025-11-22T05:25:20.197194+00:00"
+        "published": "2025-11-22T17:14:21.455628+00:00"
       },
       {
         "title": "How the Royal Navy is using AI to cut its recruitment workload",
         "summary": "Workforce & HR AI",
         "link": "https://www.artificialintelligence-news.com/news/how-the-royal-navy-is-using-ai-to-cut-recruitment-workload/",
-        "published": "2025-11-22T05:25:20.197634+00:00"
+        "published": "2025-11-22T17:14:21.456061+00:00"
       },
       {
         "title": "The role of machine learning in enhancing cloud-native container security",
         "summary": "Artificial Intelligence, How It Works, Inside AI, Utilities",
         "link": "https://www.artificialintelligence-news.com/news/the-role-of-machine-learning-in-enhancing-cloud-native-container-security/",
-        "published": "2025-11-22T05:25:20.198033+00:00"
+        "published": "2025-11-22T17:14:21.456463+00:00"
       },
       {
         "title": "Google’s Veo 3 AI video creation tools are now widely available",
         "summary": "AI in Action, AI Market Trends, Artificial Intelligence",
         "link": "https://www.artificialintelligence-news.com/news/google-veo-3-ai-video-creation-tools-now-widely-available/",
-        "published": "2025-11-22T05:25:20.198677+00:00"
+        "published": "2025-11-22T17:14:21.457099+00:00"
       }
     ],
     "crescendo": [
@@ -145,31 +145,31 @@
         "title": "Crescendo Launches Multimodal AI Shopping Assistant to Turn Browsing into Buying",
         "summary": "Crescendo Launches Multimodal AI Shopping Assistant to Turn Browsing into Buying",
         "link": "https://crescendo.ai/news/crescendo-launches-multimodal-ai-shopping-assistant-to-turn-browsing-into-buying",
-        "published": "2025-11-22T05:25:20.924922+00:00"
+        "published": "2025-11-22T17:14:22.076968+00:00"
       },
       {
         "title": "Crescendo Unveils Multimodal AI: A First for Customer Experience",
         "summary": "Crescendo Unveils Multimodal AI: A First for Customer Experience",
         "link": "https://crescendo.ai/news/crescendo-unveils-multimodal-ai-a-first-for-customer-experience",
-        "published": "2025-11-22T05:25:20.925241+00:00"
+        "published": "2025-11-22T17:14:22.077305+00:00"
       },
       {
         "title": "All NEWS",
         "summary": "All NEWS",
         "link": "https://crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-        "published": "2025-11-22T05:25:20.927761+00:00"
+        "published": "2025-11-22T17:14:22.079831+00:00"
       },
       {
         "title": "Latest AI Startup Funding News and VC Investment Deals - 2025",
         "summary": "Latest AI Startup Funding News and VC Investment Deals - 2025",
         "link": "https://crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-        "published": "2025-11-22T05:25:20.932724+00:00"
+        "published": "2025-11-22T17:14:22.084737+00:00"
       },
       {
         "title": "The Latest AI News and AI Breakthroughs that Matter Most: 2025",
         "summary": "The Latest AI News and AI Breakthroughs that Matter Most: 2025",
         "link": "https://crescendo.ai/news/latest-ai-news-and-updates",
-        "published": "2025-11-22T05:25:20.933167+00:00"
+        "published": "2025-11-22T17:14:22.085210+00:00"
       }
     ]
   }
