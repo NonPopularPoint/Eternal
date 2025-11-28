@@ -1,6 +1,6 @@
 {
   "date": "2025-11-28",
-  "last_updated": "2025-11-28T05:27:41.015243+00:00",
+  "last_updated": "2025-11-28T17:15:25.899841+00:00",
   "collection_status": {
     "total_sources": 6,
     "successful": 4,
@@ -18,91 +18,91 @@
         "title": "OVHcloud on Hugging Face Inference Providers 🔥",
         "summary": "OVHcloud on Hugging Face Inference Providers 🔥",
         "link": "https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud",
-        "published": "2025-11-28T05:27:41.949566+00:00"
-      },
-      {
-        "title": "Norm-Preserving Biprojected Abliteration",
-        "summary": "Norm-Preserving Biprojected Abliteration",
-        "link": "https://huggingface.co/blog/grimjim/norm-preserving-biprojected-abliteration",
-        "published": "2025-11-28T05:27:41.949754+00:00"
+        "published": "2025-11-28T17:15:26.990508+00:00"
       },
       {
         "title": "Curating datasets directly on the Hub",
         "summary": "Curating datasets directly on the Hub",
         "link": "https://huggingface.co/blog/dvilasuero/curating-datasets-on-the-hub",
-        "published": "2025-11-28T05:27:41.949937+00:00"
+        "published": "2025-11-28T17:15:26.990703+00:00"
       },
       {
-        "title": "How to make NeuTTS-air generate over 200 seconds of audio in a single second.",
-        "summary": "How to make NeuTTS-air generate over 200 seconds of audio in a single second.",
-        "link": "https://huggingface.co/blog/YatharthS/making-neutts-200x-realtime",
-        "published": "2025-11-28T05:27:41.950106+00:00"
-      },
-      {
-        "title": "Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models",
-        "summary": "Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models",
-        "link": "https://huggingface.co/blog/ServiceNow-AI/apriel-h1",
-        "published": "2025-11-28T05:27:41.950265+00:00"
+        "title": "Norm-Preserving Biprojected Abliteration",
+        "summary": "Norm-Preserving Biprojected Abliteration",
+        "link": "https://huggingface.co/blog/grimjim/norm-preserving-biprojected-abliteration",
+        "published": "2025-11-28T17:15:26.990868+00:00"
       },
       {
         "title": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "summary": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "link": "https://huggingface.co/blog/not-lain/kv-caching",
-        "published": "2025-11-28T05:27:41.950421+00:00"
+        "published": "2025-11-28T17:15:26.991035+00:00"
+      },
+      {
+        "title": "How to make NeuTTS-air generate over 200 seconds of audio in a single second.",
+        "summary": "How to make NeuTTS-air generate over 200 seconds of audio in a single second.",
+        "link": "https://huggingface.co/blog/YatharthS/making-neutts-200x-realtime",
+        "published": "2025-11-28T17:15:26.991196+00:00"
       },
       {
         "title": "Building Deep Research: How we Achieved State of the Art",
         "summary": "Building Deep Research: How we Achieved State of the Art",
         "link": "https://huggingface.co/blog/Tavily/tavily-deep-research",
-        "published": "2025-11-28T05:27:41.950578+00:00"
+        "published": "2025-11-28T17:15:26.991374+00:00"
       },
       {
         "title": "Announcing the LLM Open Finance models",
         "summary": "Announcing the LLM Open Finance models",
         "link": "https://huggingface.co/blog/DragonLLM/llm-open-finance-models",
-        "published": "2025-11-28T05:27:41.950738+00:00"
+        "published": "2025-11-28T17:15:26.991533+00:00"
       },
       {
         "title": "A Guide to Hugging Face’s Papers Page",
         "summary": "A Guide to Hugging Face’s Papers Page",
         "link": "https://huggingface.co/blog/AdinaY/a-guide-to-hugging-faces-papers-page",
-        "published": "2025-11-28T05:27:41.950965+00:00"
+        "published": "2025-11-28T17:15:26.991696+00:00"
       },
       {
         "title": "The 1 Billion Token Challenge: Finding the Perfect Pre-training Mix",
         "summary": "The 1 Billion Token Challenge: Finding the Perfect Pre-training Mix",
         "link": "https://huggingface.co/blog/codelion/optimal-dataset-mixing",
-        "published": "2025-11-28T05:27:41.951125+00:00"
+        "published": "2025-11-28T17:15:26.991908+00:00"
       },
       {
-        "title": "From GRPO to DAPO and GSPO: What, Why, and How",
-        "summary": "From GRPO to DAPO and GSPO: What, Why, and How",
-        "link": "https://huggingface.co/blog/NormalUhr/grpo-to-dapo-and-gspo",
-        "published": "2025-11-28T05:27:41.951283+00:00"
-      },
-      {
-        "title": "We’re open-sourcing our text-to-image model and the process behind it",
-        "summary": "We’re open-sourcing our text-to-image model and the process behind it",
-        "link": "https://huggingface.co/blog/Photoroom/prx-open-source-t2i-model",
-        "published": "2025-11-28T05:27:41.951436+00:00"
-      },
-      {
-        "title": "Introduction to State Space Models (SSM)",
-        "summary": "Introduction to State Space Models (SSM)",
-        "link": "https://huggingface.co/blog/lbourdois/get-on-the-ssm-train",
-        "published": "2025-11-28T05:27:41.951587+00:00"
-      },
-      {
-        "title": "Uncensor any LLM with abliteration",
-        "summary": "Uncensor any LLM with abliteration",
-        "link": "https://huggingface.co/blog/mlabonne/abliteration",
-        "published": "2025-11-28T05:27:41.951738+00:00"
+        "title": "Gemini-3 Benchmarkathon",
+        "summary": "Gemini-3 Benchmarkathon",
+        "link": "https://huggingface.co/blog/joelniklaus/gemini-3-benchmarkathon",
+        "published": "2025-11-28T17:15:26.992069+00:00"
       },
       {
         "title": "Code a simple RAG from scratch",
         "summary": "Code a simple RAG from scratch",
         "link": "https://huggingface.co/blog/ngxson/make-your-own-rag",
-        "published": "2025-11-28T05:27:41.951904+00:00"
+        "published": "2025-11-28T17:15:26.992246+00:00"
+      },
+      {
+        "title": "From GRPO to DAPO and GSPO: What, Why, and How",
+        "summary": "From GRPO to DAPO and GSPO: What, Why, and How",
+        "link": "https://huggingface.co/blog/NormalUhr/grpo-to-dapo-and-gspo",
+        "published": "2025-11-28T17:15:26.992406+00:00"
+      },
+      {
+        "title": "Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models",
+        "summary": "Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models",
+        "link": "https://huggingface.co/blog/ServiceNow-AI/apriel-h1",
+        "published": "2025-11-28T17:15:26.992561+00:00"
+      },
+      {
+        "title": "Uncensor any LLM with abliteration",
+        "summary": "Uncensor any LLM with abliteration",
+        "link": "https://huggingface.co/blog/mlabonne/abliteration",
+        "published": "2025-11-28T17:15:26.992716+00:00"
+      },
+      {
+        "title": "Mastering Tensor Dimensions in Transformers",
+        "summary": "Mastering Tensor Dimensions in Transformers",
+        "link": "https://huggingface.co/blog/not-lain/tensor-dims",
+        "published": "2025-11-28T17:15:26.992878+00:00"
       }
     ],
     "producthunt": [],
@@ -120,6 +120,24 @@
         "published": "2025-10-31T02:31:34+00:00"
       },
       {
+        "title": "[r/machinelearning] [D] ICLR reverts score to pre-rebuttal and kicked all reviewers",
+        "summary": "The new assigned AC will determine the results. Authors still can add comments. submitted by /u/Ok-Internet-196 [link] [comments]",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1p8x463/d_iclr_reverts_score_to_prerebuttal_and_kicked/",
+        "published": "2025-11-28T15:07:17+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [D] ICLR reviewers being doxed on OpenReview",
+        "summary": "A quick warning to everyone: we've just found out that we were doxed by a public comment as reviewers. Someone posted a public comment using a burner account that doxed our name because we rejected the paper we reviewed. Please check any paper that...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1p8qru0/d_iclr_reviewers_being_doxed_on_openreview/",
+        "published": "2025-11-28T09:34:29+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [D] openreview leak, what should conferences do?",
+        "summary": "No one has an exact knowledge of the situation but it's evident that there is at least one list of peepers with reviewers names and scores. Different people are using this info in different ways, someone allegedly contacted their reviews, others are...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1p8x68n/d_openreview_leak_what_should_conferences_do/",
+        "published": "2025-11-28T15:09:38+00:00"
+      },
+      {
         "title": "[r/machinelearning] [D] Got burned by an Apple ICLR paper — it was withdrawn after my Public Comment.",
         "summary": "So here’s what happened. Earlier this month, a colleague shared an Apple paper on arXiv with me — it was also under review for ICLR 2026. The benchmark they proposed was perfectly aligned with a project we’re working on. I got excited after reading...",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1p82cto/d_got_burned_by_an_apple_iclr_paper_it_was/",
@@ -132,40 +150,22 @@
         "published": "2025-11-28T02:32:12+00:00"
       },
       {
+        "title": "[r/machinelearning] [R] I've been experimenting with GraphRAG pipelines (using Neo4j/LangChain) and I'm wondering how you all handle GDPR deletion requests?",
+        "summary": "It seems like just deleting the node isn't enough because the community summaries and pre-computed embeddings still retain the info. Has anyone seen good open-source tools for \"cleaning\" a Graph RAG index without rebuilding it from scratch? Or is...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1p8zjqm/r_ive_been_experimenting_with_graphrag_pipelines/",
+        "published": "2025-11-28T16:44:37+00:00"
+      },
+      {
         "title": "[r/machinelearning] [D] Openreview All Information Leaks",
         "summary": "All authors, reviewers, ACs are revealed. Now fixed. submitted by /u/Dangerous-Hat1402 [link] [comments]",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1p85vs0/d_openreview_all_information_leaks/",
         "published": "2025-11-27T16:05:40+00:00"
       },
       {
-        "title": "[r/machinelearning] [D] Reminder for ICLR: Sharing your paper's OpenReview page on Social Media gets you desk rejected",
-        "summary": "Someone's paper got desk rejected because they posted a link to the (public) OpenReview page on X for their paper - even though it seems to not be explicitly stated in the guidelines that you must not (haven't checked the ICLR rules myself, just...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1p82dc2/d_reminder_for_iclr_sharing_your_papers/",
-        "published": "2025-11-27T13:35:57+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [R] Unable to find JEPA 2 language alignment model? Anyone working on this topic?",
-        "summary": "I am working on JEPA 2 model and i have checked their github repo https://github.com/facebookresearch/vjepa2 but unable to find language alignment model. Are there any alternative available? submitted by /u/Alternative_Art2984 [link] [comments]",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1p8iwz3/r_unable_to_find_jepa_2_language_alignment_model/",
-        "published": "2025-11-28T01:57:45+00:00"
-      },
-      {
-        "title": "[r/machinelearning] Model can’t learn thin cosmic filaments from galaxy maps. Any advice? [D]",
-        "summary": "Hello everyone, I’m working on a project where I try to predict cosmic filaments from galaxy distributions around clusters. Input: A 256×256 multi-channel image per cluster: raw galaxy points smoothed density gradient magnitude radial distance map...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1p8anko/model_cant_learn_thin_cosmic_filaments_from/",
-        "published": "2025-11-27T19:20:29+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [D] ICLR 2026 vs. LLMs - Discussion Post",
-        "summary": "Top AI conference, ICLR, has just made clear in their most recent blog post (https://blog.iclr.cc/2025/11/19/iclr-2026-response-to-llm-generated-papers-and-reviews/), that they intend to crack down on LLM authors and LLM reviewers for this year's...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1p7me4r/d_iclr_2026_vs_llms_discussion_post/",
-        "published": "2025-11-26T23:03:54+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [R] Any VLMs that are fully reproducible with clear documentation on how to do so?",
-        "summary": "Hello everyone, I’m looking for a recent VLM with results that are truly reproducible, since I want to try out a few architecture ideas. But many papers claim reproducibility without giving clear instructions or complete setups, so spending hundreds...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1p813js/r_any_vlms_that_are_fully_reproducible_with_clear/",
-        "published": "2025-11-27T12:33:06+00:00"
+        "title": "[r/machinelearning] [P] Learning without fine-tuning: Open-source framework takes browser automation from 30% → 100% success through in-context learning",
+        "summary": "Posted here a month ago about my open-source implementation of Stanford's Agentic Context Engineering paper and got some concrete results + easier integrations now! How it works: The framework makes agents learn from their own execution feedback...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1p904gu/p_learning_without_finetuning_opensource/",
+        "published": "2025-11-28T17:06:29+00:00"
       },
       {
         "title": "[r/claudeai] Usage Limits, Bugs and Performance Discussion Megathread - beginning November 24, 2025",
@@ -180,84 +180,84 @@
         "published": "2025-11-24T18:54:27+00:00"
       },
       {
+        "title": "[r/claudeai] Anthropic's Jack Clark: We are like children in a dark room, but the creatures we see are AIs. Companies are spending a fortune trying to convince us AI is simply a tool - just a pile of clothes on a chair. \"You're guaranteed to lose if you believe the creature isn't real.\" ... \"I am worried.\"",
+        "summary": "submitted by /u/MetaKnowing [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1p8spoz/anthropics_jack_clark_we_are_like_children_in_a/",
+        "published": "2025-11-28T11:36:14+00:00"
+      },
+      {
+        "title": "[r/claudeai] Claude models in Claude Code vs Github Copilot",
+        "summary": "I have got the Claude Code pro 20$ subscription and the Github Copilot pro 10$ subscription and surprisingly the 10$ Copilot is giving me access to Opus 4.5 while Claude Code isn't and I find the requests system in the Github Copilot to be much...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1p8tr9l/claude_models_in_claude_code_vs_github_copilot/",
+        "published": "2025-11-28T12:34:44+00:00"
+      },
+      {
+        "title": "[r/claudeai] Feature Request: Allow deleting individual chat messages/nodes to better steer conversations",
+        "summary": "Currently we can edit messages but can't delete response nodes or properly manage conversation flow. When editing, you also lose the ability to upload files to that message. Google AI Studio has this nailed - you can delete any message (user or...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1p8sryg/feature_request_allow_deleting_individual_chat/",
+        "published": "2025-11-28T11:39:56+00:00"
+      },
+      {
+        "title": "[r/claudeai] Opus 4.5 Really does feel like SOTA.",
+        "summary": "I know this can be another one of those posts, but after switching to GPT-5 and to Gemini 3.0, I decided to check out Opus 4.5 after its rollout. I was impressed, not going to lie. Especially when you look at what the model 'thinks' while generating...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1p8vmwv/opus_45_really_does_feel_like_sota/",
+        "published": "2025-11-28T14:04:41+00:00"
+      },
+      {
+        "title": "[r/claudeai] The amount of things I have been able to accomplish with Opus 4.5",
+        "summary": "I am a solo dev. Pretty much a vibe coder. With a nonstop drive. I built Record & Learn https://apps.apple.com/us/app/record-learn/id6746533232 Claude Opus 4.5 has conquered every single roadblock. Connecting to Apple CloudKit instead of Supabase....",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1p8o0c4/the_amount_of_things_i_have_been_able_to/",
+        "published": "2025-11-28T06:37:55+00:00"
+      },
+      {
         "title": "[r/claudeai] Amp Code switches to Opus 4.5 a week after the \"historic\" switch to Gemini 3.0",
-        "summary": "They are calling it \"historic\" in the sense that they switched to a non-Anthropic model for the first time with Gemini 3.0, now they have switched back. Source: https://ampcode.com/news/opus-4.5 submitted by /u/obvithrowaway34434 [link] [comments]",
+        "summary": "They are calling it \"historic\" in the sense that they switched to a non-Anthropic model for the first time with Gemini 3.0, now they have switched back. Source: https://ampcode.com/news/opus-4.5 Edit: Since I see lot of triggered Google paid/unpaid...",
         "link": "https://www.reddit.com/r/ClaudeAI/comments/1p8hq26/amp_code_switches_to_opus_45_a_week_after_the/",
         "published": "2025-11-28T00:55:50+00:00"
       },
       {
-        "title": "[r/claudeai] Claude Opus 4.5 builds a 3D city with one shot",
-        "summary": "Prompt: Create a 3D city scene using Three.js that features a bustling urban environment with skyscrapers, apartment buildings, and smaller shops lining the streets. Incorporate roads with moving cars, traffic lights, and pedestrian crossings to...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1p87y44/claude_opus_45_builds_a_3d_city_with_one_shot/",
-        "published": "2025-11-27T17:28:09+00:00"
-      },
-      {
-        "title": "[r/claudeai] Claude opus 4.5 incredible",
-        "summary": "I hadn't used Opus models much before due to their cost. I used Sonnet models and thought Claude was limited in this regard. However, I've been actively using the newly released Opus 4.5 on my projects for about a few days now, and I must admit, I...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1p800op/claude_opus_45_incredible/",
-        "published": "2025-11-27T11:32:34+00:00"
+        "title": "[r/claudeai] My Claude Code workflow for learning NextJS (coming from Python/data background)",
+        "summary": "Background: I've been doing Python-based data analysis and development for years. Recently decided to learn NextJS and modern web development. Instead of just copy-pasting AI-generated code, I developed a workflow with Claude Code that actually...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1p8wgwa/my_claude_code_workflow_for_learning_nextjs/",
+        "published": "2025-11-28T14:40:40+00:00"
       },
       {
         "title": "[r/claudeai] I built a TUI to full-text search my Claude Code conversations and jump back in",
-        "summary": "I often wanna hop back into old conversations to bugfix or polish something, but search inside Claude Code is really bad, so I built recall. recall is a snappy TUI to full-text search your past conversations and resume them. Hopefully it might be...",
+        "summary": "I built this because finding old Claude Code / Codex sessions to resume was tedious. recall is a snappy TUI to full-text search your past conversations and resume them. Hopefully it might be useful for someone else. TLDR Run recall in your project's...",
         "link": "https://www.reddit.com/r/ClaudeAI/comments/1p8kq51/i_built_a_tui_to_fulltext_search_my_claude_code/",
         "published": "2025-11-28T03:33:47+00:00"
-      },
-      {
-        "title": "[r/claudeai] Implemented Anthropic's Programmatic Tool Calling with Langchain so you use it with any models and tune it for your own use case",
-        "summary": "I just open-sourced Open PTC Agent, an implementation of Anthropic's Programmatic Tool Calling and Code execution with MCP patterns built on LangChain DeepAgent. What is PTC? Instead of making individual tool calls that return bunch of json...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1p8arsf/implemented_anthropics_programmatic_tool_calling/",
-        "published": "2025-11-27T19:25:26+00:00"
-      },
-      {
-        "title": "[r/claudeai] You can have Claude join a chatGPT group chat.",
-        "summary": "ChatGPT has a new group chat function. Claude desktop can control a Chrome window. So of course we can have them join forces. Here's how you can do it too: Create an ChatGPT chat Create an second, free, chatGPT account Install the Chrome connector...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1p84351/you_can_have_claude_join_a_chatgpt_group_chat/",
-        "published": "2025-11-27T14:52:01+00:00"
-      },
-      {
-        "title": "[r/claudeai] Anthropic CEO called to testify on Chinese AI cyberattack | \"For the first time, we are seeing a foreign adversary use a commercial AI to carry out nearly an entire cyber operation with minimal human involvement. That should concern every federal agency and every sector of critical infrastructure.\"",
-        "summary": "submitted by /u/MetaKnowing [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1p825bq/anthropic_ceo_called_to_testify_on_chinese_ai/",
-        "published": "2025-11-27T13:25:24+00:00"
-      },
-      {
-        "title": "[r/claudeai] look, i admit it, i dont get Agentic coding structure",
-        "summary": "I do my coding in CC as an orchestrated approach, plan.md, claude.md and specific task breakdowns for the particular phase, but ig uide it task to task, which is obviously slow. no matter what i come up with, i can't find a means of creating the sub...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1p8gqtf/look_i_admit_it_i_dont_get_agentic_coding/",
-        "published": "2025-11-28T00:05:28+00:00"
       }
     ],
     "ai_news": [
       {
         "title": "SAP outlines new approach to European AI and cloud sovereignty",
-        "summary": "AI and Us",
+        "summary": "Government & Public Sector AI",
         "link": "https://www.artificialintelligence-news.com/news/sap-outlines-new-approach-to-european-ai-and-cloud-sovereignty/",
-        "published": "2025-11-28T05:27:51.008925+00:00"
+        "published": "2025-11-28T17:15:35.671514+00:00"
       },
       {
         "title": "How the MCP spec update boosts security as infrastructure scales",
         "summary": "How It Works",
         "link": "https://www.artificialintelligence-news.com/news/how-the-mcp-spec-update-boosts-security-as-infrastructure-scales/",
-        "published": "2025-11-28T05:27:51.009360+00:00"
+        "published": "2025-11-28T17:15:35.671949+00:00"
       },
       {
         "title": "Edge AI inside the human body: Cochlear’s machine learning implant breakthrough",
         "summary": "AI and Us",
         "link": "https://www.artificialintelligence-news.com/news/edge-ai-medical-devices-cochlear-implants/",
-        "published": "2025-11-28T05:27:51.009768+00:00"
+        "published": "2025-11-28T17:15:35.672384+00:00"
       },
       {
         "title": "The role of machine learning in enhancing cloud-native container security",
         "summary": "Artificial Intelligence, How It Works, Inside AI, Utilities",
         "link": "https://www.artificialintelligence-news.com/news/the-role-of-machine-learning-in-enhancing-cloud-native-container-security/",
-        "published": "2025-11-28T05:27:51.010168+00:00"
+        "published": "2025-11-28T17:15:35.672776+00:00"
       },
       {
         "title": "Google’s Veo 3 AI video creation tools are now widely available",
         "summary": "AI in Action, AI Market Trends, Artificial Intelligence",
         "link": "https://www.artificialintelligence-news.com/news/google-veo-3-ai-video-creation-tools-now-widely-available/",
-        "published": "2025-11-28T05:27:51.010768+00:00"
+        "published": "2025-11-28T17:15:35.673398+00:00"
       }
     ],
     "crescendo": [
@@ -265,31 +265,31 @@
         "title": "Crescendo Launches Multimodal AI Shopping Assistant to Turn Browsing into Buying",
         "summary": "Crescendo Launches Multimodal AI Shopping Assistant to Turn Browsing into Buying",
         "link": "https://crescendo.ai/news/crescendo-launches-multimodal-ai-shopping-assistant-to-turn-browsing-into-buying",
-        "published": "2025-11-28T05:27:51.914420+00:00"
+        "published": "2025-11-28T17:15:36.441740+00:00"
       },
       {
         "title": "Crescendo Unveils Multimodal AI: A First for Customer Experience",
         "summary": "Crescendo Unveils Multimodal AI: A First for Customer Experience",
         "link": "https://crescendo.ai/news/crescendo-unveils-multimodal-ai-a-first-for-customer-experience",
-        "published": "2025-11-28T05:27:51.914738+00:00"
+        "published": "2025-11-28T17:15:36.442053+00:00"
       },
       {
         "title": "All NEWS",
         "summary": "All NEWS",
         "link": "https://crescendo.ai/news/latest-ai-news-and-updates",
-        "published": "2025-11-28T05:27:51.917221+00:00"
+        "published": "2025-11-28T17:15:36.444518+00:00"
       },
       {
         "title": "The Latest AI News and AI Breakthroughs that Matter Most: 2025",
         "summary": "The Latest AI News and AI Breakthroughs that Matter Most: 2025",
         "link": "https://crescendo.ai/news/latest-ai-news-and-updates",
-        "published": "2025-11-28T05:27:51.922108+00:00"
+        "published": "2025-11-28T17:15:36.449354+00:00"
       },
       {
         "title": "Latest AI Startup Funding News and VC Investment Deals - 2025",
         "summary": "Latest AI Startup Funding News and VC Investment Deals - 2025",
         "link": "https://crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-        "published": "2025-11-28T05:27:51.922556+00:00"
+        "published": "2025-11-28T17:15:36.449796+00:00"
       }
     ]
   }
