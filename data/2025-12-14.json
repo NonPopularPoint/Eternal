@@ -1,6 +1,6 @@
 {
   "date": "2025-12-14",
-  "last_updated": "2025-12-14T05:27:11.502639+00:00",
+  "last_updated": "2025-12-14T17:14:54.704884+00:00",
   "collection_status": {
     "total_sources": 6,
     "successful": 4,
@@ -18,91 +18,91 @@
         "title": "How We Use Claude Code Skills to Run 1,000+ ML Experiments a Day",
         "summary": "How We Use Claude Code Skills to Run 1,000+ ML Experiments a Day",
         "link": "https://huggingface.co/blog/sionic-ai/claude-code-skills-training",
-        "published": "2025-12-14T05:27:12.704407+00:00"
-      },
-      {
-        "title": "Tensor Parallelism (TP) in Transformers: 5 Minutes to Understand",
-        "summary": "Tensor Parallelism (TP) in Transformers: 5 Minutes to Understand",
-        "link": "https://huggingface.co/blog/qgallouedec/tp",
-        "published": "2025-12-14T05:27:12.704599+00:00"
+        "published": "2025-12-14T17:14:55.464152+00:00"
       },
       {
         "title": "Why You Should Care About Partial Differential Equations (PDEs)",
         "summary": "Why You Should Care About Partial Differential Equations (PDEs)",
         "link": "https://huggingface.co/blog/hugging-science/pde",
-        "published": "2025-12-14T05:27:12.704764+00:00"
+        "published": "2025-12-14T17:14:55.464345+00:00"
+      },
+      {
+        "title": "Tensor Parallelism (TP) in Transformers: 5 Minutes to Understand",
+        "summary": "Tensor Parallelism (TP) in Transformers: 5 Minutes to Understand",
+        "link": "https://huggingface.co/blog/qgallouedec/tp",
+        "published": "2025-12-14T17:14:55.464530+00:00"
       },
       {
         "title": "MiniGuard-v0.1: Prem's Guardrail Model Redefining the Pareto Frontier",
         "summary": "MiniGuard-v0.1: Prem's Guardrail Model Redefining the Pareto Frontier",
         "link": "https://huggingface.co/blog/prem-research/miniguard-tech-report",
-        "published": "2025-12-14T05:27:12.704943+00:00"
+        "published": "2025-12-14T17:14:55.464690+00:00"
       },
       {
         "title": "Muon vs MuonClip vs Muon+AdamW for Fine-Tuning",
         "summary": "Muon vs MuonClip vs Muon+AdamW for Fine-Tuning",
         "link": "https://huggingface.co/blog/KingNish/optimizer-part1",
-        "published": "2025-12-14T05:27:12.705102+00:00"
+        "published": "2025-12-14T17:14:55.464858+00:00"
       },
       {
         "title": "Make and publish your Reachy Mini App",
         "summary": "Make and publish your Reachy Mini App",
         "link": "https://huggingface.co/blog/pollen-robotics/make-and-publish-your-reachy-mini-apps",
-        "published": "2025-12-14T05:27:12.705258+00:00"
+        "published": "2025-12-14T17:14:55.465024+00:00"
       },
       {
         "title": "I Built a RAG System That Listens to Live BBC News and Answers Questions About \"What Happened 10 Minutes Ago\"",
         "summary": "I Built a RAG System That Listens to Live BBC News and Answers Questions About \"What Happened 10 Minutes Ago\"",
         "link": "https://huggingface.co/blog/RakshitAralimatti/streaming-data-rag",
-        "published": "2025-12-14T05:27:12.705421+00:00"
+        "published": "2025-12-14T17:14:55.465191+00:00"
       },
       {
         "title": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "summary": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "link": "https://huggingface.co/blog/not-lain/kv-caching",
-        "published": "2025-12-14T05:27:12.705585+00:00"
-      },
-      {
-        "title": "🛡️ Nemotron PII: Synthesized Data for Privacy-Preserving AI",
-        "summary": "🛡️ Nemotron PII: Synthesized Data for Privacy-Preserving AI",
-        "link": "https://huggingface.co/blog/nvidia/nemotron-pii",
-        "published": "2025-12-14T05:27:12.705756+00:00"
-      },
-      {
-        "title": "**An Edge-First Generalized LLM LoRA Fine-Tuning Framework for Heterogeneous GPUs**",
-        "summary": "**An Edge-First Generalized LLM LoRA Fine-Tuning Framework for Heterogeneous GPUs**",
-        "link": "https://huggingface.co/blog/qvac/fabric-llm-finetune",
-        "published": "2025-12-14T05:27:12.705933+00:00"
+        "published": "2025-12-14T17:14:55.465354+00:00"
       },
       {
         "title": "DeepSeek-R1 Dissection: Understanding PPO & GRPO Without Any Prior Reinforcement Learning Knowledge",
         "summary": "DeepSeek-R1 Dissection: Understanding PPO & GRPO Without Any Prior Reinforcement Learning Knowledge",
         "link": "https://huggingface.co/blog/NormalUhr/grpo",
-        "published": "2025-12-14T05:27:12.706089+00:00"
+        "published": "2025-12-14T17:14:55.465529+00:00"
+      },
+      {
+        "title": "🛡️ Nemotron PII: Synthesized Data for Privacy-Preserving AI",
+        "summary": "🛡️ Nemotron PII: Synthesized Data for Privacy-Preserving AI",
+        "link": "https://huggingface.co/blog/nvidia/nemotron-pii",
+        "published": "2025-12-14T17:14:55.465689+00:00"
+      },
+      {
+        "title": "**An Edge-First Generalized LLM LoRA Fine-Tuning Framework for Heterogeneous GPUs**",
+        "summary": "**An Edge-First Generalized LLM LoRA Fine-Tuning Framework for Heterogeneous GPUs**",
+        "link": "https://huggingface.co/blog/qvac/fabric-llm-finetune",
+        "published": "2025-12-14T17:14:55.465844+00:00"
       },
       {
         "title": "What is the Hugging Face Community Building?",
         "summary": "What is the Hugging Face Community Building?",
         "link": "https://huggingface.co/blog/evijit/hf-hub-ecosystem-overview",
-        "published": "2025-12-14T05:27:12.706243+00:00"
-      },
-      {
-        "title": "TurkColBERT: A Benchmark of Dense and Late-Interaction Models for Turkish Information Retrieval",
-        "summary": "TurkColBERT: A Benchmark of Dense and Late-Interaction Models for Turkish Information Retrieval",
-        "link": "https://huggingface.co/blog/nmmursit/late-interaction-models",
-        "published": "2025-12-14T05:27:12.706398+00:00"
+        "published": "2025-12-14T17:14:55.465998+00:00"
       },
       {
         "title": "The 1 Billion Token Challenge: Finding the Perfect Pre-training Mix",
         "summary": "The 1 Billion Token Challenge: Finding the Perfect Pre-training Mix",
         "link": "https://huggingface.co/blog/codelion/optimal-dataset-mixing",
-        "published": "2025-12-14T05:27:12.706550+00:00"
+        "published": "2025-12-14T17:14:55.466148+00:00"
       },
       {
         "title": "ViDoRe V3: a comprehensive evaluation of retrieval for enterprise use-cases",
         "summary": "ViDoRe V3: a comprehensive evaluation of retrieval for enterprise use-cases",
         "link": "https://huggingface.co/blog/QuentinJG/introducing-vidore-v3",
-        "published": "2025-12-14T05:27:12.706705+00:00"
+        "published": "2025-12-14T17:14:55.466300+00:00"
+      },
+      {
+        "title": "Norm-Preserving Biprojected Abliteration",
+        "summary": "Norm-Preserving Biprojected Abliteration",
+        "link": "https://huggingface.co/blog/grimjim/norm-preserving-biprojected-abliteration",
+        "published": "2025-12-14T17:14:55.466465+00:00"
       }
     ],
     "producthunt": [],
@@ -126,6 +126,18 @@
         "published": "2025-12-14T02:33:21+00:00"
       },
       {
+        "title": "[r/machinelearning] [D] Causal ML, did a useful survey or textbook emerge?",
+        "summary": "Hi, asking if a unified resource emerged on Causal ML. To be clear, I am asking specifically (and kindly) for a coherent and comparative discussion of some of the more recent advances (10y). I am hoping for a research survey/primer or a graduate...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1pmd5ul/d_causal_ml_did_a_useful_survey_or_textbook_emerge/",
+        "published": "2025-12-14T12:41:17+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [D] On the linear trap of autoregression",
+        "summary": "Hi, during a casual conversation with a colleague, he mentioned the concept of the linearity trap, which seems to stem from the autoregressive feature of LLMs. However, he didn't seem to have much domain-specific knowledge, so I didn't get a good...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1pmd9n2/d_on_the_linear_trap_of_autoregression/",
+        "published": "2025-12-14T12:47:08+00:00"
+      },
+      {
         "title": "[r/machinelearning] [D] Do Some Research Areas Get an Easier Accept? The Quiet Biases Hiding in ICLR's Peer Review",
         "summary": "Hey all, So I am sure you already know the ICLR drama this year + since reciprocal reviewing, authors have struggled with reviews. Well, I scraped public OpenReview metadata for ICLR 2018–2025 and did a simple analysis of acceptance vs (i) review...",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1plwkqz/d_do_some_research_areas_get_an_easier_accept_the/",
@@ -138,34 +150,22 @@
         "published": "2025-12-13T23:46:35+00:00"
       },
       {
+        "title": "[r/machinelearning] [D] Video/Image genAI startup coding interview advise.",
+        "summary": "Hi, I am applying for a video/image generation startup, and they have set up a coding interview. The recruiter was a bit vague and said they might ask you to code the transformer model. Can you suggest what should I prepare? So far I am planning to...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1pm7dbt/d_videoimage_genai_startup_coding_interview_advise/",
+        "published": "2025-12-14T06:32:20+00:00"
+      },
+      {
         "title": "[r/machinelearning] [D] How does Claude perform so well without any proprietary data?",
         "summary": "Google has massive proprietary assets (Search, Gmail, Docs, YouTube). Microsoft/OpenAI has GitHub, Bing, Office, and enterprise data. xAI has direct access to Twitter/X's social data. Meta has facebook data. Anthropic (Claude) however, doesn't...",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1plg1gs/d_how_does_claude_perform_so_well_without_any/",
         "published": "2025-12-13T07:54:04+00:00"
       },
       {
-        "title": "[r/machinelearning] [D] On the essence of the diffusion model",
-        "summary": "Hi all, I am learning about diffusion models and want to understand their essence rather than just applications. My initial understanding is that diffusion models can generate a series of new data starting from isotropic Gaussian noise. I noticed...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1pkuoay/d_on_the_essence_of_the_diffusion_model/",
-        "published": "2025-12-12T15:26:33+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [P] AI Voice Cloning with Coqui XTTS-v2 on Google Colab (Free)",
-        "summary": "https://preview.redd.it/0jsfej11tx6g1.jpg?width=1280&format=pjpg&auto=webp&s=375e636f85d508fee99a67e6a86d0796030878f5 XTTS-v2 (1.8GB pretrained model from Coqui AI), PyTorch 2.1.0 with CUDA support, Runs on Google Colab's free T4 (16GB) GPU,...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1plh4b3/p_ai_voice_cloning_with_coqui_xttsv2_on_google/",
-        "published": "2025-12-13T09:06:10+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [D] GPT confidently generated a fake NeurIPS architecture. Loss function, code, the works. How does this get fixed?",
-        "summary": "I asked ChatGPT a pretty normal research style question. Nothing too fancy. Just wanted a summary of a supposed NeurIPS 2021 architecture called NeuroCascade by J. P. Hollingsworth. (Neither the architecture nor the author exists.) NeuroCascade is a...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1pkrc6c/d_gpt_confidently_generated_a_fake_neurips/",
-        "published": "2025-12-12T13:02:44+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [D] Question about cognition in AI systems",
-        "summary": "Discussion: Serious question: If an AI system shows strong reasoning, planning, and language ability, but has – no persistent identity across time, – no endogenous goals, and – no embodiment that binds meaning to consequence, in what sense is it...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1pljfsj/d_question_about_cognition_in_ai_systems/",
-        "published": "2025-12-13T11:39:39+00:00"
+        "title": "[r/machinelearning] [P] Teaching AI to Beat Crash Bandicoot with Deep Reinforcement Learning",
+        "summary": "Hello everyone!!!! I'm uploading a new version of my training environment and it already includes Street Fighter 4 training on the Citra (3DS) emulator. This is the core of my Street Fighter 6 training!!!!! If you want to take a look and test my...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1pmdsqu/p_teaching_ai_to_beat_crash_bandicoot_with_deep/",
+        "published": "2025-12-14T13:15:09+00:00"
       },
       {
         "title": "[r/claudeai] Usage Limits, Bugs and Performance Discussion Megathread - beginning December 8, 2025",
@@ -180,52 +180,52 @@
         "published": "2025-12-09T18:07:57+00:00"
       },
       {
+        "title": "[r/claudeai] Opus 4.5 is the first model that makes me actually fear for my job",
+        "summary": "All models so far were okay'ish at best. Opus 4.5 really is something else. People who haven't tried it yet do not know what's coming for us in the next 2-3 years, hell, even next year might be the final turning point already. I don't know how to...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1pmgk5c/opus_45_is_the_first_model_that_makes_me_actually/",
+        "published": "2025-12-14T15:21:44+00:00"
+      },
+      {
+        "title": "[r/claudeai] OMG Opus 4.5 !!!",
+        "summary": "I want to cry as Opus 4.5 is soooooo good ! Anthropic guys you did a perfect job !! My dream to have this locally! What do you think all ? submitted by /u/Hamzo-kun [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1pmbh9b/omg_opus_45/",
+        "published": "2025-12-14T11:00:50+00:00"
+      },
+      {
+        "title": "[r/claudeai] Am I the only one who can't go back to ChatGPT once addicted to Claude?",
+        "summary": "I've been a ChatGPT user since the very beginning (late 2022) and jumped on the paid Plus version as soon as they offered it in 2023. I knew there were competitors stepping up their game like Claude, Gemini, Grok, but I never gave them a try. Until...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1pmcxb9/am_i_the_only_one_who_cant_go_back_to_chatgpt/",
+        "published": "2025-12-14T12:28:05+00:00"
+      },
+      {
+        "title": "[r/claudeai] A Heartfelt Thanks to Anthropic",
+        "summary": "I just want to express my profound gratitude to Anthropic for Opus 4.5. I had been using ChatGPT 5.1/5.2 for my writing project and the model had deteriorated so far that it had become functionally unusable (yes, I started over clean and it was the...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1pmcynp/a_heartfelt_thanks_to_anthropic/",
+        "published": "2025-12-14T12:30:06+00:00"
+      },
+      {
+        "title": "[r/claudeai] Cause for my addiction: Claude",
+        "summary": "I used to read about drug dealers giving the first hit free and finally got the marketing logic. I was fine paying $20 for Claude. Then I tried Opus 4.5 two days ago. Every half baked project I had suddenly moved forward. I upgraded to $100. Now...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1pmfznt/cause_for_my_addiction_claude/",
+        "published": "2025-12-14T14:57:24+00:00"
+      },
+      {
         "title": "[r/claudeai] I told Claude to make a banner for this subreddit...",
         "summary": "submitted by /u/jarvistheagilegoat [link] [comments]",
         "link": "https://www.reddit.com/r/ClaudeAI/comments/1plupcl/i_told_claude_to_make_a_banner_for_this_subreddit/",
         "published": "2025-12-13T20:08:17+00:00"
       },
       {
-        "title": "[r/claudeai] How do you guys maintain a large AI-written codebase?",
-        "summary": "I use Opus 4.5 via Claude Code. Lately I’ve been using it to write me pretty amazing NextJS apps. The problem is, although the code works, it becomes a nightmare to maintain because I don’t have the codebase in my head. So maintenance and keeping...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1plse94/how_do_you_guys_maintain_a_large_aiwritten/",
-        "published": "2025-12-13T18:31:21+00:00"
+        "title": "[r/claudeai] \"Now i have a complete picture\" is the new \"You're absolutely right!\".",
+        "summary": "imo submitted by /u/MemoryMission9151 [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1pmdj35/now_i_have_a_complete_picture_is_the_new_youre/",
+        "published": "2025-12-14T13:01:22+00:00"
       },
       {
         "title": "[r/claudeai] Santa Claude is Online. Prompt in your wishes.",
         "summary": "submitted by /u/Successful-Scene-799 [link] [comments]",
         "link": "https://www.reddit.com/r/ClaudeAI/comments/1plz829/santa_claude_is_online_prompt_in_your_wishes/",
         "published": "2025-12-13T23:29:54+00:00"
-      },
-      {
-        "title": "[r/claudeai] It's over. My craziest vibe-coded project ever",
-        "summary": "https://www.gtastuff.com/ Web-based tools for GTA modding, it let you import RenderWare files (GTA III/VC/SA), preview them, explore their structure in depth, edit, optimize, export, and more. Genuinely shocking. That said, it took hours of...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1plodji/its_over_my_craziest_vibecoded_project_ever/",
-        "published": "2025-12-13T15:44:58+00:00"
-      },
-      {
-        "title": "[r/claudeai] Claude is truly impressive",
-        "summary": "I've been a ChatGPT diehard since december 2022, but this past month or so I've been venturing out. Gemini impressed me with over 100 images a day, and I actually love that I can hard reset with a new chat if i realyl want. But Claude my god. It is...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1plj7uh/claude_is_truly_impressive/",
-        "published": "2025-12-13T11:25:45+00:00"
-      },
-      {
-        "title": "[r/claudeai] I built a searchable directory of Claude Code skills, plugins, MCP servers, and more (Open Source)",
-        "summary": "Got tired of hunting through GitHub, Reddit or Discord for Claude agents every time I started a new project. Built AgentDepot to solve this: https://agentdepot.dev What's in it: - Lot of Claude Code agents/skills/plugins - Installation instructions...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1plrp7v/i_built_a_searchable_directory_of_claude_code/",
-        "published": "2025-12-13T18:02:29+00:00"
-      },
-      {
-        "title": "[r/claudeai] Academic employer is rolling out Claude subscriptions: best uses for humanities faculty?",
-        "summary": "My college is rolling out subscription access to Claude for next semester. We are not a research-heavy institution and I would never use it to write for me. Instead of flatly rejecting it though, I wanted to know what were some of the common,...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1pls2ii/academic_employer_is_rolling_out_claude/",
-        "published": "2025-12-13T18:17:51+00:00"
-      },
-      {
-        "title": "[r/claudeai] I built a tool that configures Claude Code for any GitHub repo in minutes",
-        "summary": "I made Agent Provisioner - a web app that automatically generates optimized .claude configurations for your projects using Claude AI. Connect GitHub, pick a repo, click provision, get a PR with agents, skills, hooks, and settings ready to go. The...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1plxqrc/i_built_a_tool_that_configures_claude_code_for/",
-        "published": "2025-12-13T22:21:48+00:00"
       }
     ],
     "ai_news": [
@@ -233,31 +233,31 @@
         "title": "AI in 2026: Experimental AI concludes as autonomous systems rise",
         "summary": "Features",
         "link": "https://www.artificialintelligence-news.com/news/ai-in-2026-experimental-ai-concludes-autonomous-systems-rise/",
-        "published": "2025-12-14T05:27:22.105119+00:00"
+        "published": "2025-12-14T17:15:03.697285+00:00"
       },
       {
         "title": "BBVA embeds AI into banking workflows using ChatGPT Enterprise",
         "summary": "Finance AI",
         "link": "https://www.artificialintelligence-news.com/news/bbva-embeds-ai-into-banking-workflows-using-chatgpt-enterprise/",
-        "published": "2025-12-14T05:27:22.105556+00:00"
+        "published": "2025-12-14T17:15:03.697733+00:00"
       },
       {
         "title": "Microsoft’s Copilot usage analysis exposes the 2am philosophy question trend",
         "summary": "Human-AI Relationships",
         "link": "https://www.artificialintelligence-news.com/news/copilot-usage-analysis-2am-philosophy-questions/",
-        "published": "2025-12-14T05:27:22.105988+00:00"
+        "published": "2025-12-14T17:15:03.698140+00:00"
       },
       {
         "title": "The role of machine learning in enhancing cloud-native container security",
         "summary": "Artificial Intelligence, How It Works, Inside AI, Utilities",
         "link": "https://www.artificialintelligence-news.com/news/the-role-of-machine-learning-in-enhancing-cloud-native-container-security/",
-        "published": "2025-12-14T05:27:22.106383+00:00"
+        "published": "2025-12-14T17:15:03.698542+00:00"
       },
       {
         "title": "Google’s Veo 3 AI video creation tools are now widely available",
         "summary": "AI in Action, AI Market Trends, Artificial Intelligence",
         "link": "https://www.artificialintelligence-news.com/news/google-veo-3-ai-video-creation-tools-now-widely-available/",
-        "published": "2025-12-14T05:27:22.107003+00:00"
+        "published": "2025-12-14T17:15:03.699141+00:00"
       }
     ],
     "crescendo": [
@@ -265,25 +265,25 @@
         "title": "Crescendo Launches Multimodal AI Shopping Assistant to Turn Browsing into Buying",
         "summary": "Crescendo Launches Multimodal AI Shopping Assistant to Turn Browsing into Buying",
         "link": "https://crescendo.ai/news/crescendo-launches-multimodal-ai-shopping-assistant-to-turn-browsing-into-buying",
-        "published": "2025-12-14T05:27:23.003585+00:00"
+        "published": "2025-12-14T17:15:04.051818+00:00"
       },
       {
         "title": "All NEWS",
         "summary": "All NEWS",
         "link": "https://crescendo.ai/news/latest-ai-news-and-updates",
-        "published": "2025-12-14T05:27:23.006285+00:00"
+        "published": "2025-12-14T17:15:04.054513+00:00"
       },
       {
         "title": "The Latest AI News and AI Breakthroughs that Matter Most: 2025",
         "summary": "The Latest AI News and AI Breakthroughs that Matter Most: 2025",
         "link": "https://crescendo.ai/news/latest-ai-news-and-updates",
-        "published": "2025-12-14T05:27:23.011302+00:00"
+        "published": "2025-12-14T17:15:04.059520+00:00"
       },
       {
         "title": "Crescendo Unveils Multimodal AI: A First for Customer Experience",
         "summary": "Crescendo Unveils Multimodal AI: A First for Customer Experience",
         "link": "https://crescendo.ai/news/crescendo-unveils-multimodal-ai-a-first-for-customer-experience",
-        "published": "2025-12-14T05:27:23.011743+00:00"
+        "published": "2025-12-14T17:15:04.059951+00:00"
       }
     ]
   }
