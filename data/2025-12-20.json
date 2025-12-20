@@ -1,6 +1,6 @@
 {
   "date": "2025-12-20",
-  "last_updated": "2025-12-20T05:27:27.686097+00:00",
+  "last_updated": "2025-12-20T17:15:05.827899+00:00",
   "collection_status": {
     "total_sources": 6,
     "successful": 4,
@@ -18,91 +18,91 @@
         "title": "Nemotron 3 Nano \\- A new Standard for Efficient, Open, and Intelligent Agentic Models",
         "summary": "Nemotron 3 Nano \\- A new Standard for Efficient, Open, and Intelligent Agentic Models",
         "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-efficient-open-intelligent-models",
-        "published": "2025-12-20T05:27:28.575858+00:00"
+        "published": "2025-12-20T17:15:06.865683+00:00"
       },
       {
         "title": "EuroLLM-22B",
         "summary": "EuroLLM-22B",
         "link": "https://huggingface.co/blog/eurollm-team/eurollm-22b",
-        "published": "2025-12-20T05:27:28.576047+00:00"
+        "published": "2025-12-20T17:15:06.865875+00:00"
       },
       {
         "title": "Qwen-Image-i2L: Training Strategies for Image-to-LoRA Generation",
         "summary": "Qwen-Image-i2L: Training Strategies for Image-to-LoRA Generation",
         "link": "https://huggingface.co/blog/kelseye/qwen-image-i2l",
-        "published": "2025-12-20T05:27:28.576211+00:00"
+        "published": "2025-12-20T17:15:06.866040+00:00"
       },
       {
         "title": "Shadow AI - Where are the CIOs?",
         "summary": "Shadow AI - Where are the CIOs?",
         "link": "https://huggingface.co/blog/jeffboudier/shadow-ai",
-        "published": "2025-12-20T05:27:28.576370+00:00"
+        "published": "2025-12-20T17:15:06.866201+00:00"
       },
       {
         "title": "LLM based TTS models",
         "summary": "LLM based TTS models",
         "link": "https://huggingface.co/blog/YatharthS/llm-tts-models",
-        "published": "2025-12-20T05:27:28.576547+00:00"
+        "published": "2025-12-20T17:15:06.866357+00:00"
       },
       {
         "title": "Spinning Up a CPU-Only Micro-LLM with LoRA for Literary Style",
         "summary": "Spinning Up a CPU-Only Micro-LLM with LoRA for Literary Style",
         "link": "https://huggingface.co/blog/salakash/cpu-only-micro-llm-tolstoy",
-        "published": "2025-12-20T05:27:28.576706+00:00"
+        "published": "2025-12-20T17:15:06.866533+00:00"
       },
       {
         "title": "Gotchas in Tokenizer Behavior Every Developer Should Know",
         "summary": "Gotchas in Tokenizer Behavior Every Developer Should Know",
         "link": "https://huggingface.co/blog/qgallouedec/gotchas-in-tokenizer-behavior",
-        "published": "2025-12-20T05:27:28.576862+00:00"
-      },
-      {
-        "title": "Why You Should Care About Partial Differential Equations (PDEs)",
-        "summary": "Why You Should Care About Partial Differential Equations (PDEs)",
-        "link": "https://huggingface.co/blog/hugging-science/pde",
-        "published": "2025-12-20T05:27:28.577029+00:00"
+        "published": "2025-12-20T17:15:06.866694+00:00"
       },
       {
         "title": "How We Use Claude Code Skills to Run 1,000+ ML Experiments a Day",
         "summary": "How We Use Claude Code Skills to Run 1,000+ ML Experiments a Day",
         "link": "https://huggingface.co/blog/sionic-ai/claude-code-skills-training",
-        "published": "2025-12-20T05:27:28.577196+00:00"
+        "published": "2025-12-20T17:15:06.866856+00:00"
       },
       {
-        "title": "MiniGuard-v0.1: Prem's Guardrail Model Redefining the Pareto Frontier",
-        "summary": "MiniGuard-v0.1: Prem's Guardrail Model Redefining the Pareto Frontier",
-        "link": "https://huggingface.co/blog/prem-research/miniguard-tech-report",
-        "published": "2025-12-20T05:27:28.577351+00:00"
+        "title": "Why You Should Care About Partial Differential Equations (PDEs)",
+        "summary": "Why You Should Care About Partial Differential Equations (PDEs)",
+        "link": "https://huggingface.co/blog/hugging-science/pde",
+        "published": "2025-12-20T17:15:06.867014+00:00"
       },
       {
         "title": "Phare LLM benchmark V2: Reasoning models don't guarantee better security",
         "summary": "Phare LLM benchmark V2: Reasoning models don't guarantee better security",
         "link": "https://huggingface.co/blog/davidberenstein1957/phare-llm-benchmark-v2",
-        "published": "2025-12-20T05:27:28.577527+00:00"
+        "published": "2025-12-20T17:15:06.867169+00:00"
       },
       {
         "title": "Announcing LiteCoder-Terminal: Lightweight Terminal Agents with <1k Synthesized Trajectories",
         "summary": "Announcing LiteCoder-Terminal: Lightweight Terminal Agents with <1k Synthesized Trajectories",
         "link": "https://huggingface.co/blog/Lite-Coder/litecoder-terminal-preview",
-        "published": "2025-12-20T05:27:28.577684+00:00"
+        "published": "2025-12-20T17:15:06.867329+00:00"
+      },
+      {
+        "title": "MiniGuard-v0.1: Prem's Guardrail Model Redefining the Pareto Frontier",
+        "summary": "MiniGuard-v0.1: Prem's Guardrail Model Redefining the Pareto Frontier",
+        "link": "https://huggingface.co/blog/prem-research/miniguard-tech-report",
+        "published": "2025-12-20T17:15:06.867484+00:00"
+      },
+      {
+        "title": "Uncensor any LLM with abliteration",
+        "summary": "Uncensor any LLM with abliteration",
+        "link": "https://huggingface.co/blog/mlabonne/abliteration",
+        "published": "2025-12-20T17:15:06.867654+00:00"
       },
       {
         "title": "Make and publish your Reachy Mini App",
         "summary": "Make and publish your Reachy Mini App",
         "link": "https://huggingface.co/blog/pollen-robotics/make-and-publish-your-reachy-mini-apps",
-        "published": "2025-12-20T05:27:28.577836+00:00"
+        "published": "2025-12-20T17:15:06.867809+00:00"
       },
       {
         "title": "cua-bench: A Framework for Benchmarking, Training Data, and RL Environments for Computer-Use Agents",
         "summary": "cua-bench: A Framework for Benchmarking, Training Data, and RL Environments for Computer-Use Agents",
         "link": "https://huggingface.co/blog/cua-ai/cua-bench",
-        "published": "2025-12-20T05:27:28.577989+00:00"
-      },
-      {
-        "title": "Open Collaboration in Action: Inside the Open Safeguard Hackathon",
-        "summary": "Open Collaboration in Action: Inside the Open Safeguard Hackathon",
-        "link": "https://huggingface.co/blog/roosttools/inside-the-open-safeguard-hackathon",
-        "published": "2025-12-20T05:27:28.578141+00:00"
+        "published": "2025-12-20T17:15:06.867963+00:00"
       }
     ],
     "producthunt": [],
@@ -118,6 +118,24 @@
         "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for jobs please use this template Want to be Hired:...",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1pb25zo/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
         "published": "2025-12-01T03:30:53+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [D] Awesome Production Machine Learning - A curated list of OSS libraries to deploy, monitor, version and scale your machine learning",
+        "summary": "submitted by /u/axsauze [link] [comments]",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1prdl23/d_awesome_production_machine_learning_a_curated/",
+        "published": "2025-12-20T12:48:30+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [D] Why I Built KnowGraph: Static Knowledge Graphs for LLM-Centric Code Understanding",
+        "summary": "Most modern LLM-based systems rely heavily on similarity search over embeddings. While effective, this approach often struggles with structural awareness and explainability when applied to large codebases. I built KnowGraph as an experiment in a...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1prif4y/d_why_i_built_knowgraph_static_knowledge_graphs/",
+        "published": "2025-12-20T16:32:12+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [P]looking to contribute to open source projects",
+        "summary": "I am currently in college and completed coursework in ml and build some projects around it and looking to contribute to some open source projects . can anybody suggest some ? submitted by /u/tooo_cool_ [link] [comments]",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1prhzp6/plooking_to_contribute_to_open_source_projects/",
+        "published": "2025-12-20T16:14:08+00:00"
       },
       {
         "title": "[r/machinelearning] [D] Current trend in Machine Learning",
@@ -144,28 +162,10 @@
         "published": "2025-12-19T22:15:27+00:00"
       },
       {
-        "title": "[r/machinelearning] [P] Text to Song search",
-        "summary": "Hi everyone, On may I start my project that is creating Music Playlist automatically. I started with Musicnn model provided from Essentia-Tensorflow, with just cosine similarity between the embbeding themself I was able to obtain good result in song...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1pqxg9m/p_text_to_song_search/",
-        "published": "2025-12-19T21:52:27+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [R] Context awareness and summarization",
-        "summary": "Hi Redditors, I’m exploring a system that compresses long LLM conversations into learned latent memory representations instead of raw text or summaries. The memory is bidirectional: it can be expanded back into relevant context and prioritizes...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1pqv4bt/r_context_awareness_and_summarization/",
-        "published": "2025-12-19T20:13:56+00:00"
-      },
-      {
         "title": "[r/machinelearning] [P] LiteEvo: A framework to lower the barrier for \"Self-Evolution\" research",
         "summary": "I'm sharing LiteEvo, an open-source tool designed to make it easier for researchers and developers to experiment with Self-Evolution. What is Self-Evolution? In short, it's a technique where an agent improves its performance on a specific task by...",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1pql77m/p_liteevo_a_framework_to_lower_the_barrier_for/",
         "published": "2025-12-19T13:32:57+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [P] jax-js is a reimplementation of JAX in pure JavaScript, with a JIT compiler to WebGPU",
-        "summary": "I made an ML library in the browser that can run neural networks and has full support for JIT compilation to WebGPU and so on. https://jax-js.com/ Lots of past great work on \"runtimes\" for ML on the browser, like ONNX / LiteRT / TVM / TensorFlow.js,...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1ppuf3v/p_jaxjs_is_a_reimplementation_of_jax_in_pure/",
-        "published": "2025-12-18T16:00:37+00:00"
       },
       {
         "title": "[r/claudeai] Usage Limits, Bugs and Performance Discussion Megathread - beginning December 15, 2025",
@@ -180,16 +180,34 @@
         "published": "2025-12-18T20:27:05+00:00"
       },
       {
-        "title": "[r/claudeai] Official: Anthropic released Claude code 2.0.73 with 9 CLI changes,details below",
-        "summary": "Claude Code CLI 2.0.73 changelog: • Added clickable [Image #N] links that open attached images in the default viewer. • Added alt-y yank-pop to cycle through kill ring history after ctrl-y yank. • Added search filtering to the plugin discover screen...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1pqsu3y/official_anthropic_released_claude_code_2073_with/",
-        "published": "2025-12-19T18:41:36+00:00"
+        "title": "[r/claudeai] Anthropic just dropped Claude for Chrome – AI that fully controls your browser and crushes real workflows. This demo is absolutely insane 🤯",
+        "summary": "Two days old and already cooking. Anthropic released a Chrome extension that lets Claude see your screen, click, type, scroll, and navigate web pages like a human – but on demand. Watch it in action: https://youtu.be/rBJnWMD0Pho Highlights from the...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1prcypb/anthropic_just_dropped_claude_for_chrome_ai_that/",
+        "published": "2025-12-20T12:12:07+00:00"
+      },
+      {
+        "title": "[r/claudeai] Official: Anthropic just released Claude Code 2.0.74 with 13 CLI and 3 prompt changes, details below.",
+        "summary": "Claude Code CLI 2.0.74 changelog: • Added LSP (Language Server Protocol) tool for code intelligence features like go-to-definition, find references and hover documentation. • Added /terminal-setup support for Kitty, Alacritty, Zed and Warp...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1prblnn/official_anthropic_just_released_claude_code_2074/",
+        "published": "2025-12-20T10:46:09+00:00"
       },
       {
         "title": "[r/claudeai] Claude just worked 3h by itself",
         "summary": "Building a mobile app, and have just begun setting up E2E tests. Completed them on Android yesterday. Today Claude set up an iOS emulator on my osx VM for running E2E tests there as well. Sorted out a blueprint file for tasks that where needed to be...",
         "link": "https://www.reddit.com/r/ClaudeAI/comments/1pqypza/claude_just_worked_3h_by_itself/",
         "published": "2025-12-19T22:47:22+00:00"
+      },
+      {
+        "title": "[r/claudeai] Claude 4.5 Opus is very affordable",
+        "summary": "I don't understand why so many people say that Opus is expensive and look for alternatives. Im using github copilot pro+ (highest sub) for freaking 39$ and it allows me to do be in two projects in my company without hitting limits. I literally...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1pr7mww/claude_45_opus_is_very_affordable/",
+        "published": "2025-12-20T06:27:15+00:00"
+      },
+      {
+        "title": "[r/claudeai] The Opus praise is real",
+        "summary": "I have to admit I was skeptical after opus 4 and 4.1. However, 4.5 is insane in terms of coding. I have been working on a project since August, and Opus is solving problems that took a month to solve. Whatever the did, I hope the trend continues....",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1prfims/the_opus_praise_is_real/",
+        "published": "2025-12-20T14:24:56+00:00"
       },
       {
         "title": "[r/claudeai] Long time senior dev here. Been writing code for a long time. Seen a lot of tools come and go.",
@@ -204,28 +222,10 @@
         "published": "2025-12-20T03:33:23+00:00"
       },
       {
-        "title": "[r/claudeai] Built a full singing practice app in 2 days with Claude Code (Opus 4.5)",
-        "summary": "I built this entirely by speaking to Claude Code - it's a browser-based tool that listens to you sing and shows you in real-time whether you're hitting the note or drifting sharp/flat. Has ~30 exercises (sustained notes, scales, intervals),...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1pqk5ak/built_a_full_singing_practice_app_in_2_days_with/",
-        "published": "2025-12-19T12:42:29+00:00"
-      },
-      {
-        "title": "[r/claudeai] Opus 4.5 is bananas",
-        "summary": "I had been a max user since it came out. I canceled middle of the year when cc 4.0 had all sorts of degradation and I jump to codex Now that opus 4.5 came out and I came back to give it a test run — omfg I think Anthropoc has done with with opine...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1pqmgdj/opus_45_is_bananas/",
-        "published": "2025-12-19T14:28:10+00:00"
-      },
-      {
-        "title": "[r/claudeai] Has anyone here felt Opus 4.5 has genuinely gone well beyond what they thought LLMs could do ?",
-        "summary": "With all of the discussion and news around Opus 4.5, I was wondering about your current evaluation of it. LLMs have been a massive, massive news topic for months now. For some self evident reasons to be sure. They've been considered very limited by...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1pqs0kx/has_anyone_here_felt_opus_45_has_genuinely_gone/",
-        "published": "2025-12-19T18:09:03+00:00"
-      },
-      {
-        "title": "[r/claudeai] Claude Code is a slot machine: experiments.",
-        "summary": "I was curious about claude code consistency. Anthropic says that they run SWE-bench tests 10 times and take average, but they do not publish variability in those tests. Also they run stripped down agent, not claude code in those tests. I ran slimmed...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1pqxiu5/claude_code_is_a_slot_machine_experiments/",
-        "published": "2025-12-19T21:55:31+00:00"
+        "title": "[r/claudeai] GitGud - Skill atrophy prevention for Claude Code",
+        "summary": "Just released GitGud, a small Claude Code plugin I built last night for a problem I noticed in myself: I’m getting faster with AI, but I’m also starting to fear that I offload too much “muscle memory” (debugging steps, small implementations,...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1prdq7e/gitgud_skill_atrophy_prevention_for_claude_code/",
+        "published": "2025-12-20T12:56:34+00:00"
       }
     ],
     "ai_news": [
@@ -233,31 +233,31 @@
         "title": "Marketing agencies using AI in workflows serve more clients",
         "summary": "Marketing AI",
         "link": "https://www.artificialintelligence-news.com/news/marketing-agencies-ai-use-creates-faster-workflows-but-need-restructuring-internally/",
-        "published": "2025-12-20T05:27:36.880334+00:00"
+        "published": "2025-12-20T17:15:15.713671+00:00"
       },
       {
         "title": "50,000 Copilot licences for Indian service companies",
         "summary": "Service Industry AI",
         "link": "https://www.artificialintelligence-news.com/news/service-provider-ai-implementations-india-enterprise-scale-copilot-rollouts/",
-        "published": "2025-12-20T05:27:36.880782+00:00"
+        "published": "2025-12-20T17:15:15.714105+00:00"
       },
       {
         "title": "Zara’s use of AI shows how retail workflows are quietly changing",
         "summary": "Deep Dives",
         "link": "https://www.artificialintelligence-news.com/news/zara-use-of-ai-shows-how-retail-workflows-are-quietly-changing/",
-        "published": "2025-12-20T05:27:36.881193+00:00"
+        "published": "2025-12-20T17:15:15.714512+00:00"
       },
       {
         "title": "The role of machine learning in enhancing cloud-native container security",
         "summary": "Artificial Intelligence, How It Works, Inside AI, Utilities",
         "link": "https://www.artificialintelligence-news.com/news/the-role-of-machine-learning-in-enhancing-cloud-native-container-security/",
-        "published": "2025-12-20T05:27:36.881601+00:00"
+        "published": "2025-12-20T17:15:15.714914+00:00"
       },
       {
         "title": "Google’s Veo 3 AI video creation tools are now widely available",
         "summary": "AI in Action, AI Market Trends, Artificial Intelligence",
         "link": "https://www.artificialintelligence-news.com/news/google-veo-3-ai-video-creation-tools-now-widely-available/",
-        "published": "2025-12-20T05:27:36.882217+00:00"
+        "published": "2025-12-20T17:15:15.715513+00:00"
       }
     ],
     "crescendo": [
@@ -265,25 +265,25 @@
         "title": "Crescendo Launches Multimodal AI Shopping Assistant to Turn Browsing into Buying",
         "summary": "Crescendo Launches Multimodal AI Shopping Assistant to Turn Browsing into Buying",
         "link": "https://crescendo.ai/news/crescendo-launches-multimodal-ai-shopping-assistant-to-turn-browsing-into-buying",
-        "published": "2025-12-20T05:27:37.425033+00:00"
+        "published": "2025-12-20T17:15:16.288977+00:00"
       },
       {
         "title": "All NEWS",
         "summary": "All NEWS",
         "link": "https://crescendo.ai/news/ai-in-healthcare-news",
-        "published": "2025-12-20T05:27:37.427785+00:00"
+        "published": "2025-12-20T17:15:16.291679+00:00"
       },
       {
         "title": "The Latest AI News and Breakthroughs in Healthcare and Medical",
         "summary": "The Latest AI News and Breakthroughs in Healthcare and Medical",
         "link": "https://crescendo.ai/news/ai-in-healthcare-news",
-        "published": "2025-12-20T05:27:37.432835+00:00"
+        "published": "2025-12-20T17:15:16.296688+00:00"
       },
       {
         "title": "Latest Customer Service Industry News: 2025",
         "summary": "Latest Customer Service Industry News: 2025",
         "link": "https://crescendo.ai/news/latest-customer-service-industry-news",
-        "published": "2025-12-20T05:27:37.433278+00:00"
+        "published": "2025-12-20T17:15:16.297132+00:00"
       }
     ]
   }
