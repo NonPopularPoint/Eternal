@@ -1,6 +1,6 @@
 {
   "date": "2026-01-25",
-  "last_updated": "2026-01-25T05:33:43.723977+00:00",
+  "last_updated": "2026-01-25T17:16:15.355201+00:00",
   "collection_status": {
     "total_sources": 6,
     "successful": 4,
@@ -18,91 +18,91 @@
         "title": "LightOnOCR-2-1B: a lightweight high-performance end-to-end OCR model family",
         "summary": "LightOnOCR-2-1B: a lightweight high-performance end-to-end OCR model family",
         "link": "https://huggingface.co/blog/lightonai/lightonocr-2",
-        "published": "2026-01-25T05:33:44.193588+00:00"
+        "published": "2026-01-25T17:16:15.708492+00:00"
       },
       {
         "title": "🪄 Interpreto: A Unified Toolkit for Interpretability of Transformer Models",
         "summary": "🪄 Interpreto: A Unified Toolkit for Interpretability of Transformer Models",
         "link": "https://huggingface.co/blog/Fannyjrd/interpreto",
-        "published": "2026-01-25T05:33:44.193787+00:00"
+        "published": "2026-01-25T17:16:15.708689+00:00"
       },
       {
         "title": "New in llama.cpp: Anthropic Messages API",
         "summary": "New in llama.cpp: Anthropic Messages API",
         "link": "https://huggingface.co/blog/ggml-org/anthropic-messages-api-in-llamacpp",
-        "published": "2026-01-25T05:33:44.193952+00:00"
+        "published": "2026-01-25T17:16:15.708854+00:00"
       },
       {
         "title": "One Year Since the “DeepSeek Moment”",
         "summary": "One Year Since the “DeepSeek Moment”",
         "link": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
-        "published": "2026-01-25T05:33:44.194115+00:00"
+        "published": "2026-01-25T17:16:15.709029+00:00"
       },
       {
         "title": "How We Built a Semantic Highlight Model To Save Token Cost for RAG",
         "summary": "How We Built a Semantic Highlight Model To Save Token Cost for RAG",
         "link": "https://huggingface.co/blog/zilliz/zilliz-semantic-highlight-model",
-        "published": "2026-01-25T05:33:44.194300+00:00"
-      },
-      {
-        "title": "Introducing OptiMind, a research model designed for optimization",
-        "summary": "Introducing OptiMind, a research model designed for optimization",
-        "link": "https://huggingface.co/blog/microsoft/optimind",
-        "published": "2026-01-25T05:33:44.194466+00:00"
+        "published": "2026-01-25T17:16:15.709199+00:00"
       },
       {
         "title": "RexRerankers: SOTA Rankers for Product Discovery and AI Assistants",
         "summary": "RexRerankers: SOTA Rankers for Product Discovery and AI Assistants",
         "link": "https://huggingface.co/blog/thebajajra/rexrerankers",
-        "published": "2026-01-25T05:33:44.194626+00:00"
+        "published": "2026-01-25T17:16:15.709371+00:00"
+      },
+      {
+        "title": "Introducing OptiMind, a research model designed for optimization",
+        "summary": "Introducing OptiMind, a research model designed for optimization",
+        "link": "https://huggingface.co/blog/microsoft/optimind",
+        "published": "2026-01-25T17:16:15.709530+00:00"
       },
       {
         "title": "Challenges of Synthetic Dataset Generation",
         "summary": "Challenges of Synthetic Dataset Generation",
         "link": "https://huggingface.co/blog/rishiraj/challenges-of-synthetic-dataset-generation",
-        "published": "2026-01-25T05:33:44.194790+00:00"
+        "published": "2026-01-25T17:16:15.709691+00:00"
       },
       {
         "title": "LightOnOCR-1B: The Case for End-to-End and Efficient Domain-Specific Vision-Language Models for OCR",
         "summary": "LightOnOCR-1B: The Case for End-to-End and Efficient Domain-Specific Vision-Language Models for OCR",
         "link": "https://huggingface.co/blog/lightonai/lightonocr",
-        "published": "2026-01-25T05:33:44.194951+00:00"
-      },
-      {
-        "title": "Scaling Real-Time Voice Agents with Cache-Aware Streaming ASR",
-        "summary": "Scaling Real-Time Voice Agents with Cache-Aware Streaming ASR",
-        "link": "https://huggingface.co/blog/nvidia/nemotron-speech-asr-scaling-voice-agents",
-        "published": "2026-01-25T05:33:44.195108+00:00"
+        "published": "2026-01-25T17:16:15.709848+00:00"
       },
       {
         "title": "Scaling OpenEnv: From Free Usage to Thousands of Concurrent Environments",
         "summary": "Scaling OpenEnv: From Free Usage to Thousands of Concurrent Environments",
         "link": "https://huggingface.co/blog/burtenshaw/openenv-scaling",
-        "published": "2026-01-25T05:33:44.195263+00:00"
+        "published": "2026-01-25T17:16:15.710031+00:00"
+      },
+      {
+        "title": "Scaling Real-Time Voice Agents with Cache-Aware Streaming ASR",
+        "summary": "Scaling Real-Time Voice Agents with Cache-Aware Streaming ASR",
+        "link": "https://huggingface.co/blog/nvidia/nemotron-speech-asr-scaling-voice-agents",
+        "published": "2026-01-25T17:16:15.710191+00:00"
       },
       {
         "title": "VLM-OCR Recipes on GPU Infrastructure",
         "summary": "VLM-OCR Recipes on GPU Infrastructure",
         "link": "https://huggingface.co/blog/florentgbelidji/vlm-ocr-recipes-gpu-infra",
-        "published": "2026-01-25T05:33:44.195460+00:00"
+        "published": "2026-01-25T17:16:15.710346+00:00"
+      },
+      {
+        "title": "Reverse Engineering a $500M Mystery: From HashHop to Memory-Augmented Language Models",
+        "summary": "Reverse Engineering a $500M Mystery: From HashHop to Memory-Augmented Language Models",
+        "link": "https://huggingface.co/blog/codelion/reverse-engineering-magic-hashhop",
+        "published": "2026-01-25T17:16:15.710518+00:00"
       },
       {
         "title": "Optimizing GLM4-MoE for Production: 65% Faster TTFT with SGLang",
         "summary": "Optimizing GLM4-MoE for Production: 65% Faster TTFT with SGLang",
         "link": "https://huggingface.co/blog/novita/sglang-glm4-moe",
-        "published": "2026-01-25T05:33:44.195620+00:00"
+        "published": "2026-01-25T17:16:15.710671+00:00"
       },
       {
         "title": "Security, Governance and Performance for Dell On-Prem AI Builders",
         "summary": "Security, Governance and Performance for Dell On-Prem AI Builders",
         "link": "https://huggingface.co/blog/balaatdell/security-governance-performance-dell-on-premises",
-        "published": "2026-01-25T05:33:44.195777+00:00"
-      },
-      {
-        "title": "Benchmark Smarter: Tailor Your Model Evaluation Suite with EvalScope",
-        "summary": "Benchmark Smarter: Tailor Your Model Evaluation Suite with EvalScope",
-        "link": "https://huggingface.co/blog/kelseye/index-collection",
-        "published": "2026-01-25T05:33:44.195930+00:00"
+        "published": "2026-01-25T17:16:15.710822+00:00"
       }
     ],
     "producthunt": [],
@@ -120,52 +120,52 @@
         "published": "2025-12-31T03:30:29+00:00"
       },
       {
+        "title": "[r/machinelearning] [D] ICML 2026 - ICML desk-rejected my paper but kept me on as a reviewer. Wow?",
+        "summary": "As the title says, I admire the sheer audacity of the ICML committee. My paper gets desk-rejected, so technically I’m not part of the conference… and yet they’ve assigned me as a continued reviewer. Truly inspiring. Rejected as an author, retained...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1qmhyin/d_icml_2026_icml_deskrejected_my_paper_but_kept/",
+        "published": "2026-01-25T12:34:10+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [D] ICML new policy: reviewers will be reviewed by meta reviewer. Good policy?",
+        "summary": "submitted by /u/Striking-Warning9533 [link] [comments]",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1qmi3oe/d_icml_new_policy_reviewers_will_be_reviewed_by/",
+        "published": "2026-01-25T12:41:18+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [D] AI4PDEs, SciML, Foundational Models: Where are we going?",
+        "summary": "I'm no ML expert, but a master's student working on computational mechanics, PDEs and some deep learning for these topics. I have been following some groups, papers and trends and it is still unclear what is the exact direction in which AI4PDEs and...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1qmg4t3/d_ai4pdes_sciml_foundational_models_where_are_we/",
+        "published": "2026-01-25T10:54:09+00:00"
+      },
+      {
         "title": "[r/machinelearning] [D] ICLR 2026 decision mega thread",
         "summary": "The review is out tomorrow (a few hours remaining following eastern time). I am creating this mega thread to talk about meta reviews and final decisions. After the Openreview fiasco, this will be interesting. Good luck everyone! submitted by...",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1qm32o6/d_iclr_2026_decision_mega_thread/",
         "published": "2026-01-24T23:52:12+00:00"
       },
       {
+        "title": "[r/machinelearning] [D] Error in SIGIR published paper",
+        "summary": "I am just wondering the review quality of SIGIR. I was reading this paper and I found an obvious error. This paper says BGE-M3 is a small model with 100M parameters??? This is not a trivial typo since in RQ2.1, they further emphasize it is a small...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1qml8ht/d_error_in_sigir_published_paper/",
+        "published": "2026-01-25T14:57:08+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [R] Why do some research papers not mention accuracy as a metric?",
+        "summary": "Hi, I am working on foundation models within the space of opthamology and eye diseases. I was reading a paper and to my surprise, the researchers did not list their accuracy scores once throughout the paper, rather mainly the AUC and PRC. I get that...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1qmnnaa/r_why_do_some_research_papers_not_mention/",
+        "published": "2026-01-25T16:26:09+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [P] Understanding Multi-Head Latent Attention (MLA)",
+        "summary": "A short deep-dive on Multi-Head Latent Attention (MLA) (from DeepSeek): intuition + math, then a walk from MHA → GQA → MQA → MLA, with PyTorch code and the fusion/absorption optimizations for KV-cache efficiency....",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1qmjzjd/p_understanding_multihead_latent_attention_mla/",
+        "published": "2026-01-25T14:06:27+00:00"
+      },
+      {
         "title": "[r/machinelearning] [R] Response to CVPR review that claims lack of novelty because they found our workshop preprint?",
         "summary": "We received a weak reject rating from a reviewer whose primary concern was the following: The major weakness of the paper is the strong overlap with the paper [ICMLW2025]... the paper is not clearly cited anywhere in the new manuscript. The paper...",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1qltk8x/r_response_to_cvpr_review_that_claims_lack_of/",
         "published": "2026-01-24T17:47:54+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [R] Missed ICML deadline. It's over for me boys.",
-        "summary": "Polished the hell out of the paper. Missed the abstract registration deadline because I... dosed off. Anyway, the damage is done. So I guess my question now is---wait for NeurIPS or just submit earlier somewhere else? submitted by /u/confirm-jannati...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1qlmm5t/r_missed_icml_deadline_its_over_for_me_boys/",
-        "published": "2026-01-24T13:11:35+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [D] Why are so many ML packages still released using \"requirements.txt\" or \"pip inside conda\" as the only installation instruction?",
-        "summary": "These are often on the \"what you are not supposed to do\" list, so why are they so commonplace in ML? Bare pip / requirements.txt is quite bad at managing conflicts / build environments and is very difficult to integrate into an existing project. On...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1qlhs05/d_why_are_so_many_ml_packages_still_released/",
-        "published": "2026-01-24T08:35:23+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [R] ICML has more than 30k submissions!",
-        "summary": "I made a submission to ICML and was number round 31600. Is this a new record? There are some hours to go, are we reaching 35? submitted by /u/SignificanceFit3409 [link] [comments]",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1qlf3ba/r_icml_has_more_than_30k_submissions/",
-        "published": "2026-01-24T06:02:05+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [P] motcpp; I rewrote common 9 MOT trackers in C++17 achiving 10–100× speedsup than Python implementations in my MOT17 runs!",
-        "summary": "Hi all, I’m sharing motcpp, an open-source C++17 library for multi-object tracking (tracking multiple people/objects across video frames). It’s built for real-time speed and easier deployment than many Python-heavy pipelines. What’s insideTrackers:...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1qlm6v0/p_motcpp_i_rewrote_common_9_mot_trackers_in_c17/",
-        "published": "2026-01-24T12:51:16+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [D] GPU Server best effort for experiment",
-        "summary": "Hi all, I'm starting hitting the limit of my homelab GPU (RTX 5070 8GB or Mac Mini M4 with integrated GPU) with my distillation experiment and is not the right moment to spent thousand euros to get something better. Say that, is there same cloud...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1qlszoa/d_gpu_server_best_effort_for_experiment/",
-        "published": "2026-01-24T17:26:43+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [R] I solved CartPole-v1 using only bitwise ops with Differentiable Logic Synthesis",
-        "summary": "Bitwise CartPole-v1 controller getting perfect score Yeah I know Cart Pole is easy, but I basically distilled the policy down to just bitwise ops on raw bits. The entire logic is exactly 4 rules discovered with \"Differentiable Logic Synthesis\" (I...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1qktalg/r_i_solved_cartpolev1_using_only_bitwise_ops_with/",
-        "published": "2026-01-23T15:08:44+00:00"
       },
       {
         "title": "[r/claudeai] Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025",
@@ -180,52 +180,52 @@
         "published": "2026-01-23T22:56:22+00:00"
       },
       {
+        "title": "[r/claudeai] Giving Claude full access to a laptop",
+        "summary": "What's yalls thoughts on this implementation. submitted by /u/_ganjafarian_ [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qm8tvj/giving_claude_full_access_to_a_laptop/",
+        "published": "2026-01-25T04:10:27+00:00"
+      },
+      {
+        "title": "[r/claudeai] Can you teach Claude to be \"good\"? | Amanda Askell on Claude's Constitution",
+        "summary": "Please check the full podcast episode here. Amanda joins towards 00:24:00. This is important. Claude, like other models, reads the internet as part of its training/learning. The internet is full of people: · Complaining about AI failures. ·...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qmm7zn/can_you_teach_claude_to_be_good_amanda_askell_on/",
+        "published": "2026-01-25T15:34:33+00:00"
+      },
+      {
         "title": "[r/claudeai] my man claude becoming ruder each day 😭",
         "summary": "submitted by /u/Virus-Tight [link] [comments]",
         "link": "https://www.reddit.com/r/ClaudeAI/comments/1qm3l7p/my_man_claude_becoming_ruder_each_day/",
         "published": "2026-01-25T00:14:02+00:00"
       },
       {
-        "title": "[r/claudeai] Easiest way i have found claude to write high quality code . Tell him we work at a hospital every other prompt . (NOT A JOKE)",
-        "summary": "It Sounds Stupid, i do not even work at a hospital . it is by far the easiest way to get claude to write really high quality code. This is a Serious post i am not joking. submitted by /u/ursustyranotitan [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qlpcwg/easiest_way_i_have_found_claude_to_write_high/",
-        "published": "2026-01-24T15:09:05+00:00"
+        "title": "[r/claudeai] How to Actually Secure Your Vibe-Coded Apps",
+        "summary": "If you built an app using AI tools like Claude, Cursor, or Lovable, there's a good chance it has serious security vulnerabilities, even if everything works perfectly. This article breaks down the 5 most common security vulnerabilities found in...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qmhl4t/how_to_actually_secure_your_vibecoded_apps/",
+        "published": "2026-01-25T12:14:47+00:00"
       },
       {
-        "title": "[r/claudeai] I built MARVIN, my personal AI agent, and now 4 of my colleagues are using him too.",
-        "summary": "Over the holiday break, like a lot of other devs, I sat around and started building stuff. One of them was a personal assistant agent that I call MARVIN (yes, that Marvin from Hitchhiker's Guide to the Galaxy). MARVIN runs on Claude Code as the...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qlurq6/i_built_marvin_my_personal_ai_agent_and_now_4_of/",
-        "published": "2026-01-24T18:31:57+00:00"
+        "title": "[r/claudeai] I tested PDF token usage Claude Code vs Claude.ai - Here's what I found",
+        "summary": "I've been hitting context limits way too fast when reading PDFs, so I ran some tests. Turns out there's a known issue that Anthropic hasn't fixed yet. The Known Issue (GitHub #20223) Claude Code's Read tool adds line numbers to every file like this:...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qmjpzn/i_tested_pdf_token_usage_claude_code_vs_claudeai/",
+        "published": "2026-01-25T13:55:19+00:00"
       },
       {
-        "title": "[r/claudeai] My Ralph Wiggum breakdown just got endorsed as the official explainer",
-        "summary": "I made a video breaking down Ralph from first principles. Geoffrey Huntley (the creator of the loop) reached out and designated it as the official explainer. In short: Ralph Wiggum is an autonomous coding loop that lets your Claude work through an...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qlqaub/my_ralph_wiggum_breakdown_just_got_endorsed_as/",
-        "published": "2026-01-24T15:45:47+00:00"
+        "title": "[r/claudeai] Getting a vibe-coded project to 80% is easy. The last 20% almost killed me.",
+        "summary": "Why does the first build of a Claude Code project feel like magic, but then you discover like tons of things that don't work in any way. I'm not here to praise some MCP, skill, plugin, etc; even though those things help a ton, they aren't the...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qml5xg/getting_a_vibecoded_project_to_80_is_easy_the/",
+        "published": "2026-01-25T14:54:15+00:00"
       },
       {
-        "title": "[r/claudeai] Claude Code's Most Underrated Feature: Hooks (wrote a deep dive)",
-        "summary": "I've been using Claude Code daily for months and recently discovered hooks are way more powerful than most people realize. Wrote up everything I learned. What hooks do: Let you run your own code at any point in Claude Code's workflow - before it...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qlzxr1/claude_codes_most_underrated_feature_hooks_wrote/",
-        "published": "2026-01-24T21:45:38+00:00"
+        "title": "[r/claudeai] I built a system to save tokens heavily and stop hitting limits as frequently as Claude Code does",
+        "summary": "Since I've been hitting limits constantly, I went down a rabbit hole to see if there's any way to use fewer tokens. After trying all sorts of techniques within Claude itself, it made more sense to build on top of an open platform so I ended up...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qmhn1w/i_built_a_system_to_save_tokens_heavily_and_stop/",
+        "published": "2026-01-25T12:17:26+00:00"
       },
       {
-        "title": "[r/claudeai] Dario Amodei said \"Contact\" is a favorite film, and thinks a lot about this scene when Jodie Foster says what she'd ask the advanced aliens: \"How did you do it? How did you survive this tech adolescence without destroying yourselves?\"",
-        "summary": "submitted by /u/MetaKnowing [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qlmz1q/dario_amodei_said_contact_is_a_favorite_film_and/",
-        "published": "2026-01-24T13:28:03+00:00"
-      },
-      {
-        "title": "[r/claudeai] Does Claude Pro include Claude Code with Opus 4.5?",
-        "summary": "I’m seeing a 50% off for 3 months offer for Claude Pro (new users) via 👉 claude.ai/jade The plan says “Includes Claude Code”, but it doesn’t mention whether Opus 4.5 is included in Claude Code. That’s important for me because I’m only looking to use...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qlo5tk/does_claude_pro_include_claude_code_with_opus_45/",
-        "published": "2026-01-24T14:19:09+00:00"
-      },
-      {
-        "title": "[r/claudeai] Claude is better not because of the model but because of the strategy",
-        "summary": "Seeing a lot of benchmark comparisons between all the different model, and you have folks having drastically different experiences using the same models. I see a lot of folks using copilot absolutely shit on claude models amongst other things. I...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qm1n58/claude_is_better_not_because_of_the_model_but/",
-        "published": "2026-01-24T22:53:26+00:00"
+        "title": "[r/claudeai] I designed, built and marketed a Japanese learning App entirely with Claude, and it somehow managed to reach 1k stars on GitHub",
+        "summary": "As someone who loves learning languages (I'm learning Japanese right now), I always wished there was an entirely free, open-source tool for learning Japanese, just like Monkeytype in the typing community. So, I thought: why not make Claude create...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qmdidd/i_designed_built_and_marketed_a_japanese_learning/",
+        "published": "2026-01-25T08:19:19+00:00"
       }
     ],
     "ai_news": [
@@ -233,31 +233,31 @@
         "title": "Anthropic’s usage stats paint a detailed picture of AI success",
         "summary": "Special Reports & Series",
         "link": "https://www.artificialintelligence-news.com/news/anthropic-report-economic-index-summary-key-points-2026/",
-        "published": "2026-01-25T05:33:52.803305+00:00"
+        "published": "2026-01-25T17:16:24.406621+00:00"
       },
       {
         "title": "Controlling AI agent sprawl: The CIO’s guide to governance",
         "summary": "Governance, Regulation & Policy",
         "link": "https://www.artificialintelligence-news.com/news/controlling-ai-agent-sprawl-cio-guide-to-governance/",
-        "published": "2026-01-25T05:33:52.803743+00:00"
+        "published": "2026-01-25T17:16:24.407058+00:00"
       },
       {
         "title": "Gates Foundation and OpenAI test AI in African healthcare",
         "summary": "Healthcare & Wellness AI",
         "link": "https://www.artificialintelligence-news.com/news/gates-foundation-and-openai-test-ai-in-african-healthcare/",
-        "published": "2026-01-25T05:33:52.804154+00:00"
+        "published": "2026-01-25T17:16:24.407511+00:00"
       },
       {
         "title": "Balancing AI cost efficiency with data sovereignty",
         "summary": "AI Business Strategy",
         "link": "https://www.artificialintelligence-news.com/news/balancing-ai-cost-efficiency-with-data-sovereignty/",
-        "published": "2026-01-25T05:33:52.804597+00:00"
+        "published": "2026-01-25T17:16:24.407928+00:00"
       },
       {
         "title": "The quiet work behind Citi’s 4,000-person internal AI rollout",
         "summary": "AI in Action",
         "link": "https://www.artificialintelligence-news.com/news/the-quiet-work-behind-citi-4000-person-internal-ai-rollout/",
-        "published": "2026-01-25T05:33:52.805007+00:00"
+        "published": "2026-01-25T17:16:24.408332+00:00"
       }
     ],
     "crescendo": [
@@ -265,25 +265,25 @@
         "title": "Crescendo's New AI Shopping Assistant Converts at 2-4X Industry Average",
         "summary": "Crescendo's New AI Shopping Assistant Converts at 2-4X Industry Average",
         "link": "https://crescendo.ai/news/crescendo-new-ai-shopping-assistant-shopify",
-        "published": "2026-01-25T05:33:53.077048+00:00"
+        "published": "2026-01-25T17:16:24.632096+00:00"
       },
       {
         "title": "All NEWS",
         "summary": "All NEWS",
         "link": "https://crescendo.ai/news/latest-ai-news-and-updates",
-        "published": "2026-01-25T05:33:53.079824+00:00"
+        "published": "2026-01-25T17:16:24.634901+00:00"
       },
       {
         "title": "Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025",
         "summary": "Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025",
         "link": "https://crescendo.ai/news/latest-ai-news-and-updates",
-        "published": "2026-01-25T05:33:53.084918+00:00"
+        "published": "2026-01-25T17:16:24.640101+00:00"
       },
       {
         "title": "The Latest AI News and Breakthroughs in Healthcare and Medical",
         "summary": "The Latest AI News and Breakthroughs in Healthcare and Medical",
         "link": "https://crescendo.ai/news/ai-in-healthcare-news",
-        "published": "2026-01-25T05:33:53.085372+00:00"
+        "published": "2026-01-25T17:16:24.640550+00:00"
       }
     ]
   }
