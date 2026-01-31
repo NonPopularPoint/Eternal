@@ -1,6 +1,6 @@
 {
   "date": "2026-01-31",
-  "last_updated": "2026-01-31T05:43:32.341581+00:00",
+  "last_updated": "2026-01-31T17:22:04.591526+00:00",
   "collection_status": {
     "total_sources": 6,
     "successful": 4,
@@ -18,91 +18,91 @@
         "title": "RexRerankers: SOTA Rankers for Product Discovery and AI Assistants",
         "summary": "RexRerankers: SOTA Rankers for Product Discovery and AI Assistants",
         "link": "https://huggingface.co/blog/thebajajra/rexrerankers",
-        "published": "2026-01-31T05:43:32.777772+00:00"
+        "published": "2026-01-31T17:22:04.941447+00:00"
       },
       {
         "title": "**NVIDIA Earth-2 Open Models Span the Whole Weather Stack**",
         "summary": "**NVIDIA Earth-2 Open Models Span the Whole Weather Stack**",
         "link": "https://huggingface.co/blog/nvidia/earth-2-open-models",
-        "published": "2026-01-31T05:43:32.777963+00:00"
+        "published": "2026-01-31T17:22:04.941638+00:00"
       },
       {
         "title": "LightOnOCR-2-1B: a lightweight high-performance end-to-end OCR model family",
         "summary": "LightOnOCR-2-1B: a lightweight high-performance end-to-end OCR model family",
         "link": "https://huggingface.co/blog/lightonai/lightonocr-2",
-        "published": "2026-01-31T05:43:32.778139+00:00"
+        "published": "2026-01-31T17:22:04.941804+00:00"
       },
       {
         "title": "TruthTensor: LLM Evalution in Prediction Markets Under Drift and Market Baseline",
         "summary": "TruthTensor: LLM Evalution in Prediction Markets Under Drift and Market Baseline",
         "link": "https://huggingface.co/blog/inferencelabs/truthtensor",
-        "published": "2026-01-31T05:43:32.778305+00:00"
+        "published": "2026-01-31T17:22:04.941990+00:00"
       },
       {
         "title": "Why Your AI Strategy Needs Hugging Face Storage",
         "summary": "Why Your AI Strategy Needs Hugging Face Storage",
         "link": "https://huggingface.co/blog/AdrianLepers/why-your-ai-strategy-needs-hugging-face-storage",
-        "published": "2026-01-31T05:43:32.778466+00:00"
+        "published": "2026-01-31T17:22:04.942158+00:00"
       },
       {
         "title": "The Great Classification Showdown: OSS vs BERT on Consumer Hardware",
         "summary": "The Great Classification Showdown: OSS vs BERT on Consumer Hardware",
         "link": "https://huggingface.co/blog/BenTouss/classification-showdown-oss-vs-bert",
-        "published": "2026-01-31T05:43:32.778654+00:00"
+        "published": "2026-01-31T17:22:04.942318+00:00"
       },
       {
         "title": "Nemotron-Personas-Brazil: Co-Designed Data for Sovereign AI",
         "summary": "Nemotron-Personas-Brazil: Co-Designed Data for Sovereign AI",
         "link": "https://huggingface.co/blog/nvidia/nemotron-personas-brazil",
-        "published": "2026-01-31T05:43:32.778816+00:00"
+        "published": "2026-01-31T17:22:04.942482+00:00"
       },
       {
         "title": "Scaling Real-Time Voice Agents with Cache-Aware Streaming ASR",
         "summary": "Scaling Real-Time Voice Agents with Cache-Aware Streaming ASR",
         "link": "https://huggingface.co/blog/nvidia/nemotron-speech-asr-scaling-voice-agents",
-        "published": "2026-01-31T05:43:32.778979+00:00"
+        "published": "2026-01-31T17:22:04.942652+00:00"
       },
       {
         "title": "Friends and Grandmothers in Silico",
         "summary": "Friends and Grandmothers in Silico",
         "link": "https://huggingface.co/blog/tux/friends-and-grandmothers-in-silico",
-        "published": "2026-01-31T05:43:32.779144+00:00"
+        "published": "2026-01-31T17:22:04.942815+00:00"
       },
       {
         "title": "Nemotron-Personas-Singapore: Co-Designed Data for Sovereign AI",
         "summary": "Nemotron-Personas-Singapore: Co-Designed Data for Sovereign AI",
         "link": "https://huggingface.co/blog/nvidia/nemotron-personas-singapore",
-        "published": "2026-01-31T05:43:32.779300+00:00"
+        "published": "2026-01-31T17:22:04.942985+00:00"
       },
       {
         "title": "Performant local mixture-of-experts CPU inference with GPU acceleration in llama.cpp",
         "summary": "Performant local mixture-of-experts CPU inference with GPU acceleration in llama.cpp",
         "link": "https://huggingface.co/blog/Doctor-Shotgun/llamacpp-moe-offload-guide",
-        "published": "2026-01-31T05:43:32.779455+00:00"
+        "published": "2026-01-31T17:22:04.943147+00:00"
       },
       {
-        "title": "🪄 Interpreto: A Unified Toolkit for Interpretability of Transformer Models",
-        "summary": "🪄 Interpreto: A Unified Toolkit for Interpretability of Transformer Models",
-        "link": "https://huggingface.co/blog/Fannyjrd/interpreto",
-        "published": "2026-01-31T05:43:32.779656+00:00"
+        "title": "Reverse Engineering a $500M Mystery: From HashHop to Memory-Augmented Language Models",
+        "summary": "Reverse Engineering a $500M Mystery: From HashHop to Memory-Augmented Language Models",
+        "link": "https://huggingface.co/blog/codelion/reverse-engineering-magic-hashhop",
+        "published": "2026-01-31T17:22:04.943303+00:00"
       },
       {
         "title": "Code a simple RAG from scratch",
         "summary": "Code a simple RAG from scratch",
         "link": "https://huggingface.co/blog/ngxson/make-your-own-rag",
-        "published": "2026-01-31T05:43:32.779816+00:00"
+        "published": "2026-01-31T17:22:04.943457+00:00"
       },
       {
         "title": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "summary": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "link": "https://huggingface.co/blog/not-lain/kv-caching",
-        "published": "2026-01-31T05:43:32.779971+00:00"
+        "published": "2026-01-31T17:22:04.943610+00:00"
       },
       {
         "title": "Small Language Models (SLM): A Comprehensive Overview",
         "summary": "Small Language Models (SLM): A Comprehensive Overview",
         "link": "https://huggingface.co/blog/jjokah/small-language-model",
-        "published": "2026-01-31T05:43:32.780125+00:00"
+        "published": "2026-01-31T17:22:04.943763+00:00"
       }
     ],
     "producthunt": [],
@@ -124,6 +124,18 @@
         "summary": "hop hop hop Maybe you've seen my previous post about solving CartPole-v1 with just bitwise ops. I've tried to scale this approach to harder environments, but it didn't get me too far. However, I was inspired by totally unrelated article -...",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1qrd4mi/p_i_solved_bipedalwalkerv3_310_score_with/",
         "published": "2026-01-30T18:10:14+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [P] Offline LLMs at edge - Automating Family Memories",
+        "summary": "Over winter break I built a prototype which is effectively a device (currently Raspberry Pi) which listens and detects \"meaningful moments\" for a given household or family. I have two young kids so it's somewhat tailored for that environment. What I...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1qs3pcm/p_offline_llms_at_edge_automating_family_memories/",
+        "published": "2026-01-31T14:25:49+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [P] 🚀 NotebookLM MCP + CLI v0.2.7 - Unified Package, File Uploads, Skill Installer, Multi-Profile Auth",
+        "summary": "Hello Reddit, I am excited to announce a huge update on the NotebookLM MCP (and CLI). TL;DR: MCP and CLI are now one package. You can upload & download files directly (no browser needed). There's a skill installer for AI coding tools. And you can...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1qs7y7v/p_notebooklm_mcp_cli_v027_unified_package_file/",
+        "published": "2026-01-31T17:09:50+00:00"
       },
       {
         "title": "[r/machinelearning] [P] A simple pretraining pipeline for small language models",
@@ -156,18 +168,6 @@
         "published": "2026-01-30T06:25:43+00:00"
       },
       {
-        "title": "[r/machinelearning] [P] A Python tool for natural language inference",
-        "summary": "Hi everyone, I've made an open-source tool in Python (called Omni-NLI) for natural language inference. It can use different models to check if a piece of text (called a premise) supports another piece of text (a hypothesis). Currently, Omni-NLI has...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1qrc5zx/p_a_python_tool_for_natural_language_inference/",
-        "published": "2026-01-30T17:36:59+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [P] WASM bash shell sandbox for AI agents",
-        "summary": "We built a WASM-based sandbox for running LLM-generated code in agentic workflows. The problem: most agent frameworks execute code via subprocess or exec() directly on the host. One prompt injection and you're exposed. Our approach: QuickJS runtime...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1qr7dfx/p_wasm_bash_shell_sandbox_for_ai_agents/",
-        "published": "2026-01-30T14:45:12+00:00"
-      },
-      {
         "title": "[r/claudeai] Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025",
         "summary": "Why a Performance, Usage Limits and Bugs Discussion Megathread? This Megathread makes it easier for everyone to see what others are experiencing at any time by collecting all experiences. Importantly, this will allow the subreddit to provide you a...",
         "link": "https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/",
@@ -180,52 +180,52 @@
         "published": "2026-01-30T17:59:17+00:00"
       },
       {
-        "title": "[r/claudeai] How it feels these days",
-        "summary": "submitted by /u/Glxblt76 [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qrhkqs/how_it_feels_these_days/",
-        "published": "2026-01-30T20:49:08+00:00"
+        "title": "[r/claudeai] 99% of the population still have no idea what's coming for them",
+        "summary": "It's crazy, isn't it? Even on Reddit, you still see countless people insisting that AI will never replace tech workers. I can't fathom how anyone can seriously claim this given the relentless pace of development. New breakthroughs are emerging...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qrzib0/99_of_the_population_still_have_no_idea_whats/",
+        "published": "2026-01-31T11:02:20+00:00"
       },
       {
-        "title": "[r/claudeai] Pentagon clashes with Anthropic over safeguards that would prevent the government from deploying its technology to target weapons autonomously and conduct U.S. domestic surveillance",
-        "summary": "submitted by /u/MetaKnowing [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qr7o29/pentagon_clashes_with_anthropic_over_safeguards/",
-        "published": "2026-01-30T14:56:21+00:00"
+        "title": "[r/claudeai] Mark Gurman: \"Apple runs on Anthropic at this point. Anthropic is powering a lot of the stuff Apple is doing internally in terms of product development, a lot of their internal tools…They have custom versions of Claude running on their own servers internally.\"",
+        "summary": "submitted by /u/likeastar20 [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qs0jp5/mark_gurman_apple_runs_on_anthropic_at_this_point/",
+        "published": "2026-01-31T12:00:06+00:00"
       },
       {
-        "title": "[r/claudeai] I just got claude code to control my phone and it's absolutely wild to watch",
-        "summary": "submitted by /u/abhi3188 [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qrc6ga/i_just_got_claude_code_to_control_my_phone_and/",
-        "published": "2026-01-30T17:37:24+00:00"
+        "title": "[r/claudeai] So long, and thanks for all the fish!",
+        "summary": "We had a nice run, but it has been less than a week between: “this Claude agent helps me organise my downloads folder” to “please don’t sell me on the darknet” submitted by /u/Big_Status_2433 [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qs10nn/so_long_and_thanks_for_all_the_fish/",
+        "published": "2026-01-31T12:24:19+00:00"
       },
       {
-        "title": "[r/claudeai] I built a tool to fix a problem I noticed. Anthropic just published research proving it's real.",
-        "summary": "I'm a junior developer, and I noticed a gap between my output and my understanding. Claude was making me productive. Building faster than I ever had. But there was a gap forming between what I was shipping and what I was actually retaining. I...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qrpxdj/i_built_a_tool_to_fix_a_problem_i_noticed/",
-        "published": "2026-01-31T02:28:13+00:00"
+        "title": "[r/claudeai] life after Opus 4.5",
+        "summary": "submitted by /u/retroviber [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qs5bsg/life_after_opus_45/",
+        "published": "2026-01-31T15:31:00+00:00"
       },
       {
-        "title": "[r/claudeai] Two months ago, I had ideas for apps but no Swift experience. Today, I have 3 apps live on the App Store.",
-        "summary": "My background: 20+ years in cybersecurity, so I understand systems and architecture. But I’d never written a line of Swift or built an iOS app. The traditional path would’ve been months of tutorials, courses, and practice projects before shipping...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qrpyx7/two_months_ago_i_had_ideas_for_apps_but_no_swift/",
-        "published": "2026-01-31T02:30:10+00:00"
+        "title": "[r/claudeai] Official: Anthropic just released Claude Code 2.1.27 with 11 CLI and 1 flag change, details below",
+        "summary": "Claude Code CLI 2.1.27 changelog: • Added tool call failures and denials to debug logs. • Fixed context management validation error for gateway users, ensuring CLAUDE_CODE_DISABLE_EXPERIMENTAL_BETAS=1 avoids the error • Added --from-pr flag to...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qs2pp6/official_anthropic_just_released_claude_code_2127/",
+        "published": "2026-01-31T13:44:03+00:00"
       },
       {
-        "title": "[r/claudeai] Discovered Claude Code recently…",
-        "summary": "submitted by /u/Maleficent_Tiger_768 [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qrour7/discovered_claude_code_recently/",
-        "published": "2026-01-31T01:40:26+00:00"
+        "title": "[r/claudeai] Stumbled over this one",
+        "summary": "I wonder, how many users has Claude as of now? submitted by /u/CommitteeOk5696 [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qrzfnd/stumbled_over_this_one/",
+        "published": "2026-01-31T10:58:08+00:00"
       },
       {
-        "title": "[r/claudeai] Everyone's Hyped on Skills - But Claude Code Plugins take it further (6 Examples That Prove It)",
-        "summary": "Skills are great. But plugins are another level. Why plugins are powerful: 1. Components work together. A plugin can wire skills + MCP + hooks + agents so they reference each other. One install, everything connected. 2. Dedicated repos meant for...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qrlsly/everyones_hyped_on_skills_but_claude_code_plugins/",
-        "published": "2026-01-30T23:30:31+00:00"
+        "title": "[r/claudeai] Made a pixel office that comes to life when you use Claude Code — 200+ devs joined the beta in 24 hours",
+        "summary": "Just shared this in r/ClaudeCode and the response kind of blew up, so figured I’d post here too. I built PixelHQ — a little pixel art office on your phone that animates in real-time based on your Claude Code sessions. Your AI agent types at the...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qs5jhk/made_a_pixel_office_that_comes_to_life_when_you/",
+        "published": "2026-01-31T15:39:27+00:00"
       },
       {
-        "title": "[r/claudeai] The Complete Guide to Claude Code V4 — The Community Asked, We Delivered: 85% Context Reduction, Custom Agents & Session Teleportation",
-        "summary": "https://preview.redd.it/h0m40cj0wegg1.jpg?width=1920&format=pjpg&auto=webp&s=8f32bc241d525a08fad2da9be99bc3bc704e77b5 V4: The January 2026 Revolution View Web Version Previous guides: V1 | V2 | V3 Because of the overwhelming support on V1-V3, I'm...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qquxle/the_complete_guide_to_claude_code_v4_the/",
-        "published": "2026-01-30T03:59:58+00:00"
+        "title": "[r/claudeai] It’s a slippery slope…",
+        "summary": "I discovered Claude code 2 weeks ago. Before that, I’d built some automations in make and had some ai-assisted workflows, mostly for business admin and some marketing tasks. Now it’s 2 weeks later…. I built my boyfriend a fully functional booking &...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1qs5mav/its_a_slippery_slope/",
+        "published": "2026-01-31T15:42:30+00:00"
       }
     ],
     "ai_news": [
@@ -233,31 +233,31 @@
         "title": "AI use surges at Travelers as call centre roles reduce",
         "summary": "AI Business Strategy",
         "link": "https://www.artificialintelligence-news.com/news/travelers-ai-in-contact-centres-two-stage-innovation-strategy/",
-        "published": "2026-01-31T05:43:41.396960+00:00"
+        "published": "2026-01-31T17:22:13.508006+00:00"
       },
       {
         "title": "PepsiCo is using AI to rethink how factories are designed and updated",
         "summary": "AI Business Strategy",
         "link": "https://www.artificialintelligence-news.com/news/pepsico-is-using-ai-to-rethink-how-factories-are-designed-and-updated/",
-        "published": "2026-01-31T05:43:41.397391+00:00"
+        "published": "2026-01-31T17:22:13.508439+00:00"
       },
       {
         "title": "China’s hyperscalers bet billions on agentic AI as commerce becomes the new battleground",
         "summary": "AI Market Trends",
         "link": "https://www.artificialintelligence-news.com/news/china-hyperscalers-agentic-ai-commerce-battleground/",
-        "published": "2026-01-31T05:43:41.397827+00:00"
+        "published": "2026-01-31T17:22:13.508848+00:00"
       },
       {
         "title": "Insurers betting big on AI: Accenture",
         "summary": "Finance AI",
         "link": "https://www.artificialintelligence-news.com/news/accenture-report-on-ai-in-insurance-sector/",
-        "published": "2026-01-31T05:43:41.398245+00:00"
+        "published": "2026-01-31T17:22:13.509279+00:00"
       },
       {
         "title": "Deloitte sounds alarm as AI agent deployment outruns safety frameworks",
         "summary": "Governance, Regulation & Policy",
         "link": "https://www.artificialintelligence-news.com/news/deloitte-agentic-ai-guidelines-published/",
-        "published": "2026-01-31T05:43:41.398670+00:00"
+        "published": "2026-01-31T17:22:13.509691+00:00"
       }
     ],
     "crescendo": [
@@ -265,31 +265,31 @@
         "title": "Crescendo Unveils Multi-Provider Architecture Redefining Enterprise-Grade AI Performance at Global Scale",
         "summary": "Crescendo Unveils Multi-Provider Architecture Redefining Enterprise-Grade AI Performance at Global Scale",
         "link": "https://crescendo.ai/news/multi-provider-architecture",
-        "published": "2026-01-31T05:43:41.814093+00:00"
+        "published": "2026-01-31T17:22:13.766694+00:00"
       },
       {
         "title": "Crescendo's New AI Shopping Assistant Converts at 2-4X Industry Average",
         "summary": "Crescendo's New AI Shopping Assistant Converts at 2-4X Industry Average",
         "link": "https://crescendo.ai/news/crescendo-new-ai-shopping-assistant-shopify",
-        "published": "2026-01-31T05:43:41.814411+00:00"
+        "published": "2026-01-31T17:22:13.767027+00:00"
       },
       {
         "title": "All NEWS",
         "summary": "All NEWS",
         "link": "https://crescendo.ai/news/latest-ai-news-and-updates",
-        "published": "2026-01-31T05:43:41.817054+00:00"
+        "published": "2026-01-31T17:22:13.769618+00:00"
       },
       {
         "title": "Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025",
         "summary": "Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025",
         "link": "https://crescendo.ai/news/latest-ai-news-and-updates",
-        "published": "2026-01-31T05:43:41.822203+00:00"
+        "published": "2026-01-31T17:22:13.774713+00:00"
       },
       {
         "title": "The Latest AI News and Breakthroughs in Healthcare and Medical",
         "summary": "The Latest AI News and Breakthroughs in Healthcare and Medical",
         "link": "https://crescendo.ai/news/ai-in-healthcare-news",
-        "published": "2026-01-31T05:43:41.822663+00:00"
+        "published": "2026-01-31T17:22:13.775163+00:00"
       }
     ]
   }
