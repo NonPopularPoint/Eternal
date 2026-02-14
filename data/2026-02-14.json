@@ -1,6 +1,6 @@
 {
   "date": "2026-02-14",
-  "last_updated": "2026-02-14T05:52:11.145028+00:00",
+  "last_updated": "2026-02-14T17:23:41.094421+00:00",
   "collection_status": {
     "total_sources": 6,
     "successful": 4,
@@ -18,91 +18,91 @@
         "title": "Forge: Scalable Agent RL Framework and Algorithm",
         "summary": "Forge: Scalable Agent RL Framework and Algorithm",
         "link": "https://huggingface.co/blog/MiniMax-AI/forge-scalable-agent-rl-framework-and-algorithm",
-        "published": "2026-02-14T05:52:11.678071+00:00"
+        "published": "2026-02-14T17:23:41.750169+00:00"
       },
       {
         "title": "LateOn-Code & ColGrep: LightOn unveils state-of-the-art code retrieval models and code search tooling",
         "summary": "LateOn-Code & ColGrep: LightOn unveils state-of-the-art code retrieval models and code search tooling",
         "link": "https://huggingface.co/blog/lightonai/colgrep-lateon-code",
-        "published": "2026-02-14T05:52:11.678273+00:00"
+        "published": "2026-02-14T17:23:41.750362+00:00"
       },
       {
         "title": "From Golden Gate Bridge to Broken JSON: Why Anthropic's SAE Steering Fails for Structured Output",
         "summary": "From Golden Gate Bridge to Broken JSON: Why Anthropic's SAE Steering Fails for Structured Output",
         "link": "https://huggingface.co/blog/MaziyarPanahi/sae-steering-json",
-        "published": "2026-02-14T05:52:11.678443+00:00"
+        "published": "2026-02-14T17:23:41.750532+00:00"
       },
       {
         "title": "🚀 DTS: A Candidate for the Best Parallel Reasoning in LLMs",
         "summary": "🚀 DTS: A Candidate for the Best Parallel Reasoning in LLMs",
         "link": "https://huggingface.co/blog/guan-wang/llm-decoding-tree-sketching",
-        "published": "2026-02-14T05:52:11.678631+00:00"
+        "published": "2026-02-14T17:23:41.750699+00:00"
       },
       {
         "title": "How to Use Multiple GPUs in Hugging Face Transformers: Device Map vs Tensor Parallelism",
         "summary": "How to Use Multiple GPUs in Hugging Face Transformers: Device Map vs Tensor Parallelism",
         "link": "https://huggingface.co/blog/ariG23498/tp-vs-dm",
-        "published": "2026-02-14T05:52:11.678798+00:00"
+        "published": "2026-02-14T17:23:41.750859+00:00"
       },
       {
         "title": "Uncensor any LLM with abliteration",
         "summary": "Uncensor any LLM with abliteration",
         "link": "https://huggingface.co/blog/mlabonne/abliteration",
-        "published": "2026-02-14T05:52:11.678957+00:00"
+        "published": "2026-02-14T17:23:41.751013+00:00"
       },
       {
         "title": "CRAFT: Continuous Reasoning and Agentic Feedback Tuning",
         "summary": "CRAFT: Continuous Reasoning and Agentic Feedback Tuning",
         "link": "https://huggingface.co/blog/flymy-ai/craft-1",
-        "published": "2026-02-14T05:52:11.679115+00:00"
+        "published": "2026-02-14T17:23:41.751186+00:00"
       },
       {
         "title": "LightOnOCR-2-1B: a lightweight high-performance end-to-end OCR model family",
         "summary": "LightOnOCR-2-1B: a lightweight high-performance end-to-end OCR model family",
         "link": "https://huggingface.co/blog/lightonai/lightonocr-2",
-        "published": "2026-02-14T05:52:11.679280+00:00"
+        "published": "2026-02-14T17:23:41.751352+00:00"
       },
       {
         "title": "Training Qwen3 VL to label bbox : synthetic data, environment and training analysis",
         "summary": "Training Qwen3 VL to label bbox : synthetic data, environment and training analysis",
         "link": "https://huggingface.co/blog/UlrickBL/bbox-rl-env",
-        "published": "2026-02-14T05:52:11.679440+00:00"
+        "published": "2026-02-14T17:23:41.751508+00:00"
       },
       {
         "title": "Code a simple RAG from scratch",
         "summary": "Code a simple RAG from scratch",
         "link": "https://huggingface.co/blog/ngxson/make-your-own-rag",
-        "published": "2026-02-14T05:52:11.679609+00:00"
+        "published": "2026-02-14T17:23:41.751660+00:00"
       },
       {
         "title": "Why SGLang is a Game-Changer for LLM Workflows",
         "summary": "Why SGLang is a Game-Changer for LLM Workflows",
         "link": "https://huggingface.co/blog/paresh2806/sglang-efficient-llm-workflows",
-        "published": "2026-02-14T05:52:11.679766+00:00"
+        "published": "2026-02-14T17:23:41.751810+00:00"
+      },
+      {
+        "title": "makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch",
+        "summary": "makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch",
+        "link": "https://huggingface.co/blog/AviSoori1x/makemoe-from-scratch",
+        "published": "2026-02-14T17:23:41.751962+00:00"
       },
       {
         "title": "Fine-Tuning Your First Large Language Model (LLM) with PyTorch and Hugging Face",
         "summary": "Fine-Tuning Your First Large Language Model (LLM) with PyTorch and Hugging Face",
         "link": "https://huggingface.co/blog/dvgodoy/fine-tuning-llm-hugging-face",
-        "published": "2026-02-14T05:52:11.679922+00:00"
+        "published": "2026-02-14T17:23:41.752129+00:00"
       },
       {
         "title": "From GRPO to DAPO and GSPO: What, Why, and How",
         "summary": "From GRPO to DAPO and GSPO: What, Why, and How",
         "link": "https://huggingface.co/blog/NormalUhr/grpo-to-dapo-and-gspo",
-        "published": "2026-02-14T05:52:11.680077+00:00"
+        "published": "2026-02-14T17:23:41.752284+00:00"
       },
       {
         "title": "EuroLLM-22B",
         "summary": "EuroLLM-22B",
         "link": "https://huggingface.co/blog/eurollm-team/eurollm-22b",
-        "published": "2026-02-14T05:52:11.680234+00:00"
-      },
-      {
-        "title": "Building a Mood-Based Movie Recommendation Engine with Voyage-4-nano, Hugging Face, and MongoDB Atlas Vector Search",
-        "summary": "Building a Mood-Based Movie Recommendation Engine with Voyage-4-nano, Hugging Face, and MongoDB Atlas Vector Search",
-        "link": "https://huggingface.co/blog/mongodb-community/hugging-face-mongodb-voyage-4-nano",
-        "published": "2026-02-14T05:52:11.680394+00:00"
+        "published": "2026-02-14T17:23:41.752434+00:00"
       }
     ],
     "producthunt": [],
@@ -120,6 +120,12 @@
         "published": "2026-01-31T03:30:32+00:00"
       },
       {
+        "title": "[r/machinelearning] [P] I trained YOLOX from scratch to avoid Ultralytics' AGPL (aircraft detection on iOS)",
+        "summary": "submitted by /u/MzCWzL [link] [comments]",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1r4mcwu/p_i_trained_yolox_from_scratch_to_avoid/",
+        "published": "2026-02-14T14:43:59+00:00"
+      },
+      {
         "title": "[r/machinelearning] [D] Struggling on the NLP job market as a final-year PhD , looking for advice",
         "summary": "I’m a final-year PhD student in the U.S. working primarily on NLP. I’ve been on the job market this year (since October), and I’m trying to understand where I might be going wrong. My priority was academia, but after submitting 30 tenure-track...",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1r467ra/d_struggling_on_the_nlp_job_market_as_a_finalyear/",
@@ -130,6 +136,18 @@
         "summary": "I’m reviewing for ICML (Policy A, where LLM use is not allowed) and noticed that in my assigned batch, if you copy/paste the full PDF text into a text editor, every single paper contains prompt-injection style instructions embedded directly in the...",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1r3oekq/d_icml_every_paper_in_my_review_batch_contains/",
         "published": "2026-02-13T12:54:44+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [D] ARR Jan ARR Discussion",
+        "summary": "It will be released in one day, so created this. submitted by /u/Striking-Warning9533 [link] [comments]",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1r4fotm/d_arr_jan_arr_discussion/",
+        "published": "2026-02-14T08:44:59+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [D] Asymmetric consensus thresholds for multi-annotator NER — valid approach or methodological smell?",
+        "summary": "Context I'm training a Spanish legal NER model (RoBERTa-based, 28 PII categories) using curriculum learning. For the real-world legal corpus (BOE/BORME gazette), I built a multi-annotator pipeline with 5 annotators: Annotator Type Strengths...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1r4gjme/d_asymmetric_consensus_thresholds_for/",
+        "published": "2026-02-14T09:38:29+00:00"
       },
       {
         "title": "[r/machinelearning] [D] Minimax 2.5 is out, considering local deployment",
@@ -150,24 +168,6 @@
         "published": "2026-02-14T01:29:38+00:00"
       },
       {
-        "title": "[r/machinelearning] [R] Higher effort settings reduce deep research accuracy for GPT-5 and Gemini Flash 3",
-        "summary": "We evaluated 22 model configurations across different effort/thinking levels on Deep Research Bench (169 web research tasks, human-verified answers). For two of the most capable models, higher effort settings scored worse. GPT-5 at low effort scored...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1r3w853/r_higher_effort_settings_reduce_deep_research/",
-        "published": "2026-02-13T18:00:15+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [D] Benchmarking Deep RL Stability Capable of Running on Edge Devices",
-        "summary": "This post details my exploration for a \"stable stack\" for streaming deep RL (ObGD, SparseInit, LayerNorm, and online normalization) using 433,000 observations of real, non-stationary SSH attack traffic. Learnings From Tests: Computational...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1r41k5r/d_benchmarking_deep_rl_stability_capable_of/",
-        "published": "2026-02-13T21:22:02+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [P] SoproTTS v1.5: A 135M zero-shot voice cloning TTS model trained for ~$100 on 1 GPU, running ~20× real-time on the CPU",
-        "summary": "I released a new version of my side project: SoproTTS A 135M parameter TTS model trained for ~$100 on 1 GPU, running ~20× real-time on a base MacBook M3 CPU. v1.5 highlights (on CPU): • 250 ms TTFA streaming latency • 0.05 RTF (~20× real-time) •...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1r3ul8s/p_soprotts_v15_a_135m_zeroshot_voice_cloning_tts/",
-        "published": "2026-02-13T16:59:26+00:00"
-      },
-      {
         "title": "[r/claudeai] Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025",
         "summary": "Why a Performance, Usage Limits and Bugs Discussion Megathread? This Megathread makes it easier for everyone to see what others are experiencing at any time by collecting all experiences. We will publish regular updates on problems and possible...",
         "link": "https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/",
@@ -180,28 +180,22 @@
         "published": "2026-02-13T23:58:16+00:00"
       },
       {
-        "title": "[r/claudeai] When Claude calls you “the user” in its inner monologue",
-        "summary": "submitted by /u/LoneKnight25 [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1r3ta2u/when_claude_calls_you_the_user_in_its_inner/",
-        "published": "2026-02-13T16:10:48+00:00"
+        "title": "[r/claudeai] I went through the official Claude Code course - here’s who it’s actually useful for (and who should skip it)",
+        "summary": "I recently completed the official Claude Code course by Anthropic, and I wanted to share an honest take because most mentions I see are either hype or vague praise. What the course does well Explains how Claude reasons about code, not just how to...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1r4d3wf/i_went_through_the_official_claude_code_course/",
+        "published": "2026-02-14T06:13:05+00:00"
       },
       {
-        "title": "[r/claudeai] WSJ: Pentagon Used Anthropic’s Claude in Maduro Venezuela Raid",
-        "summary": "From the (gift) article: Use of the model through a contract with Palantir highlights growing role of AI in the Pentagon ... Anthropic’s usage guidelines prohibit Claude from being used to facilitate violence, develop weapons or conduct...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1r442wz/wsj_pentagon_used_anthropics_claude_in_maduro/",
-        "published": "2026-02-13T23:04:47+00:00"
+        "title": "[r/claudeai] Autonomous multi-session AI coding in the terminal",
+        "summary": "I built a kanban like coding angent terminal app. Repo link 👉 https://github.com/fynnfluegge/agtx Features Kanban workflow: Backlog → Planning → Running → Review → Done Git worktree and tmux isolation: Each task gets its own worktree and tmux...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1r4hb37/autonomous_multisession_ai_coding_in_the_terminal/",
+        "published": "2026-02-14T10:25:44+00:00"
       },
       {
-        "title": "[r/claudeai] Uhmmm, Anthropic, I don't think that nested prevention mechanism is very effective",
-        "summary": "submitted by /u/SuggestionMission516 [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1r4auw8/uhmmm_anthropic_i_dont_think_that_nested/",
-        "published": "2026-02-14T04:15:54+00:00"
-      },
-      {
-        "title": "[r/claudeai] Anthropic Released 32 Page Detailed Guide on Building Claude Skills",
-        "summary": "Great read for anyone new to skills, or struggling to wrap their heads around skills and where/how they fit in the ecosystem. Heck you could extract the info in here and turn it into a more detailed skill-creator skill than the official one from...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1r3hr40/anthropic_released_32_page_detailed_guide_on/",
-        "published": "2026-02-13T06:22:13+00:00"
+        "title": "[r/claudeai] I built a full desktop email client, 100% coded with Claude AI. It's fully open source.",
+        "summary": "Hey everyone, I just open-sourced Velo, a local-first, keyboard-driven desktop email client built with Tauri, React, and Rust. The entire codebase was written with Claude (Anthropic's AI). Website: https://velomail.app GitHub:...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1r4f8bw/i_built_a_full_desktop_email_client_100_coded/",
+        "published": "2026-02-14T08:16:40+00:00"
       },
       {
         "title": "[r/claudeai] Happy to hear Anthropic is doing well",
@@ -210,22 +204,28 @@
         "published": "2026-02-14T04:46:48+00:00"
       },
       {
-        "title": "[r/claudeai] It's a me problem",
-        "summary": "This is why Claude is the MVP. And this is why it's my tool of choice. can't be mad. submitted by /u/deadjobbyjabber [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1r3sr2z/its_a_me_problem/",
-        "published": "2026-02-13T15:51:44+00:00"
+        "title": "[r/claudeai] I packaged 59.9M tokens of Claude Code lessons into one git clone.",
+        "summary": "https://preview.redd.it/1d2zsdcd9hjg1.jpg?width=1376&format=pjpg&auto=webp&s=98dc08811c83d6027875cb9527e0661a43fd5e4c I've been running Claude Code autonomously across multiple projects — 59.9M tokens, $2,239 in API usage. Every lesson from that...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1r4n9e4/i_packaged_599m_tokens_of_claude_code_lessons/",
+        "published": "2026-02-14T15:20:57+00:00"
       },
       {
-        "title": "[r/claudeai] Spotify says its best developers haven’t written a line of code since December, thanks to AI (Claude)",
-        "summary": "https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/ submitted by /u/shanraisshan [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1r3jh3q/spotify_says_its_best_developers_havent_written_a/",
-        "published": "2026-02-13T08:04:30+00:00"
+        "title": "[r/claudeai] When Claude calls you “the user” in its inner monologue",
+        "summary": "submitted by /u/LoneKnight25 [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1r3ta2u/when_claude_calls_you_the_user_in_its_inner/",
+        "published": "2026-02-13T16:10:48+00:00"
       },
       {
-        "title": "[r/claudeai] Claude Code has incentivized me live a healthier life.",
-        "summary": "A healthy lifestyle seems to have an instant ROI now that the models are more capable than a tired, run-down human. I have been a deep tech startup founder for the last 7 years and can say that running multiple instances of Claude code has been some...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1r403p5/claude_code_has_incentivized_me_live_a_healthier/",
-        "published": "2026-02-13T20:24:45+00:00"
+        "title": "[r/claudeai] Uhmmm, Anthropic, I don't think that nested prevention mechanism is very effective",
+        "summary": "submitted by /u/SuggestionMission516 [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1r4auw8/uhmmm_anthropic_i_dont_think_that_nested/",
+        "published": "2026-02-14T04:15:54+00:00"
+      },
+      {
+        "title": "[r/claudeai] Claude code is so good, that I am ready to pay for MAX, meanwhile Gemini CLI and Antigravity is a total crap, slow and making shit loads of bugs.",
+        "summary": "submitted by /u/gamera49 [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1r4d4i0/claude_code_is_so_good_that_i_am_ready_to_pay_for/",
+        "published": "2026-02-14T06:14:06+00:00"
       }
     ],
     "ai_news": [
@@ -233,31 +233,31 @@
         "title": "AI forecasting model targets healthcare resource efficiency",
         "summary": "Healthcare & Wellness AI",
         "link": "https://www.artificialintelligence-news.com/news/ai-forecasting-model-targets-healthcare-resource-efficiency/",
-        "published": "2026-02-14T05:52:20.169628+00:00"
+        "published": "2026-02-14T17:23:53.607134+00:00"
       },
       {
         "title": "Agentic AI drives finance ROI in accounts payable automation",
         "summary": "AI and Us",
         "link": "https://www.artificialintelligence-news.com/news/agentic-ai-drives-finance-roi-in-accounts-payable-automation/",
-        "published": "2026-02-14T05:52:20.170065+00:00"
+        "published": "2026-02-14T17:23:53.607569+00:00"
       },
       {
         "title": "How e& is using HR to bring AI into enterprise operations",
         "summary": "Workforce & HR AI",
         "link": "https://www.artificialintelligence-news.com/news/how-e-is-using-hr-to-bring-ai-into-enterprise-operations/",
-        "published": "2026-02-14T05:52:20.170473+00:00"
+        "published": "2026-02-14T17:23:53.607973+00:00"
       },
       {
         "title": "Alibaba enters physical AI race with open-source robot model RynnBrain",
         "summary": "AI and Us",
         "link": "https://www.artificialintelligence-news.com/news/alibaba-rynnbrain-physical-ai-robots-china/",
-        "published": "2026-02-14T05:52:20.170900+00:00"
+        "published": "2026-02-14T17:23:53.608446+00:00"
       },
       {
         "title": "AI deployment in financial services hits an inflection point as Singapore leads the shift to production",
         "summary": "Artificial Intelligence",
         "link": "https://www.artificialintelligence-news.com/news/financial-services-ai-deployment-singapore/",
-        "published": "2026-02-14T05:52:20.171317+00:00"
+        "published": "2026-02-14T17:23:53.608851+00:00"
       }
     ],
     "crescendo": [
@@ -265,25 +265,25 @@
         "title": "Crescendo Unveils AI Maturity Model to Bridge the ‘AI Performance Gap’ in Modern Contact Centers",
         "summary": "Crescendo Unveils AI Maturity Model to Bridge the ‘AI Performance Gap’ in Modern Contact Centers",
         "link": "https://crescendo.ai/news/crescendo-unveils-ai-maturity-model",
-        "published": "2026-02-14T05:52:20.514066+00:00"
+        "published": "2026-02-14T17:23:54.165389+00:00"
       },
       {
         "title": "All NEWS",
         "summary": "All NEWS",
         "link": "https://crescendo.ai/news/latest-ai-news-and-updates",
-        "published": "2026-02-14T05:52:20.516995+00:00"
+        "published": "2026-02-14T17:23:54.168519+00:00"
       },
       {
         "title": "Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025",
         "summary": "Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025",
         "link": "https://crescendo.ai/news/latest-ai-news-and-updates",
-        "published": "2026-02-14T05:52:20.522465+00:00"
+        "published": "2026-02-14T17:23:54.174360+00:00"
       },
       {
         "title": "Crescendo Unveils Multi-Provider Architecture Redefining Enterprise-Grade AI Performance at Global Scale",
         "summary": "Crescendo Unveils Multi-Provider Architecture Redefining Enterprise-Grade AI Performance at Global Scale",
         "link": "https://crescendo.ai/news/multi-provider-architecture",
-        "published": "2026-02-14T05:52:20.522923+00:00"
+        "published": "2026-02-14T17:23:54.174847+00:00"
       }
     ]
   }
