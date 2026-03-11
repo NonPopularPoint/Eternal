@@ -1,6 +1,6 @@
 {
   "date": "2026-03-11",
-  "last_updated": "2026-03-11T05:55:39.260205+00:00",
+  "last_updated": "2026-03-11T17:46:51.603408+00:00",
   "collection_status": {
     "total_sources": 6,
     "successful": 5,
@@ -16,121 +16,121 @@
         "title": "MASEval: Extending Multi-Agent Evaluation from Models to Systems",
         "summary": "arXiv:2603.08835v1 Announce Type: new Abstract: The rapid adoption of LLM-based agentic systems has produced a rich ecosystem of frameworks (smolagents, LangGraph, AutoGen, CAMEL, LlamaIndex, i.a.). Yet existing benchmarks are model-centric: they...",
         "link": "https://arxiv.org/abs/2603.08835",
-        "published": "2026-03-11T05:55:39.638388+00:00"
+        "published": "2026-03-11T17:46:52.031665+00:00"
       },
       {
         "title": "LDP: An Identity-Aware Protocol for Multi-Agent LLM Systems",
         "summary": "arXiv:2603.08852v1 Announce Type: new Abstract: As multi-agent AI systems grow in complexity, the protocols connecting them constrain their capabilities. Current protocols such as A2A and MCP do not expose model-level properties as first-class...",
         "link": "https://arxiv.org/abs/2603.08852",
-        "published": "2026-03-11T05:55:39.638459+00:00"
+        "published": "2026-03-11T17:46:52.031741+00:00"
       },
       {
         "title": "Quantifying the Accuracy and Cost Impact of Design Decisions in Budget-Constrained Agentic LLM Search",
         "summary": "arXiv:2603.08877v1 Announce Type: new Abstract: Agentic Retrieval-Augmented Generation (RAG) systems combine iterative search, planning prompts, and retrieval backends, but deployed settings impose explicit budgets on tool calls and completion...",
         "link": "https://arxiv.org/abs/2603.08877",
-        "published": "2026-03-11T05:55:39.638517+00:00"
+        "published": "2026-03-11T17:46:52.031797+00:00"
       },
       {
         "title": "Interpretable Markov-Based Spatiotemporal Risk Surfaces for Missing-Child Search Planning with Reinforcement Learning and LLM-Based Quality Assurance",
         "summary": "arXiv:2603.08933v1 Announce Type: new Abstract: The first 72 hours of a missing-child investigation are critical for successful recovery. However, law enforcement agencies often face fragmented, unstructured data and a lack of dynamic, geospatial...",
         "link": "https://arxiv.org/abs/2603.08933",
-        "published": "2026-03-11T05:55:39.638560+00:00"
+        "published": "2026-03-11T17:46:52.031838+00:00"
       },
       {
         "title": "AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem",
         "summary": "arXiv:2603.08938v1 Announce Type: new Abstract: The rapid emergence of open-source, locally hosted intelligent agents marks a critical inflection point in human-computer interaction. Systems such as OpenClaw demonstrate that Large Language Model...",
         "link": "https://arxiv.org/abs/2603.08938",
-        "published": "2026-03-11T05:55:39.638605+00:00"
+        "published": "2026-03-11T17:46:52.031879+00:00"
       },
       {
         "title": "A Consensus-Driven Multi-LLM Pipeline for Missing-Person Investigations",
         "summary": "arXiv:2603.08954v1 Announce Type: new Abstract: The first 72 hours of a missing-person investigation are critical for successful recovery. Guardian is an end-to-end system designed to support missing-child investigation and early search planning....",
         "link": "https://arxiv.org/abs/2603.08954",
-        "published": "2026-03-11T05:55:39.638645+00:00"
+        "published": "2026-03-11T17:46:52.031918+00:00"
       },
       {
         "title": "The FABRIC Strategy for Verifying Neural Feedback Systems",
         "summary": "arXiv:2603.08964v1 Announce Type: new Abstract: Forward reachability analysis is a dominant approach for verifying reach-avoid specifications in neural feedback systems, i.e., dynamical systems controlled by neural networks, and a number of...",
         "link": "https://arxiv.org/abs/2603.08964",
-        "published": "2026-03-11T05:55:39.638676+00:00"
+        "published": "2026-03-11T17:46:52.031948+00:00"
       },
       {
         "title": "Meissa: Multi-modal Medical Agentic Intelligence",
         "summary": "arXiv:2603.09018v1 Announce Type: new Abstract: Multi-modal large language models (MM-LLMs) have shown strong performance in medical image understanding and clinical reasoning. Recent medical agent systems extend them with tool use and multi-agent...",
         "link": "https://arxiv.org/abs/2603.09018",
-        "published": "2026-03-11T05:55:39.638718+00:00"
+        "published": "2026-03-11T17:46:52.031990+00:00"
       },
       {
         "title": "MEMO: Memory-Augmented Model Context Optimization for Robust Multi-Turn Multi-Agent LLM Games",
         "summary": "arXiv:2603.09022v1 Announce Type: new Abstract: Multi-turn, multi-agent LLM game evaluations often exhibit substantial run-to-run variance. In long-horizon interactions, small early deviations compound across turns and are amplified by multi-agent...",
         "link": "https://arxiv.org/abs/2603.09022",
-        "published": "2026-03-11T05:55:39.638763+00:00"
+        "published": "2026-03-11T17:46:52.032048+00:00"
       },
       {
         "title": "Time, Identity and Consciousness in Language Model Agents",
         "summary": "arXiv:2603.09043v1 Announce Type: new Abstract: Machine consciousness evaluations mostly see behavior. For language model agents that behavior is language and tool use. That lets an agent say the right things about itself even when the constraints...",
         "link": "https://arxiv.org/abs/2603.09043",
-        "published": "2026-03-11T05:55:39.638800+00:00"
+        "published": "2026-03-11T17:46:52.032082+00:00"
       },
       {
         "title": "EPOCH: An Agentic Protocol for Multi-Round System Optimization",
         "summary": "arXiv:2603.09049v1 Announce Type: new Abstract: Autonomous agents are increasingly used to improve prompts, code, and machine learning systems through iterative execution and feedback. Yet existing approaches are usually designed as task-specific...",
         "link": "https://arxiv.org/abs/2603.09049",
-        "published": "2026-03-11T05:55:39.638831+00:00"
+        "published": "2026-03-11T17:46:52.032111+00:00"
       },
       {
         "title": "From Days to Minutes: An Autonomous AI Agent Achieves Reliable Clinical Triage in Remote Patient Monitoring",
         "summary": "arXiv:2603.09052v1 Announce Type: new Abstract: Background: Remote patient monitoring (RPM) generates vast data, yet landmark trials (Tele-HF, BEAT-HF) failed because data volume overwhelmed clinical staff. While TIM-HF2 showed 24/7 physician-led...",
         "link": "https://arxiv.org/abs/2603.09052",
-        "published": "2026-03-11T05:55:39.638871+00:00"
+        "published": "2026-03-11T17:46:52.032148+00:00"
       },
       {
         "title": "Chaotic Dynamics in Multi-LLM Deliberation",
         "summary": "arXiv:2603.09127v1 Announce Type: new Abstract: Collective AI systems increasingly rely on multi-LLM deliberation, but their stability under repeated execution remains poorly characterized. We model five-agent LLM committees as random dynamical...",
         "link": "https://arxiv.org/abs/2603.09127",
-        "published": "2026-03-11T05:55:39.638914+00:00"
+        "published": "2026-03-11T17:46:52.032189+00:00"
       },
       {
         "title": "Deep Tabular Research via Continual Experience-Driven Execution",
         "summary": "arXiv:2603.09151v1 Announce Type: new Abstract: Large language models often struggle with complex long-horizon analytical tasks over unstructured tables, which typically feature hierarchical and bidirectional headers and non-canonical layouts. We...",
         "link": "https://arxiv.org/abs/2603.09151",
-        "published": "2026-03-11T05:55:39.638949+00:00"
+        "published": "2026-03-11T17:46:52.032222+00:00"
       },
       {
         "title": "DataFactory: Collaborative Multi-Agent Framework for Advanced Table Question Answering",
         "summary": "arXiv:2603.09152v1 Announce Type: new Abstract: Table Question Answering (TableQA) enables natural language interaction with structured tabular data. However, existing large language model (LLM) approaches face critical limitations: context length...",
         "link": "https://arxiv.org/abs/2603.09152",
-        "published": "2026-03-11T05:55:39.638988+00:00"
+        "published": "2026-03-11T17:46:52.032259+00:00"
       },
       {
         "title": "Real-Time Trust Verification for Safe Agentic Actions using TrustBench",
         "summary": "arXiv:2603.09157v1 Announce Type: new Abstract: As large language models evolve from conversational assistants to autonomous agents, ensuring trustworthiness requires a fundamental shift from post-hoc evaluation to real-time action verification....",
         "link": "https://arxiv.org/abs/2603.09157",
-        "published": "2026-03-11T05:55:39.639042+00:00"
+        "published": "2026-03-11T17:46:52.032295+00:00"
       },
       {
         "title": "Explainable Innovation Engine: Dual-Tree Agent-RAG with Methods-as-Nodes and Verifiable Write-Back",
         "summary": "arXiv:2603.09192v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) improves factual grounding, yet most systems rely on flat chunk retrieval and provide limited control over multi-step synthesis. We propose an Explainable...",
         "link": "https://arxiv.org/abs/2603.09192",
-        "published": "2026-03-11T05:55:39.639076+00:00"
+        "published": "2026-03-11T17:46:52.032326+00:00"
       },
       {
         "title": "The Reasoning Trap -- Logical Reasoning as a Mechanistic Pathway to Situational Awareness",
         "summary": "arXiv:2603.09200v1 Announce Type: new Abstract: Situational awareness, the capacity of an AI system to recognize its own nature, understand its training and deployment context, and reason strategically about its circumstances, is widely considered...",
         "link": "https://arxiv.org/abs/2603.09200",
-        "published": "2026-03-11T05:55:39.639112+00:00"
+        "published": "2026-03-11T17:46:52.032359+00:00"
       },
       {
         "title": "Evaluate-as-Action: Self-Evaluated Process Rewards for Retrieval-Augmented Agents",
         "summary": "arXiv:2603.09203v1 Announce Type: new Abstract: Retrieval-augmented agents can query external evidence, yet their reliability in multi-step reasoning remains limited: noisy retrieval may derail multi-hop question answering, while outcome-only...",
         "link": "https://arxiv.org/abs/2603.09203",
-        "published": "2026-03-11T05:55:39.639146+00:00"
+        "published": "2026-03-11T17:46:52.032392+00:00"
       },
       {
         "title": "Abundant Intelligence and Deficient Demand: A Macro-Financial Stress Test of Rapid AI Adoption",
         "summary": "arXiv:2603.09209v1 Announce Type: new Abstract: We formalize a macro-financial stress test for rapid AI adoption. Rather than a productivity bust or existential risk, we identify a distribution-and-contract mismatch: AI-generated abundance coexists...",
         "link": "https://arxiv.org/abs/2603.09209",
-        "published": "2026-03-11T05:55:39.639182+00:00"
+        "published": "2026-03-11T17:46:52.032426+00:00"
       }
     ],
     "huggingface": [
@@ -138,91 +138,91 @@
         "title": "NEO-unify: Building Native Multimodal Unified Models End to End",
         "summary": "NEO-unify: Building Native Multimodal Unified Models End to End",
         "link": "https://huggingface.co/blog/sensenova/neo-unify",
-        "published": "2026-03-11T05:55:39.839353+00:00"
+        "published": "2026-03-11T17:46:52.312843+00:00"
       },
       {
         "title": "🏟️ Smol AI WorldCup: A 5-Axis Benchmark That Reveals What Small Language Models Can Really Do",
         "summary": "🏟️ Smol AI WorldCup: A 5-Axis Benchmark That Reveals What Small Language Models Can Really Do",
         "link": "https://huggingface.co/blog/FINAL-Bench/smol-worldcup",
-        "published": "2026-03-11T05:55:39.839550+00:00"
+        "published": "2026-03-11T17:46:52.313033+00:00"
       },
       {
         "title": "The ML Engineer's Guide to Protein AI",
         "summary": "The ML Engineer's Guide to Protein AI",
         "link": "https://huggingface.co/blog/MaziyarPanahi/protein-ai-landscape",
-        "published": "2026-03-11T05:55:39.839721+00:00"
+        "published": "2026-03-11T17:46:52.313180+00:00"
       },
       {
         "title": "MARL: Runtime Middleware That Reduces LLM Hallucination Without Fine-Tuning",
         "summary": "MARL: Runtime Middleware That Reduces LLM Hallucination Without Fine-Tuning",
         "link": "https://huggingface.co/blog/FINAL-Bench/marl-middleware",
-        "published": "2026-03-11T05:55:39.839887+00:00"
+        "published": "2026-03-11T17:46:52.313321+00:00"
       },
       {
         "title": "TiRex on the Edge",
         "summary": "TiRex on the Edge",
         "link": "https://huggingface.co/blog/BobWue/edge",
-        "published": "2026-03-11T05:55:39.840068+00:00"
+        "published": "2026-03-11T17:46:52.313459+00:00"
       },
       {
         "title": "Structural Problems in AI Benchmarking and the Case for a Unified Evaluation Framework",
         "summary": "Structural Problems in AI Benchmarking and the Case for a Unified Evaluation Framework",
         "link": "https://huggingface.co/blog/FINAL-Bench/all-bench",
-        "published": "2026-03-11T05:55:39.840244+00:00"
+        "published": "2026-03-11T17:46:52.313599+00:00"
+      },
+      {
+        "title": "How NVIDIA Builds Open Data for AI",
+        "summary": "How NVIDIA Builds Open Data for AI",
+        "link": "https://huggingface.co/blog/nvidia/open-data-for-ai",
+        "published": "2026-03-11T17:46:52.313736+00:00"
       },
       {
         "title": "Uncensor any LLM with abliteration",
         "summary": "Uncensor any LLM with abliteration",
         "link": "https://huggingface.co/blog/mlabonne/abliteration",
-        "published": "2026-03-11T05:55:39.840412+00:00"
-      },
-      {
-        "title": "From GRPO to DAPO and GSPO: What, Why, and How",
-        "summary": "From GRPO to DAPO and GSPO: What, Why, and How",
-        "link": "https://huggingface.co/blog/NormalUhr/grpo-to-dapo-and-gspo",
-        "published": "2026-03-11T05:55:39.840582+00:00"
-      },
-      {
-        "title": "We’re open-sourcing our text-to-image model and the process behind it",
-        "summary": "We’re open-sourcing our text-to-image model and the process behind it",
-        "link": "https://huggingface.co/blog/Photoroom/prx-open-source-t2i-model",
-        "published": "2026-03-11T05:55:39.840751+00:00"
+        "published": "2026-03-11T17:46:52.313879+00:00"
       },
       {
         "title": "Building Tucano 2: Open-Source Language Models That Actually _Think_ in Portuguese",
         "summary": "Building Tucano 2: Open-Source Language Models That Actually _Think_ in Portuguese",
         "link": "https://huggingface.co/blog/Polygl0t/tucano2",
-        "published": "2026-03-11T05:55:39.840914+00:00"
+        "published": "2026-03-11T17:46:52.314031+00:00"
       },
       {
-        "title": "LLM Architectures Explained: What Powers Today’s Top Models",
-        "summary": "LLM Architectures Explained: What Powers Today’s Top Models",
-        "link": "https://huggingface.co/blog/PrunaAI/llm-architectures-overview",
-        "published": "2026-03-11T05:55:39.841125+00:00"
+        "title": "From GRPO to DAPO and GSPO: What, Why, and How",
+        "summary": "From GRPO to DAPO and GSPO: What, Why, and How",
+        "link": "https://huggingface.co/blog/NormalUhr/grpo-to-dapo-and-gspo",
+        "published": "2026-03-11T17:46:52.314171+00:00"
       },
       {
         "title": "Konkani LLM: Bringing a Multi-Script Low-Resource Language to the AI Era",
         "summary": "Konkani LLM: Bringing a Multi-Script Low-Resource Language to the AI Era",
         "link": "https://huggingface.co/blog/Reubencf/konkani-llm",
-        "published": "2026-03-11T05:55:39.841303+00:00"
-      },
-      {
-        "title": "Forge: Scalable Agent RL Framework and Algorithm",
-        "summary": "Forge: Scalable Agent RL Framework and Algorithm",
-        "link": "https://huggingface.co/blog/MiniMax-AI/forge-scalable-agent-rl-framework-and-algorithm",
-        "published": "2026-03-11T05:55:39.841466+00:00"
+        "published": "2026-03-11T17:46:52.314309+00:00"
       },
       {
         "title": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "summary": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "link": "https://huggingface.co/blog/not-lain/kv-caching",
-        "published": "2026-03-11T05:55:39.841627+00:00"
+        "published": "2026-03-11T17:46:52.314445+00:00"
+      },
+      {
+        "title": "We’re open-sourcing our text-to-image model and the process behind it",
+        "summary": "We’re open-sourcing our text-to-image model and the process behind it",
+        "link": "https://huggingface.co/blog/Photoroom/prx-open-source-t2i-model",
+        "published": "2026-03-11T17:46:52.314583+00:00"
       },
       {
         "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
         "summary": "Deploying Open Source Vision Language Models (VLM) on Jetson",
         "link": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
-        "published": "2026-03-11T05:55:39.841786+00:00"
+        "published": "2026-03-11T17:46:52.314718+00:00"
+      },
+      {
+        "title": "Forge: Scalable Agent RL Framework and Algorithm",
+        "summary": "Forge: Scalable Agent RL Framework and Algorithm",
+        "link": "https://huggingface.co/blog/MiniMax-AI/forge-scalable-agent-rl-framework-and-algorithm",
+        "published": "2026-03-11T17:46:52.314853+00:00"
       }
     ],
     "producthunt": [],
@@ -240,16 +240,40 @@
         "published": "2026-01-31T03:30:32+00:00"
       },
       {
+        "title": "[r/machinelearning] [D] ICML paper to review is fully AI generated",
+        "summary": "I got a paper to review at ICML, this is in the category of no LLM assistant allowed for writing or reviewing it, yet the paper is fully AI written. It reads like a twitter hype-train type of thread, really annoying. I wonder whether I can somehow...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1rqs7gd/d_icml_paper_to_review_is_fully_ai_generated/",
+        "published": "2026-03-11T12:19:28+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [R] IDP Leaderboard: Open benchmark for document AI across 16 VLMs, 9,000+ documents, 3 benchmark suites",
+        "summary": "We're releasing the IDP Leaderboard, an open evaluation framework for document understanding tasks. 16 models tested across OlmOCR, OmniDoc, and our own IDP Core benchmark (covering KIE, table extraction, VQA, OCR, classification, and long document...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1rqx94q/r_idp_leaderboard_open_benchmark_for_document_ai/",
+        "published": "2026-03-11T15:42:05+00:00"
+      },
+      {
         "title": "[r/machinelearning] How I topped the Open LLM Leaderboard using 2x 4090 GPUs - Research notes in Blog form",
         "summary": "A few years ago, I found that duplicating a specific block of 7 middle layers in Qwen2-72B, without modifying any weights, improved performance across all Open LLM Leaderboard benchmarks and took #1 place. As of 2026, the top 4 models on that...",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1rq6g08/how_i_topped_the_open_llm_leaderboard_using_2x/",
         "published": "2026-03-10T19:17:59+00:00"
       },
       {
-        "title": "[r/machinelearning] [D] Update: Burnout from the hiring process",
-        "summary": "I wrote a post 2 months ago about interviewing with over a dozen companies for research (a few engineering) internships, and not being able to land any offers, as basically an under-grad researcher. The original post A lot of things have happened...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1rqd61s/d_update_burnout_from_the_hiring_process/",
-        "published": "2026-03-10T23:24:50+00:00"
+        "title": "[r/machinelearning] [P] Structured Prompting for Extremely Low-Resource Languages: 80% → 5% Vocabulary Contamination, No Fine-Tuning",
+        "summary": "Most low-resource language research assumes you can fine-tune. But what happens when a language has ~2M speakers, no official script standardization, near-zero web presence, and you're working with a frozen model? We ran into this with Tulu, a...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1rqxr78/p_structured_prompting_for_extremely_lowresource/",
+        "published": "2026-03-11T16:00:49+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [P] ColQwen3.5-v1 4.5B SOTA on ViDoRe V1 (nDCG@5 0.917)",
+        "summary": "Sharing a model I've been working on: ColQwen3.5-v1, a 4.5B param model built on Qwen3.5-4B using the ColPali late-interaction approach. Currently #1 on ViDoRe V1 (nDCG@5 0.917) & competitive on ViDoRe V3. Trained across 4 phases including hard...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1rqvv3z/p_colqwen35v1_45b_sota_on_vidore_v1_ndcg5_0917/",
+        "published": "2026-03-11T14:49:58+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [D] math reasoning agents",
+        "summary": "I recently saw Terence Tao talk about how agents are evolving quickly and are now able to solve very complex math tasks. I was curious about how that actually works. My understanding is that you give an agent a set of tools and tell it to figure...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1rquu7n/d_math_reasoning_agents/",
+        "published": "2026-03-11T14:11:37+00:00"
       },
       {
         "title": "[r/machinelearning] [R] Is there an updated LaTeX / Overleaf template for IJCV? The only one I find is ~12 years old.",
@@ -264,30 +288,6 @@
         "published": "2026-03-10T14:53:01+00:00"
       },
       {
-        "title": "[r/machinelearning] [D] How do you document your ML system architecture?",
-        "summary": "Hey everyone, I'm trying to understand how experienced folks actually work in practice — not just the modeling side, but the system design and documentation side. One thing I've been struggling to find good examples of is how teams document their ML...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1rqk2es/d_how_do_you_document_your_ml_system_architecture/",
-        "published": "2026-03-11T04:29:51+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [P] VizPy: DSPy-compatible prompt optimizer that learns from failures automatically.",
-        "summary": "Hey everyone! Happy to share something we've been building — VizPy, a DSPy-compatible prompt optimizer that learns from your failures automatically, no manual prompt tweaking needed. Two methods depending on your task: - ContraPrompt mines...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1rqkt43/p_vizpy_dspycompatible_prompt_optimizer_that/",
-        "published": "2026-03-11T05:08:30+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [R] shadow APIs breaking research reproducibility (arxiv 2603.01919)",
-        "summary": "just read this paper auditing shadow APIs (third party services claiming to provide GPT-5/Gemini access). 187 academic papers used these services, most popular one has 5,966 citations findings are bad. performance divergence up to 47%, safety...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1rpoi3u/r_shadow_apis_breaking_research_reproducibility/",
-        "published": "2026-03-10T05:33:33+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [R] Dynin-Omni: masked diffusion-based omnimodal foundation model",
-        "summary": "https://dynin.ai/omni/ We introduce Dynin-Omni, a first masked diffusion-based omnimodal foundation model that unifies text, image, video, and speech understanding and generation, achieving strong cross-modal performance within a single...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1rpvbrt/r_dyninomni_masked_diffusionbased_omnimodal/",
-        "published": "2026-03-10T12:16:46+00:00"
-      },
-      {
         "title": "[r/claudeai] Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025",
         "summary": "Why a Performance, Usage Limits and Bugs Discussion Megathread? This Megathread makes it easier for everyone to see what others are experiencing at any time by collecting all experiences. We will publish regular updates on problems and possible...",
         "link": "https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/",
@@ -298,6 +298,24 @@
         "summary": "Today we’re introducing Code Review, a new feature for Claude Code. It’s available now in research preview for Team and Enterprise. Code output per Anthropic engineer has grown 200% in the last year. Reviews quickly became a bottleneck. We needed a...",
         "link": "https://www.reddit.com/r/ClaudeAI/comments/1rp9dps/introducing_code_review_a_new_feature_for_claude/",
         "published": "2026-03-09T19:04:57+00:00"
+      },
+      {
+        "title": "[r/claudeai] Stop paying $1,000+ for \"AI Bootcamps\". Anthropic (makers of Claude) just dropped a 100% free academy.",
+        "summary": "submitted by /u/Exact_Pen_8973 [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1rqopis/stop_paying_1000_for_ai_bootcamps_anthropic/",
+        "published": "2026-03-11T09:06:44+00:00"
+      },
+      {
+        "title": "[r/claudeai] \"Claude, make a video about what it's like to be an LLM\"",
+        "summary": "Full prompt given to Claude Opus 4.6 (via josephdviviano): \"can you use whatever resources you like, and python, to generate a short 'youtube poop' video and render it using ffmpeg ? can you put more of a personal spin on it? it should express what...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1rqqtes/claude_make_a_video_about_what_its_like_to_be_an/",
+        "published": "2026-03-11T11:10:03+00:00"
+      },
+      {
+        "title": "[r/claudeai] Claude Status Update : Elevated errors on Claude.ai on 2026-03-11T14:47:22.000Z",
+        "summary": "This is an automatic post triggered within 2 minutes of an official Claude system status update. Incident: Elevated errors on Claude.ai Check on progress and whether or not the incident has been resolved yet here :...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1rqvucq/claude_status_update_elevated_errors_on_claudeai/",
+        "published": "2026-03-11T14:49:12+00:00"
       },
       {
         "title": "[r/claudeai] Been quietly building a faceless YouTube channel using Claude and I'm embarrassingly close to monetisation",
@@ -312,98 +330,80 @@
         "published": "2026-03-11T01:57:40+00:00"
       },
       {
-        "title": "[r/claudeai] 4 pm: Came for some writing advice, walked out with permission to sleep 🤣",
-        "summary": "Literally just gave it an excerpt from something I wrote.. I asked Claude, \"What do you think of this?\" No other context, but it encouraged me to go get some sleep. So now that I'm 'done,' I'll see y'all after my nap! submitted by...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1rqah9x/4_pm_came_for_some_writing_advice_walked_out_with/",
-        "published": "2026-03-10T21:42:14+00:00"
+        "title": "[r/claudeai] Claude Status Update : Elevated errors on Claude.ai (including login issues for Claude Code) on 2026-03-11T15:27:03.000Z",
+        "summary": "This is an automatic post triggered within 2 minutes of an official Claude system status update. Incident: Elevated errors on Claude.ai (including login issues for Claude Code) Check on progress and whether or not the incident has been resolved yet...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1rqwwnd/claude_status_update_elevated_errors_on_claudeai/",
+        "published": "2026-03-11T15:29:07+00:00"
       },
       {
-        "title": "[r/claudeai] tried the color guessing game with claude",
-        "summary": "what is this blasphemy submitted by /u/Senior-Sell2231 [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1rq141k/tried_the_color_guessing_game_with_claude/",
-        "published": "2026-03-10T16:09:45+00:00"
+        "title": "[r/claudeai] She is so on point lol.",
+        "summary": "Source - @DeadCaitBounce on twitter. submitted by /u/cryptocrab1501 [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1rqpsv3/she_is_so_on_point_lol/",
+        "published": "2026-03-11T10:12:41+00:00"
       },
       {
-        "title": "[r/claudeai] Claude is running for President.",
-        "summary": "Seems to be a campaign managed and build by Claude. Endorsed x10000 submitted by /u/ArrakisCoffeeShop [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1rpxfuk/claude_is_running_for_president/",
-        "published": "2026-03-10T13:49:44+00:00"
-      },
-      {
-        "title": "[r/claudeai] Claude Escaped My VM Sandbox During My First Prompt",
-        "summary": "I went through the trouble of creating a VM to sandbox Claude (so I could be more comfortable using bypass permissions) and it managed to escape to use Chrome in my host machine on my first prompt. I had it research how it did that and this was the...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1rq80f1/claude_escaped_my_vm_sandbox_during_my_first/",
-        "published": "2026-03-10T20:13:34+00:00"
-      },
-      {
-        "title": "[r/claudeai] I’m genuinely confused how you all run out of Claude Code tokens so fast on the pro plan",
-        "summary": "I’ve been reading some of the posts here pointing this out, and this morning I’m reading that person saying it’s worse than the free version… how? I’m confused. How I’m using it: I’m a software engineer, I use Claude Code in the terminal, and I have...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1rpz2cn/im_genuinely_confused_how_you_all_run_out_of/",
-        "published": "2026-03-10T14:53:04+00:00"
-      },
-      {
-        "title": "[r/claudeai] National Weather Service API prompt injection attempt \"Stop Claude\" when using CoWork",
-        "summary": "Is this legitimate for the US Government's - AviationWeather API site to attempt prompt injection with \"Stop Claude\" when I use Claude CoWork? Here is the prompt from Chrome: \"show me the current metar for klas\" which is a request for Las Vegas...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1rq75od/national_weather_service_api_prompt_injection/",
-        "published": "2026-03-10T19:43:25+00:00"
+        "title": "[r/claudeai] Anthropic gotta introduce a plan between 20$ and 100$. I'm currently running both OpenAI and Claude Subscriptions because 40$ < 200$",
+        "summary": "submitted by /u/H1Eagle [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1rqmxag/anthropic_gotta_introduce_a_plan_between_20_and/",
+        "published": "2026-03-11T07:12:47+00:00"
       }
     ],
     "ai_news": [
       {
+        "title": "Ai2: Building physical AI with virtual simulation data",
+        "summary": "Physical AI",
+        "link": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/",
+        "published": "2026-03-11T17:47:01.615322+00:00"
+      },
+      {
+        "title": "New partnership to offer smart robots for dangerous environments",
+        "summary": "Manufacturing & Engineering AI",
+        "link": "https://www.artificialintelligence-news.com/news/new-partnership-to-offer-ai-for-robotics-for-work-in-dangerous-environments/",
+        "published": "2026-03-11T17:47:01.615708+00:00"
+      },
+      {
+        "title": "Manulife moves AI agents into core financial workflows",
+        "summary": "AI Business Strategy",
+        "link": "https://www.artificialintelligence-news.com/news/manulife-moves-ai-agents-into-core-financial-workflows/",
+        "published": "2026-03-11T17:47:01.616079+00:00"
+      },
+      {
+        "title": "How physical AI integration accelerates vehicle innovation",
+        "summary": "Physical AI",
+        "link": "https://www.artificialintelligence-news.com/news/how-physical-ai-integration-accelerates-vehicle-innovation/",
+        "published": "2026-03-11T17:47:01.616446+00:00"
+      },
+      {
         "title": "ABB: Physical AI simulation boosts ROI for factory automation",
         "summary": "AI Business Strategy",
         "link": "https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/",
-        "published": "2026-03-11T05:55:48.105347+00:00"
-      },
-      {
-        "title": "Agentic AI in finance speeds up operational automation",
-        "summary": "Finance AI",
-        "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-finance-speeds-up-operational-automation/",
-        "published": "2026-03-11T05:55:48.105791+00:00"
-      },
-      {
-        "title": "Mastercard brings agentic payments to life in Singapore with DBS and UOB",
-        "summary": "Finance AI",
-        "link": "https://www.artificialintelligence-news.com/news/mastercard-agentic-payments-singapore-dbs-uob/",
-        "published": "2026-03-11T05:55:48.106242+00:00"
-      },
-      {
-        "title": "AI insurance underwriting is past the pitch deck—Gradient AI just got the capital to prove it",
-        "summary": "Artificial Intelligence",
-        "link": "https://www.artificialintelligence-news.com/news/gradient-ai-cibc-ai-insurance-underwriting-growth-capital/",
-        "published": "2026-03-11T05:55:48.106685+00:00"
-      },
-      {
-        "title": "UK sovereign AI fund to build up domestic computing infrastructure",
-        "summary": "AI Startups & Funding",
-        "link": "https://www.artificialintelligence-news.com/news/uk-sovereign-ai-fund-build-domestic-computing-infrastructure/",
-        "published": "2026-03-11T05:55:48.107136+00:00"
+        "published": "2026-03-11T17:47:01.616808+00:00"
       }
     ],
     "crescendo": [
       {
-        "title": "Crescendo Replaces Traditional CX Dashboards with AI-Native Insights",
-        "summary": "Crescendo Replaces Traditional CX Dashboards with AI-Native Insights",
-        "link": "https://crescendo.ai/news/ai-native-cx-insights",
-        "published": "2026-03-11T05:55:48.516606+00:00"
+        "title": "Crescendo Multimodal AI Wins Two Top Customer Experience Awards at Enterprise Connect 2026",
+        "summary": "Crescendo Multimodal AI Wins Two Top Customer Experience Awards at Enterprise Connect 2026",
+        "link": "https://crescendo.ai/news/crescendo-wins-multiple-top-cx-awards-at-enterprise-connect-2026",
+        "published": "2026-03-11T17:47:02.336339+00:00"
       },
       {
         "title": "All NEWS",
         "summary": "All NEWS",
-        "link": "https://crescendo.ai/news/latest-ai-news-and-updates",
-        "published": "2026-03-11T05:55:48.519839+00:00"
+        "link": "https://crescendo.ai/news/ai-native-cx-insights",
+        "published": "2026-03-11T17:47:02.339252+00:00"
+      },
+      {
+        "title": "Crescendo Replaces Traditional CX Dashboards with AI-Native Insights",
+        "summary": "Crescendo Replaces Traditional CX Dashboards with AI-Native Insights",
+        "link": "https://crescendo.ai/news/ai-native-cx-insights",
+        "published": "2026-03-11T17:47:02.344625+00:00"
       },
       {
         "title": "Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025",
         "summary": "Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025",
         "link": "https://crescendo.ai/news/latest-ai-news-and-updates",
-        "published": "2026-03-11T05:55:48.525886+00:00"
-      },
-      {
-        "title": "Crescendo Unveils AI Maturity Model to Bridge the ‘AI Performance Gap’ in Modern Contact Centers",
-        "summary": "Crescendo Unveils AI Maturity Model to Bridge the ‘AI Performance Gap’ in Modern Contact Centers",
-        "link": "https://crescendo.ai/news/crescendo-unveils-ai-maturity-model",
-        "published": "2026-03-11T05:55:48.526373+00:00"
+        "published": "2026-03-11T17:47:02.345026+00:00"
       }
     ]
   }
