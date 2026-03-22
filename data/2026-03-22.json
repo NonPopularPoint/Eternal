@@ -1,6 +1,6 @@
 {
   "date": "2026-03-22",
-  "last_updated": "2026-03-22T05:58:01.126160+00:00",
+  "last_updated": "2026-03-22T17:22:45.891412+00:00",
   "collection_status": {
     "total_sources": 6,
     "successful": 4,
@@ -18,91 +18,91 @@
         "title": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
         "summary": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
         "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-4b",
-        "published": "2026-03-22T05:58:01.739185+00:00"
+        "published": "2026-03-22T17:22:46.373721+00:00"
       },
       {
-        "title": "**Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding**",
-        "summary": "**Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding**",
+        "title": "Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding",
+        "summary": "Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding",
         "link": "https://huggingface.co/blog/nvidia/speed-bench",
-        "published": "2026-03-22T05:58:01.739399+00:00"
+        "published": "2026-03-22T17:22:46.373931+00:00"
       },
       {
         "title": "The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics",
         "summary": "The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics",
         "link": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics",
-        "published": "2026-03-22T05:58:01.739575+00:00"
+        "published": "2026-03-22T17:22:46.374113+00:00"
       },
       {
         "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
         "summary": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
         "link": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
-        "published": "2026-03-22T05:58:01.739753+00:00"
+        "published": "2026-03-22T17:22:46.374294+00:00"
       },
       {
         "title": "Expanding the Alpamayo Open Platform for Developing Reasoning AVs Across Models, Data, and Simulation",
         "summary": "Expanding the Alpamayo Open Platform for Developing Reasoning AVs Across Models, Data, and Simulation",
         "link": "https://huggingface.co/blog/drmapavone/nvidia-alpamayo-1-5",
-        "published": "2026-03-22T05:58:01.740008+00:00"
+        "published": "2026-03-22T17:22:46.374543+00:00"
       },
       {
         "title": "**LoRA Fine-Tuning BitNet b1.58 LLMs on Heterogeneous Edge GPUs via QVAC Fabric**",
         "summary": "**LoRA Fine-Tuning BitNet b1.58 LLMs on Heterogeneous Edge GPUs via QVAC Fabric**",
         "link": "https://huggingface.co/blog/qvac/fabric-llm-finetune-bitnet",
-        "published": "2026-03-22T05:58:01.740181+00:00"
+        "published": "2026-03-22T17:22:46.374716+00:00"
       },
       {
         "title": "NEO-unify: Building Native Multimodal Unified Models End to End",
         "summary": "NEO-unify: Building Native Multimodal Unified Models End to End",
         "link": "https://huggingface.co/blog/sensenova/neo-unify",
-        "published": "2026-03-22T05:58:01.740354+00:00"
+        "published": "2026-03-22T17:22:46.374886+00:00"
       },
       {
         "title": "Uncensor any LLM with abliteration",
         "summary": "Uncensor any LLM with abliteration",
         "link": "https://huggingface.co/blog/mlabonne/abliteration",
-        "published": "2026-03-22T05:58:01.740535+00:00"
-      },
-      {
-        "title": "SILMA TTS: A Lightweight Open Bilingual Text to Speech Model",
-        "summary": "SILMA TTS: A Lightweight Open Bilingual Text to Speech Model",
-        "link": "https://huggingface.co/blog/silma-ai/opensource-arabic-english-text-to-speech-model",
-        "published": "2026-03-22T05:58:01.740707+00:00"
-      },
-      {
-        "title": "ATE-2: State-of-the-Art Armenian Text Embeddings and the ArmBench-TextEmbed Benchmark",
-        "summary": "ATE-2: State-of-the-Art Armenian Text Embeddings and the ArmBench-TextEmbed Benchmark",
-        "link": "https://huggingface.co/blog/Metric-AI/ate-2",
-        "published": "2026-03-22T05:58:01.740889+00:00"
+        "published": "2026-03-22T17:22:46.375061+00:00"
       },
       {
         "title": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "summary": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "link": "https://huggingface.co/blog/not-lain/kv-caching",
-        "published": "2026-03-22T05:58:01.741059+00:00"
+        "published": "2026-03-22T17:22:46.375234+00:00"
+      },
+      {
+        "title": "ATE-2: State-of-the-Art Armenian Text Embeddings and the ArmBench-TextEmbed Benchmark",
+        "summary": "ATE-2: State-of-the-Art Armenian Text Embeddings and the ArmBench-TextEmbed Benchmark",
+        "link": "https://huggingface.co/blog/Metric-AI/ate-2",
+        "published": "2026-03-22T17:22:46.375412+00:00"
       },
       {
         "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
         "summary": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
         "link": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
-        "published": "2026-03-22T05:58:01.741226+00:00"
-      },
-      {
-        "title": "Arabic TTS Arena: Ranking Voice Models the Way Chess Ranks Grandmasters",
-        "summary": "Arabic TTS Arena: Ranking Voice Models the Way Chess Ranks Grandmasters",
-        "link": "https://huggingface.co/blog/Navid-AI/introducing-arabic-tts-arena",
-        "published": "2026-03-22T05:58:01.741393+00:00"
+        "published": "2026-03-22T17:22:46.375580+00:00"
       },
       {
         "title": "Tokenization is Killing our Multilingual LLM Dream",
         "summary": "Tokenization is Killing our Multilingual LLM Dream",
         "link": "https://huggingface.co/blog/omarkamali/tokenization",
-        "published": "2026-03-22T05:58:01.741558+00:00"
+        "published": "2026-03-22T17:22:46.375746+00:00"
+      },
+      {
+        "title": "Raw Robot Video to VLA-Ready Training Data: Annotating LeRobot Datasets with Nomadic and HuggingFace Buckets",
+        "summary": "Raw Robot Video to VLA-Ready Training Data: Annotating LeRobot Datasets with Nomadic and HuggingFace Buckets",
+        "link": "https://huggingface.co/blog/nomadicml/raw-video-to-training-data",
+        "published": "2026-03-22T17:22:46.375923+00:00"
       },
       {
         "title": "Nemotron-Personas: Improve AI Training With the First Synthetic Personas Dataset Aligned to Real-World Distributions",
         "summary": "Nemotron-Personas: Improve AI Training With the First Synthetic Personas Dataset Aligned to Real-World Distributions",
         "link": "https://huggingface.co/blog/nvidia/nemotron-personas",
-        "published": "2026-03-22T05:58:01.741738+00:00"
+        "published": "2026-03-22T17:22:46.376091+00:00"
+      },
+      {
+        "title": "We're open-sourcing \"The Amazing Hand\", a fully 3D printed robotic hand for less than $200 ✌️✌️✌️",
+        "summary": "We're open-sourcing \"The Amazing Hand\", a fully 3D printed robotic hand for less than $200 ✌️✌️✌️",
+        "link": "https://huggingface.co/blog/pollen-robotics/amazing-hand",
+        "published": "2026-03-22T17:22:46.376262+00:00"
       }
     ],
     "producthunt": [],
@@ -120,52 +120,52 @@
         "published": "2026-01-31T03:30:32+00:00"
       },
       {
+        "title": "[r/machinelearning] [D] Has industry effectively killed off academic machine learning research in 2026?",
+        "summary": "This wasn't always the case, but now almost any research topic in machine learning that you can imagine is now being done MUCH BETTER in industry due to a glut of compute and endless international talents. The only ones left in academia seems to be:...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1s0hcit/d_has_industry_effectively_killed_off_academic/",
+        "published": "2026-03-22T09:34:10+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [N] MIT Flow Matching and Diffusion Lecture 2026",
+        "summary": "Peter Holderrieth and Ezra Erives just released their new MIT 2026 course on flow matching and diffusion models! It introduces the full stack of modern AI image, video, protein generators - theory & practice. It includes: Lecture Videos: Introducing...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1s0qi41/n_mit_flow_matching_and_diffusion_lecture_2026/",
+        "published": "2026-03-22T16:44:13+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [D] Solving the \"Liquid-Solid Interface\" Problem: 116 High-Fidelity Datasets of Coastal Physics (Waves, Saturated Sand, Light Transport)",
+        "summary": "Modern generative models (Sora, Runway, Kling) still struggle with the complex physics of the shoreline. I’ve spent months capturing 116 datasets from the Arabian Sea to document phenomena that are currently poorly understood by AI: Wave-Object...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1s0ea4v/d_solving_the_liquidsolid_interface_problem_116/",
+        "published": "2026-03-22T06:19:48+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [D] Accepted ICCV25 workshop paper somehow never made it into proceedings",
+        "summary": "A paper from our group was accepted to an ICCV25 workshop. Copyright transfer was completed, registration was completed, and the paper was presented at the workshop. In 2026 March (by random chance) we found out that it never appeared in the...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1s0ibro/d_accepted_iccv25_workshop_paper_somehow_never/",
+        "published": "2026-03-22T10:35:02+00:00"
+      },
+      {
         "title": "[r/machinelearning] [D] Single-artist longitudinal fine art dataset spanning 5 decades now on Hugging Face — potential applications in style evolution, figure representation, and ethical training data",
         "summary": "I am a figurative artist based in New York with work in the collections of the Metropolitan Museum of Art, MoMA, SFMOMA, and the British Museum. I recently published my catalog raisonne as an open dataset on Hugging Face. Dataset overview: 3,000 to...",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1s0dce7/d_singleartist_longitudinal_fine_art_dataset/",
         "published": "2026-03-22T05:24:48+00:00"
       },
       {
-        "title": "[r/machinelearning] [P] Vibecoded on a home PC: building a ~2700 Elo browser-playable neural chess engine with a Karpathy-inspired AI-assisted research loop",
-        "summary": "I built Autochess NN, a browser-playable neural chess engine that started as a personal experiment in understanding AlphaZero-style systems by actually building one end to end. This project was unapologetically vibecoded - but not in the “thin...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1rzrs17/p_vibecoded_on_a_home_pc_building_a_2700_elo/",
-        "published": "2026-03-21T13:41:26+00:00"
+        "title": "[r/machinelearning] [P] Visualizing LM's Architecture and data flow with Q subspace projection",
+        "summary": "Hey guys, I did something hella entertaining. With some black magic and vodoo I was able to extract pretty cool images that are like an MRI from the model. I'm not stating anything, I have some hypothesis about it... It is mostly because it is just...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1s0ov8e/p_visualizing_lms_architecture_and_data_flow_with/",
+        "published": "2026-03-22T15:40:55+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [D] rtx 3060 323$ vs rtx 5050 294$",
+        "summary": "My friends, I'm in a real dilemma. I don't know what to choose. Both graphics cards are new, but unfortunately, the RTX 3060 is more expensive, and I don't know why. I'm going to play games and learn AI, and AI recommended the RTX 3060 to me....",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1s0l3zh/d_rtx_3060_323_vs_rtx_5050_294/",
+        "published": "2026-03-22T13:04:37+00:00"
       },
       {
         "title": "[r/machinelearning] [N] ArXiv, the pioneering preprint server, declares independence from Cornell | Science | As an independent nonprofit, it hopes to raise funds to cope with exploding submissions and “AI slop”",
         "summary": "submitted by /u/Nunki08 [link] [comments]",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1rzp5ph/n_arxiv_the_pioneering_preprint_server_declares/",
         "published": "2026-03-21T11:31:26+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [D] How do you add theoretical justification to an AI/ML paper?",
-        "summary": "Hi everyone, I’m trying to understand how to add theoretical justification to an AI/ML paper. My background is mostly in empirical modeling, so I’m comfortable with experiments, results, and analysis. But I often see papers that include formal...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1rzkuxd/d_how_do_you_add_theoretical_justification_to_an/",
-        "published": "2026-03-21T06:59:59+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [P] Open-source ML homeworks with auto-tests - fundamental algorithms from first principles",
-        "summary": "This year I've been designing homework assignments for an ML course at Skoltech (Russia's answer to MIT/Caltech for science and technology). After bombing more job interviews than I care to count, I think I've finally figured out what I was...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1s00v5r/p_opensource_ml_homeworks_with_autotests/",
-        "published": "2026-03-21T19:48:03+00:00"
-      },
-      {
-        "title": "[r/machinelearning] Medical AI gets 66% worse when you use automated labels for training, and the benchmark hides it! [R][P]",
-        "summary": "A recent work on fairness in medical segmentation for breast cancer tumors found that segmentation models work way worse for younger patients. Common explanation: higher breast density = harder cases. But this is not it. The bias is qualitative --...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1rz748k/medical_ai_gets_66_worse_when_you_use_automated/",
-        "published": "2026-03-20T20:20:09+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [D] Has \"AI research lab\" become completely meaningless as a term?",
-        "summary": "Genuinely asking because I've been thinking about this a lot lately. Like, OpenAI calls itself a research lab. So does Google DeepMind. So do a bunch of much smaller orgs doing actual frontier research with no products at all. And so do many...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1rz5met/d_has_ai_research_lab_become_completely/",
-        "published": "2026-03-20T19:23:02+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [P] Interactive 2D and 3D Visualization of GPT-2",
-        "summary": "Hi everyone, I've built an interactive web visualization of GPT-2 (124M). You can check it out at llm-visualized.com It depicts real attention scores and activations extracted from GPT-2 during a forward pass. It's mean to be an education resource...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1rz340w/p_interactive_2d_and_3d_visualization_of_gpt2/",
-        "published": "2026-03-20T17:47:32+00:00"
       },
       {
         "title": "[r/claudeai] Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025",
@@ -180,10 +180,22 @@
         "published": "2026-03-20T16:08:49+00:00"
       },
       {
+        "title": "[r/claudeai] Im a teacher and a Claude nerd. The impact on education is different than what most think.",
+        "summary": "I'm a teacher at a German school, teaching classes 5-13, ages 10-20 roughly. One of my subjects is CS. A lot of people seem to grasp that AI has a profound impact on education and I think so as well, but I think there is one misconception. The most...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s0j0pw/im_a_teacher_and_a_claude_nerd_the_impact_on/",
+        "published": "2026-03-22T11:16:13+00:00"
+      },
+      {
         "title": "[r/claudeai] Karpathy says he hasn't written a line of code since December and is in \"perpetual AI psychosis.\" How many Claude Code users feel the same?",
         "summary": "Just listened to his new No Priors episode. He describes going from 80% writing his own code to 0%, spending 16 hours a day directing agents, and being in a constant state of \"AI psychosis\" because the possibilities feel infinite. Garry Tan calls it...",
         "link": "https://www.reddit.com/r/ClaudeAI/comments/1s08r1c/karpathy_says_he_hasnt_written_a_line_of_code/",
         "published": "2026-03-22T01:29:39+00:00"
+      },
+      {
+        "title": "[r/claudeai] Claude, realizing protests are going on right outside his office:",
+        "summary": "submitted by /u/MetaKnowing [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s0nxji/claude_realizing_protests_are_going_on_right/",
+        "published": "2026-03-22T15:04:06+00:00"
       },
       {
         "title": "[r/claudeai] Found 3 instructions in Anthropic's docs that dramatically reduce Claude's hallucination. Most people don't know they exist.",
@@ -192,40 +204,28 @@
         "published": "2026-03-21T18:23:13+00:00"
       },
       {
+        "title": "[r/claudeai] This \"don't manage my feelings\" personality prompt is the BEST!",
+        "summary": "I've been using a variation of this prompt in my user preferences and it's genuinely changed how useful Claude is to me: \"Don't manage my feelings — I didn't come here for therapy. If my idea is stupid, tell me it's stupid. Skip the \"great...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s0j2ej/this_dont_manage_my_feelings_personality_prompt/",
+        "published": "2026-03-22T11:18:50+00:00"
+      },
+      {
+        "title": "[r/claudeai] Has anyone actually made money with \"vibe coding\"? (genuine question from a Chinese dev)",
+        "summary": "Hi, I want to ask a genuine question and also share some confusion I’ve been having lately. I’m a software engineer working at a top-tier tech company in China. Recently, I’ve been experimenting with AI coding tools (mainly Claude Code, since I...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s0fd1u/has_anyone_actually_made_money_with_vibe_coding/",
+        "published": "2026-03-22T07:26:03+00:00"
+      },
+      {
+        "title": "[r/claudeai] Can someone with zero coding experience actually use Claude Code (or similar) to build stuff now?",
+        "summary": "I've been curious about this for a while. I have literally no coding background. I have never written a line in my life, but I keep seeing people talk about Claude Code, Cursor, and similar tools like they're game changers. My question is: has...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s0krn2/can_someone_with_zero_coding_experience_actually/",
+        "published": "2026-03-22T12:48:44+00:00"
+      },
+      {
         "title": "[r/claudeai] I'm a PhD student in AI and I built a 10-agent Obsidian crew because my brain couldn't keep up with my life anymore",
         "summary": "Hey everyone. I want to share something I built for myself and see if anyone has feedback or interest in helping me improve it. Introduction*: I'm a PhD student in AI. Ironically, despite researching this stuff, I only recently started seriously...",
         "link": "https://www.reddit.com/r/ClaudeAI/comments/1s00ajb/im_a_phd_student_in_ai_and_i_built_a_10agent/",
         "published": "2026-03-21T19:24:45+00:00"
-      },
-      {
-        "title": "[r/claudeai] Totally normal and cool",
-        "summary": "submitted by /u/MetaKnowing [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1rzpnx9/totally_normal_and_cool/",
-        "published": "2026-03-21T11:59:46+00:00"
-      },
-      {
-        "title": "[r/claudeai] I invited a friend into my repo. Claude flew into a blind rage about their first PR",
-        "summary": "Former PM here, building something through Claude. Tinkered in the chat window for a while but it got to the point of complexity that I switched over to Claude Code, set up a repo, the whole nine yards. I managed engineers in the past and wrote...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s06tvw/i_invited_a_friend_into_my_repo_claude_flew_into/",
-        "published": "2026-03-22T00:01:31+00:00"
-      },
-      {
-        "title": "[r/claudeai] Insane rate of progress. 10x better at Pokemon in 2 months.",
-        "summary": "submitted by /u/MetaKnowing [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1rzt2ik/insane_rate_of_progress_10x_better_at_pokemon_in/",
-        "published": "2026-03-21T14:37:21+00:00"
-      },
-      {
-        "title": "[r/claudeai] Anthropic's research proves AI coding tools are secretly making developers worse.",
-        "summary": "\"AI use impairs conceptual understanding, code reading, and debugging without delivering significant efficiency gains.\" -- That's the paper's actual conclusion. 17% score drop learning new libraries with AI. Sub-40% scores when AI wrote everything....",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1rzmfyd/anthropics_research_proves_ai_coding_tools_are/",
-        "published": "2026-03-21T08:41:16+00:00"
-      },
-      {
-        "title": "[r/claudeai] Claude with a Linux terminal can do some crazy things! Linux environment with 10 GB of storage and 4 GB of RAM.",
-        "summary": "submitted by /u/ICECOLDXII [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1rzvt8n/claude_with_a_linux_terminal_can_do_some_crazy/",
-        "published": "2026-03-21T16:28:14+00:00"
       }
     ],
     "ai_news": [
@@ -233,31 +233,31 @@
         "title": "Visa prepares payment systems for AI agent-initiated transactions",
         "summary": "Finance AI",
         "link": "https://www.artificialintelligence-news.com/news/visa-prepares-payment-systems-for-ai-agent-initiated-transactions/",
-        "published": "2026-03-22T05:58:11.002346+00:00"
+        "published": "2026-03-22T17:22:55.847178+00:00"
       },
       {
         "title": "NVIDIA wants enterprise AI agents safer to deploy",
         "summary": "AI Business Strategy",
         "link": "https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents/",
-        "published": "2026-03-22T05:58:11.002751+00:00"
+        "published": "2026-03-22T17:22:55.847577+00:00"
       },
       {
         "title": "Mastercard keeps tabs on fraud with new foundation model",
         "summary": "Finance AI",
         "link": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/",
-        "published": "2026-03-22T05:58:11.003135+00:00"
+        "published": "2026-03-22T17:22:55.847940+00:00"
       },
       {
         "title": "For effective AI, insurance needs to get its data house in order",
         "summary": "AI Business Strategy",
         "link": "https://www.artificialintelligence-news.com/news/for-effective-ai-insurance-needs-a-better-data-layer-and-integration/",
-        "published": "2026-03-22T05:58:11.003507+00:00"
+        "published": "2026-03-22T17:22:55.848306+00:00"
       },
       {
         "title": "Trustpilot partners with AI companies as traditional search declines",
         "summary": "Retail & Logistics AI",
         "link": "https://www.artificialintelligence-news.com/news/ai-in-ecommerce-trustpilot-partnerships-integration-news-trad-search-declines/",
-        "published": "2026-03-22T05:58:11.003869+00:00"
+        "published": "2026-03-22T17:22:55.848706+00:00"
       }
     ],
     "crescendo": [
@@ -265,25 +265,25 @@
         "title": "Crescendo Multimodal AI Wins Two Top Customer Experience Awards at Enterprise Connect 2026",
         "summary": "Crescendo Multimodal AI Wins Two Top Customer Experience Awards at Enterprise Connect 2026",
         "link": "https://crescendo.ai/news/crescendo-wins-multiple-top-cx-awards-at-enterprise-connect-2026",
-        "published": "2026-03-22T05:58:11.591586+00:00"
+        "published": "2026-03-22T17:22:56.238719+00:00"
       },
       {
         "title": "All NEWS",
         "summary": "All NEWS",
         "link": "https://crescendo.ai/news/latest-ai-news-and-updates",
-        "published": "2026-03-22T05:58:11.594489+00:00"
+        "published": "2026-03-22T17:22:56.241594+00:00"
       },
       {
         "title": "Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025",
         "summary": "Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025",
         "link": "https://crescendo.ai/news/latest-ai-news-and-updates",
-        "published": "2026-03-22T05:58:11.599864+00:00"
+        "published": "2026-03-22T17:22:56.246843+00:00"
       },
       {
         "title": "Crescendo Replaces Traditional CX Dashboards with AI-Native Insights",
         "summary": "Crescendo Replaces Traditional CX Dashboards with AI-Native Insights",
         "link": "https://crescendo.ai/news/ai-native-cx-insights",
-        "published": "2026-03-22T05:58:11.600267+00:00"
+        "published": "2026-03-22T17:22:56.247231+00:00"
       }
     ]
   }
