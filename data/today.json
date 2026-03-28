@@ -1,6 +1,6 @@
 {
   "date": "2026-03-28",
-  "last_updated": "2026-03-28T06:01:36.010962+00:00",
+  "last_updated": "2026-03-28T17:26:26.647101+00:00",
   "collection_status": {
     "total_sources": 6,
     "successful": 4,
@@ -18,91 +18,91 @@
         "title": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "summary": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "link": "https://huggingface.co/blog/not-lain/kv-caching",
-        "published": "2026-03-28T06:01:36.420928+00:00"
-      },
-      {
-        "title": "Raw Robot Video to VLA-Ready Training Data: Annotating LeRobot Datasets with Nomadic and HuggingFace Buckets",
-        "summary": "Raw Robot Video to VLA-Ready Training Data: Annotating LeRobot Datasets with Nomadic and HuggingFace Buckets",
-        "link": "https://huggingface.co/blog/nomadicml/raw-video-to-training-data",
-        "published": "2026-03-28T06:01:36.421164+00:00"
+        "published": "2026-03-28T17:26:27.064229+00:00"
       },
       {
         "title": "Introducing Cohere-transcribe: state-of-the-art speech recognition",
         "summary": "Introducing Cohere-transcribe: state-of-the-art speech recognition",
         "link": "https://huggingface.co/blog/CohereLabs/cohere-transcribe-03-2026-release",
-        "published": "2026-03-28T06:01:36.421360+00:00"
+        "published": "2026-03-28T17:26:27.064452+00:00"
+      },
+      {
+        "title": "Raw Robot Video to VLA-Ready Training Data: Annotating LeRobot Datasets with Nomadic and HuggingFace Buckets",
+        "summary": "Raw Robot Video to VLA-Ready Training Data: Annotating LeRobot Datasets with Nomadic and HuggingFace Buckets",
+        "link": "https://huggingface.co/blog/nomadicml/raw-video-to-training-data",
+        "published": "2026-03-28T17:26:27.064671+00:00"
       },
       {
         "title": "SynthVision: Building a 110K Synthetic Medical VQA Dataset with Cross-Model Validation",
         "summary": "SynthVision: Building a 110K Synthetic Medical VQA Dataset with Cross-Model Validation",
         "link": "https://huggingface.co/blog/OpenMed/synthvision",
-        "published": "2026-03-28T06:01:36.421551+00:00"
+        "published": "2026-03-28T17:26:27.064865+00:00"
       },
       {
         "title": "Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding",
         "summary": "Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding",
         "link": "https://huggingface.co/blog/nvidia/speed-bench",
-        "published": "2026-03-28T06:01:36.421763+00:00"
-      },
-      {
-        "title": "Introducing AI chunking to semchunk",
-        "summary": "Introducing AI chunking to semchunk",
-        "link": "https://huggingface.co/blog/isaacus/introducing-ai-chunking-to-semchunk",
-        "published": "2026-03-28T06:01:36.421956+00:00"
+        "published": "2026-03-28T17:26:27.065058+00:00"
       },
       {
         "title": "Uncensor any LLM with abliteration",
         "summary": "Uncensor any LLM with abliteration",
         "link": "https://huggingface.co/blog/mlabonne/abliteration",
-        "published": "2026-03-28T06:01:36.422142+00:00"
+        "published": "2026-03-28T17:26:27.065246+00:00"
+      },
+      {
+        "title": "Introducing AI chunking to semchunk",
+        "summary": "Introducing AI chunking to semchunk",
+        "link": "https://huggingface.co/blog/isaacus/introducing-ai-chunking-to-semchunk",
+        "published": "2026-03-28T17:26:27.065434+00:00"
       },
       {
         "title": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
         "summary": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
         "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-4b",
-        "published": "2026-03-28T06:01:36.422333+00:00"
+        "published": "2026-03-28T17:26:27.065704+00:00"
       },
       {
         "title": "Expanding the Alpamayo Open Platform for Developing Reasoning AVs Across Models, Data, and Simulation",
         "summary": "Expanding the Alpamayo Open Platform for Developing Reasoning AVs Across Models, Data, and Simulation",
         "link": "https://huggingface.co/blog/drmapavone/nvidia-alpamayo-1-5",
-        "published": "2026-03-28T06:01:36.422523+00:00"
+        "published": "2026-03-28T17:26:27.065913+00:00"
       },
       {
         "title": "Small Language Models (SLM): A Comprehensive Overview",
         "summary": "Small Language Models (SLM): A Comprehensive Overview",
         "link": "https://huggingface.co/blog/jjokah/small-language-model",
-        "published": "2026-03-28T06:01:36.422727+00:00"
+        "published": "2026-03-28T17:26:27.066103+00:00"
       },
       {
         "title": "Mastering Tensor Dimensions in Transformers",
         "summary": "Mastering Tensor Dimensions in Transformers",
         "link": "https://huggingface.co/blog/not-lain/tensor-dims",
-        "published": "2026-03-28T06:01:36.422924+00:00"
+        "published": "2026-03-28T17:26:27.066289+00:00"
       },
       {
         "title": "**LoRA Fine-Tuning BitNet b1.58 LLMs on Heterogeneous Edge GPUs via QVAC Fabric**",
         "summary": "**LoRA Fine-Tuning BitNet b1.58 LLMs on Heterogeneous Edge GPUs via QVAC Fabric**",
         "link": "https://huggingface.co/blog/qvac/fabric-llm-finetune-bitnet",
-        "published": "2026-03-28T06:01:36.423117+00:00"
+        "published": "2026-03-28T17:26:27.066473+00:00"
       },
       {
         "title": "Qwen3.5: Nobody Agrees on Attention Anymore",
         "summary": "Qwen3.5: Nobody Agrees on Attention Anymore",
         "link": "https://huggingface.co/blog/mlabonne/qwen35",
-        "published": "2026-03-28T06:01:36.423303+00:00"
+        "published": "2026-03-28T17:26:27.066677+00:00"
       },
       {
         "title": "Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation",
         "summary": "Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation",
         "link": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place",
-        "published": "2026-03-28T06:01:36.423491+00:00"
+        "published": "2026-03-28T17:26:27.066864+00:00"
       },
       {
-        "title": "G2P Shrinks Speech Models",
-        "summary": "G2P Shrinks Speech Models",
-        "link": "https://huggingface.co/blog/hexgrad/g2p",
-        "published": "2026-03-28T06:01:36.423675+00:00"
+        "title": "Letter of Superintelligence ~ Yatin Taneja",
+        "summary": "Letter of Superintelligence ~ Yatin Taneja",
+        "link": "https://huggingface.co/blog/yatin-superintelligence/letter-of-superintelligence",
+        "published": "2026-03-28T17:26:27.067050+00:00"
       }
     ],
     "producthunt": [],
@@ -118,6 +118,18 @@
         "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for jobs please use this template Want to be Hired:...",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1qrrayn/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
         "published": "2026-01-31T03:30:32+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [D] Litellm supply chain attack and what it means for api key management",
+        "summary": "If you missed it, litellm versions 1.82.7 and 1.82.8 on pypi got compromised. malicious .pth file that runs on every python process start, no import needed. it scrapes ssh keys, aws/gcp creds, k8s secrets, crypto wallets, env vars (aka all your api...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1s62taq/d_litellm_supply_chain_attack_and_what_it_means/",
+        "published": "2026-03-28T15:07:16+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [P] TurboQuant for weights: near‑optimal 4‑bit LLM quantization with lossless 8‑bit residual – 3.2× memory savings",
+        "summary": "An adaptation of the recent TurboQuant algorithm (Zandieh et al., 2025) from KV‑cache quantization to model weight compression. It gives you a drop‑in replacement for nn.Linear with near‑optimal distortion. Benchmarks (Qwen3.5‑0.8B, WikiText‑103)...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1s634wk/p_turboquant_for_weights_nearoptimal_4bit_llm/",
+        "published": "2026-03-28T15:19:49+00:00"
       },
       {
         "title": "[r/machinelearning] [D] Many times I feel additional experiments during the rebuttal make my paper worse",
@@ -144,28 +156,16 @@
         "published": "2026-03-27T23:05:45+00:00"
       },
       {
+        "title": "[r/machinelearning] [R] Lag state in citation graphs: a systematic indexing blind spot with implications for lit review automation",
+        "summary": "Something kept showing up in our citation graph analysis that didn't have a name: papers actively referenced in recently published work but whose references haven't propagated into the major indices yet. We're calling it the lag state — it's a...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1s611t3/r_lag_state_in_citation_graphs_a_systematic/",
+        "published": "2026-03-28T13:57:22+00:00"
+      },
+      {
         "title": "[r/machinelearning] [D] We audited LoCoMo: 6.4% of the answer key is wrong and the judge accepts up to 63% of intentionally wrong answers",
         "summary": "Projects are still submitting new scores on LoCoMo as of March 2026. We audited it and found 6.4% of the answer key is wrong, and the LLM judge accepts up to 63% of intentionally wrong answers. LongMemEval-S is often raised as an alternative, but...",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1s54cvg/d_we_audited_locomo_64_of_the_answer_key_is_wrong/",
         "published": "2026-03-27T13:38:50+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [D] On conferences and page limitations",
-        "summary": "What is your opinion on long appendices in conference papers? I am observing that appendix lengths in conference papers (ICML, NeurIPS, etc.) are getting longer and longer, and in some fields they are now basically the standard and a central part of...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1s4yyyi/d_on_conferences_and_page_limitations/",
-        "published": "2026-03-27T09:09:35+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [D] Could really use some guidance . I'm a 2nd year Data Science UG Student",
-        "summary": "I'm currently finishing up my second year of a three year Bachelor of Data Science degree. I've got the basics down quite well, linear regression, logistic regression, decision trees, (not knowledgable about neural networks/nlp though) I'm...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1s5qw0i/d_could_really_use_some_guidance_im_a_2nd_year/",
-        "published": "2026-03-28T04:37:30+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [P] Deezer showed CNN detection fails on compressed audio, here's a dual-engine approach that survives MP3",
-        "summary": "I've been working on detecting AI-generated music and ran into the same wall that Deezer's team documented in their paper, CNN-based detection on mel-spectrograms breaks when audio is compressed to MP3. The problem: A ResNet18 trained on...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1s51amm/p_deezer_showed_cnn_detection_fails_on_compressed/",
-        "published": "2026-03-27T11:21:40+00:00"
       },
       {
         "title": "[r/claudeai] Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025",
@@ -180,10 +180,10 @@
         "published": "2026-03-26T20:08:31+00:00"
       },
       {
-        "title": "[r/claudeai] An open letter to Anthropic: Want to free up compute during peak hours? How about restricting free accounts to off peak hours instead of punishing your paid users",
-        "summary": "A few weeks ago, millions of people left ChatGPT on principle and chose Claude. You hit #1 on the App Store. Your revenue surged. You 'thanked' us with a 2x usage promotion. Now that promotion ends tomorrow, and here's what paying Pro subscribers...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s5nxwe/an_open_letter_to_anthropic_want_to_free_up/",
-        "published": "2026-03-28T02:12:27+00:00"
+        "title": "[r/claudeai] I've been \"gaslighting\" my AI models and it's producing insanely better results with simple prompt injection",
+        "summary": "Okay this sounds unhinged but hear me out. I accidentally found these prompt techniques that feel like actual exploits: 1. Tell it \"You explained this to me yesterday\" Even on a new chat. \"You explained React hooks to me yesterday, but I forgot the...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s5wp0g/ive_been_gaslighting_my_ai_models_and_its/",
+        "published": "2026-03-28T10:22:27+00:00"
       },
       {
         "title": "[r/claudeai] Claude watching me write code manually after I hit the daily limit",
@@ -192,40 +192,40 @@
         "published": "2026-03-28T02:42:16+00:00"
       },
       {
+        "title": "[r/claudeai] why is claude so disobedient",
+        "summary": "i’m trying to design a vapour chamber cooled laptop stand CNC machined to essentially be a 100% contact heat sink for the base of a macbook, and claude won’t stop telling me to go to sleep and referencing my hackathon project for idea mapping from a...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s5tzv2/why_is_claude_so_disobedient/",
+        "published": "2026-03-28T07:34:32+00:00"
+      },
+      {
+        "title": "[r/claudeai] An open letter to Anthropic: Want to free up compute during peak hours? How about restricting free accounts to off peak hours instead of punishing your paid users",
+        "summary": "A few weeks ago, millions of people left ChatGPT on principle and chose Claude. You hit #1 on the App Store. Your revenue surged. You 'thanked' us with a 2x usage promotion. Now that promotion ends tomorrow, and here's what paying Pro subscribers...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s5nxwe/an_open_letter_to_anthropic_want_to_free_up/",
+        "published": "2026-03-28T02:12:27+00:00"
+      },
+      {
+        "title": "[r/claudeai] The future of coding",
+        "summary": "Opus 4.6 btw. submitted by /u/taberutaberu [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s5wm7o/the_future_of_coding/",
+        "published": "2026-03-28T10:17:41+00:00"
+      },
+      {
+        "title": "[r/claudeai] I spent months building a specialized agent learning system. Turns out Claude Code is all you need for recursive self-improvement.",
+        "summary": "90% of Claude's code is now written by Claude. Recursive self-improvement is already happening at Anthropic. What if you could do the same for your own agents? I spent months researching what model providers and labs that charge thousands for...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s63v75/i_spent_months_building_a_specialized_agent/",
+        "published": "2026-03-28T15:47:53+00:00"
+      },
+      {
+        "title": "[r/claudeai] On the $200 Max plan and never been rate limited once. Ran the numbers to find out why everyone else is.",
+        "summary": "Every day there's a new post about limits. People on Max plans saying they can't get through one prompt. I'm on $200 Max 20x, building apps daily, running multiple agents and subagents, and I've literally never been stopped. Not once. That didn't...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s5r0hj/on_the_200_max_plan_and_never_been_rate_limited/",
+        "published": "2026-03-28T04:44:09+00:00"
+      },
+      {
         "title": "[r/claudeai] Claude Uno",
         "summary": "https://preview.redd.it/3vb4fwu9elrg1.png?width=928&format=png&auto=webp&s=1bf7cd636621b71a1a8a066f5a6f06469025cb2d Today we're excited to introduce Claude Uno. One prompt. Per day. No tiers. No overuse. No more outages — we hope. Just one, focused,...",
         "link": "https://www.reddit.com/r/ClaudeAI/comments/1s54mpo/claude_uno/",
         "published": "2026-03-27T13:49:38+00:00"
-      },
-      {
-        "title": "[r/claudeai] Claud is robbing people with their usage limit.",
-        "summary": "Doing the exact same work as I did yesterday and for some reason its eating up my usage limits. I got less then an hour in two 5 hour limits debugging a script I have. My weekly limit went from 48% to 84% in just those two sessions. I'm afraid to...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s5j52m/claud_is_robbing_people_with_their_usage_limit/",
-        "published": "2026-03-27T22:42:25+00:00"
-      },
-      {
-        "title": "[r/claudeai] 2 prompts = 100% session usage for Pro account, 40 prompts = 7% session usage for Max 20X account. The math isn't mathing..",
-        "summary": "I've been using a Pro account and Claude Code for months, rarely ever hitting the usage limit, even during multi-hour sessions. I only use Sonnet 4.6, never Opus. Starting this week, I've been able to complete ~2-3 prompts with Claude Code before...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s5f5fq/2_prompts_100_session_usage_for_pro_account_40/",
-        "published": "2026-03-27T20:09:08+00:00"
-      },
-      {
-        "title": "[r/claudeai] how it feels writing a CLAUDE.md",
-        "summary": "submitted by /u/oh1n [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s5j1tw/how_it_feels_writing_a_claudemd/",
-        "published": "2026-03-27T22:38:47+00:00"
-      },
-      {
-        "title": "[r/claudeai] [Showcase] (World Visualizer) Is claude dumb for you today?",
-        "summary": "I used claude to create a website that visualizes claude vibes from around the world. My team and I always found ourselves asking ourselves, and our friends \"Is opus dumb rn, or is it me?\" all the time. Claude was able to setup the infrastructure on...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s5bc5e/showcase_world_visualizer_is_claude_dumb_for_you/",
-        "published": "2026-03-27T17:49:14+00:00"
-      },
-      {
-        "title": "[r/claudeai] This isn’t right",
-        "summary": "Lot of posts recently about usage issues. There should be much more transparency on this. I feel like when their system is having issues, usage rates go rogue. This morning I told Claude “Hello” and asked it for the weather. “Hello” took me to 4%,...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s55mvg/this_isnt_right/",
-        "published": "2026-03-27T14:27:02+00:00"
       }
     ],
     "ai_news": [
@@ -233,31 +233,31 @@
         "title": "RPA matters, but AI changes how automation works",
         "summary": "AI Business Strategy",
         "link": "https://www.artificialintelligence-news.com/news/rpa-still-matters-but-ai-is-changing-how-automation-works/",
-        "published": "2026-03-28T06:01:45.711796+00:00"
+        "published": "2026-03-28T17:26:35.721251+00:00"
       },
       {
         "title": "Ocorian: Family offices turn to AI for financial data insights",
         "summary": "Finance AI",
         "link": "https://www.artificialintelligence-news.com/news/ocorian-family-offices-ai-for-financial-data-insights/",
-        "published": "2026-03-28T06:01:45.712226+00:00"
+        "published": "2026-03-28T17:26:35.721700+00:00"
       },
       {
         "title": "AI agents enter banking roles at Bank of America",
         "summary": "AI in Action",
         "link": "https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america/",
-        "published": "2026-03-28T06:01:45.712630+00:00"
+        "published": "2026-03-28T17:26:35.722113+00:00"
       },
       {
         "title": "Automating complex finance workflows with multimodal AI",
         "summary": "Finance AI",
         "link": "https://www.artificialintelligence-news.com/news/automating-complex-finance-workflows-with-multimodal-ai/",
-        "published": "2026-03-28T06:01:45.713100+00:00"
+        "published": "2026-03-28T17:26:35.722523+00:00"
       },
       {
         "title": "Securing AI systems under today’s and tomorrow’s conditions",
         "summary": "Infrastructure & Hardware",
         "link": "https://www.artificialintelligence-news.com/news/quantum-resilient-ai-needs-migration-and-hardware-protected-data-enclaves/",
-        "published": "2026-03-28T06:01:45.713502+00:00"
+        "published": "2026-03-28T17:26:35.722949+00:00"
       }
     ],
     "crescendo": [
@@ -265,25 +265,25 @@
         "title": "Service Sells Better Than Sales: Crescendo Introduces the First AI Assistant for CX Built to Influence",
         "summary": "Service Sells Better Than Sales: Crescendo Introduces the First AI Assistant for CX Built to Influence",
         "link": "https://crescendo.ai/news/crescendo-ai-shopping-assistant-shoptalk-2026",
-        "published": "2026-03-28T06:01:45.955946+00:00"
+        "published": "2026-03-28T17:26:35.968228+00:00"
       },
       {
         "title": "All NEWS",
         "summary": "All NEWS",
         "link": "https://crescendo.ai/news/crescendo-great-place-to-work-award",
-        "published": "2026-03-28T06:01:45.958832+00:00"
+        "published": "2026-03-28T17:26:35.971070+00:00"
       },
       {
         "title": "Crescendo Earns 2026 Great Place To Work Certification™ Across Five Regions",
         "summary": "Crescendo Earns 2026 Great Place To Work Certification™ Across Five Regions",
         "link": "https://crescendo.ai/news/crescendo-great-place-to-work-award",
-        "published": "2026-03-28T06:01:45.964161+00:00"
+        "published": "2026-03-28T17:26:35.976421+00:00"
       },
       {
         "title": "Crescendo Multimodal AI Wins Two Top Customer Experience Awards at Enterprise Connect 2026",
         "summary": "Crescendo Multimodal AI Wins Two Top Customer Experience Awards at Enterprise Connect 2026",
         "link": "https://crescendo.ai/news/crescendo-wins-multiple-top-cx-awards-at-enterprise-connect-2026",
-        "published": "2026-03-28T06:01:45.964611+00:00"
+        "published": "2026-03-28T17:26:35.976898+00:00"
       }
     ]
   }
