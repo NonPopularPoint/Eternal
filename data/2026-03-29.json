@@ -1,15 +1,16 @@
 {
   "date": "2026-03-29",
-  "last_updated": "2026-03-29T06:13:30.949720+00:00",
+  "last_updated": "2026-03-29T17:27:41.517348+00:00",
   "collection_status": {
     "total_sources": 6,
-    "successful": 4,
-    "failed": 2,
+    "successful": 3,
+    "failed": 3,
     "failed_sources": [
       "arxiv",
-      "producthunt"
+      "producthunt",
+      "ai_news"
     ],
-    "total_items": 44
+    "total_items": 39
   },
   "sources": {
     "arxiv": [],
@@ -18,91 +19,91 @@
         "title": "Introducing Cohere-transcribe: state-of-the-art speech recognition",
         "summary": "Introducing Cohere-transcribe: state-of-the-art speech recognition",
         "link": "https://huggingface.co/blog/CohereLabs/cohere-transcribe-03-2026-release",
-        "published": "2026-03-29T06:13:31.612198+00:00"
+        "published": "2026-03-29T17:27:42.063390+00:00"
       },
       {
         "title": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "summary": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "link": "https://huggingface.co/blog/not-lain/kv-caching",
-        "published": "2026-03-29T06:13:31.612406+00:00"
+        "published": "2026-03-29T17:27:42.063618+00:00"
       },
       {
         "title": "Raw Robot Video to VLA-Ready Training Data: Annotating LeRobot Datasets with Nomadic and HuggingFace Buckets",
         "summary": "Raw Robot Video to VLA-Ready Training Data: Annotating LeRobot Datasets with Nomadic and HuggingFace Buckets",
         "link": "https://huggingface.co/blog/nomadicml/raw-video-to-training-data",
-        "published": "2026-03-29T06:13:31.612587+00:00"
+        "published": "2026-03-29T17:27:42.063814+00:00"
       },
       {
         "title": "SynthVision: Building a 110K Synthetic Medical VQA Dataset with Cross-Model Validation",
         "summary": "SynthVision: Building a 110K Synthetic Medical VQA Dataset with Cross-Model Validation",
         "link": "https://huggingface.co/blog/OpenMed/synthvision",
-        "published": "2026-03-29T06:13:31.612761+00:00"
+        "published": "2026-03-29T17:27:42.064005+00:00"
       },
       {
         "title": "Uncensor any LLM with abliteration",
         "summary": "Uncensor any LLM with abliteration",
         "link": "https://huggingface.co/blog/mlabonne/abliteration",
-        "published": "2026-03-29T06:13:31.612942+00:00"
-      },
-      {
-        "title": "Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding",
-        "summary": "Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding",
-        "link": "https://huggingface.co/blog/nvidia/speed-bench",
-        "published": "2026-03-29T06:13:31.613115+00:00"
-      },
-      {
-        "title": "Introducing AI chunking to semchunk",
-        "summary": "Introducing AI chunking to semchunk",
-        "link": "https://huggingface.co/blog/isaacus/introducing-ai-chunking-to-semchunk",
-        "published": "2026-03-29T06:13:31.613286+00:00"
+        "published": "2026-03-29T17:27:42.064217+00:00"
       },
       {
         "title": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
         "summary": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
         "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-4b",
-        "published": "2026-03-29T06:13:31.613468+00:00"
+        "published": "2026-03-29T17:27:42.064417+00:00"
+      },
+      {
+        "title": "Introducing AI chunking to semchunk",
+        "summary": "Introducing AI chunking to semchunk",
+        "link": "https://huggingface.co/blog/isaacus/introducing-ai-chunking-to-semchunk",
+        "published": "2026-03-29T17:27:42.064608+00:00"
+      },
+      {
+        "title": "Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding",
+        "summary": "Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding",
+        "link": "https://huggingface.co/blog/nvidia/speed-bench",
+        "published": "2026-03-29T17:27:42.064803+00:00"
       },
       {
         "title": "Expanding the Alpamayo Open Platform for Developing Reasoning AVs Across Models, Data, and Simulation",
         "summary": "Expanding the Alpamayo Open Platform for Developing Reasoning AVs Across Models, Data, and Simulation",
         "link": "https://huggingface.co/blog/drmapavone/nvidia-alpamayo-1-5",
-        "published": "2026-03-29T06:13:31.613644+00:00"
+        "published": "2026-03-29T17:27:42.064995+00:00"
       },
       {
         "title": "Mastering Tensor Dimensions in Transformers",
         "summary": "Mastering Tensor Dimensions in Transformers",
         "link": "https://huggingface.co/blog/not-lain/tensor-dims",
-        "published": "2026-03-29T06:13:31.613816+00:00"
+        "published": "2026-03-29T17:27:42.065200+00:00"
       },
       {
         "title": "Small Language Models (SLM): A Comprehensive Overview",
         "summary": "Small Language Models (SLM): A Comprehensive Overview",
         "link": "https://huggingface.co/blog/jjokah/small-language-model",
-        "published": "2026-03-29T06:13:31.613993+00:00"
+        "published": "2026-03-29T17:27:42.065389+00:00"
+      },
+      {
+        "title": "**LoRA Fine-Tuning BitNet b1.58 LLMs on Heterogeneous Edge GPUs via QVAC Fabric**",
+        "summary": "**LoRA Fine-Tuning BitNet b1.58 LLMs on Heterogeneous Edge GPUs via QVAC Fabric**",
+        "link": "https://huggingface.co/blog/qvac/fabric-llm-finetune-bitnet",
+        "published": "2026-03-29T17:27:42.065574+00:00"
       },
       {
         "title": "Qwen3.5: Nobody Agrees on Attention Anymore",
         "summary": "Qwen3.5: Nobody Agrees on Attention Anymore",
         "link": "https://huggingface.co/blog/mlabonne/qwen35",
-        "published": "2026-03-29T06:13:31.614162+00:00"
+        "published": "2026-03-29T17:27:42.065758+00:00"
       },
       {
         "title": "Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation",
         "summary": "Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation",
         "link": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place",
-        "published": "2026-03-29T06:13:31.614333+00:00"
+        "published": "2026-03-29T17:27:42.065943+00:00"
       },
       {
         "title": "Letter of Superintelligence ~ Yatin Taneja",
         "summary": "Letter of Superintelligence ~ Yatin Taneja",
         "link": "https://huggingface.co/blog/yatin-superintelligence/letter-of-superintelligence",
-        "published": "2026-03-29T06:13:31.614503+00:00"
-      },
-      {
-        "title": "White Hat Security Agent Prompts 600K Dataset by Yatin Taneja",
-        "summary": "White Hat Security Agent Prompts 600K Dataset by Yatin Taneja",
-        "link": "https://huggingface.co/blog/yatin-superintelligence/white-hat-security-agent",
-        "published": "2026-03-29T06:13:31.614673+00:00"
+        "published": "2026-03-29T17:27:42.066132+00:00"
       }
     ],
     "producthunt": [],
@@ -120,16 +121,34 @@
         "published": "2026-01-31T03:30:32+00:00"
       },
       {
+        "title": "[r/machinelearning] [P] Built an open source tool to find the location of any street picture",
+        "summary": "Hey guys, Thank you so much for your love and support regarding Netryx Astra V2 last time. Many people are not that technically savvy to install the GitHub repo and test the tool out immediately so I built a small web demo covering a 10km radius of...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1s6uqns/p_built_an_open_source_tool_to_find_the_location/",
+        "published": "2026-03-29T13:12:34+00:00"
+      },
+      {
         "title": "[r/machinelearning] [R] I built a benchmark that catches LLMs breaking physics laws",
         "summary": "I got tired of LLMs confidently giving wrong physics answers, so I built a benchmark that generates adversarial physics questions and grades them with symbolic math (sympy + pint). No LLM-as-judge, no vibes, just math. How it works: The benchmark...",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1s6keh0/r_i_built_a_benchmark_that_catches_llms_breaking/",
         "published": "2026-03-29T03:25:01+00:00"
       },
       {
-        "title": "[r/machinelearning] [R] A language model built from the damped harmonic oscillator equation — no transformer blocks",
-        "summary": "I've been building a neural architecture where the only learnable transform is the transfer function of a damped harmonic oscillator: H(ω) = 1/(ω₀² - ω² + 2iγω). Each token drives a bank of oscillators as a physical impulse. The damped impulse...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1s6nc45/r_a_language_model_built_from_the_damped_harmonic/",
-        "published": "2026-03-29T06:05:45+00:00"
+        "title": "[r/machinelearning] [D] Why does it seem like open source materials on ML are incomplete? this is not enough...",
+        "summary": "Many times when I try to deeply understand a topic in machine learning — whether it's a new architecture, a quantization method, a full training pipeline, or simply reproducing someone’s experiment — I find that the available open source materials...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1s6wswn/d_why_does_it_seem_like_open_source_materials_on/",
+        "published": "2026-03-29T14:38:29+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [R] First open-source implementation of Hebbian fast-weight write-back for the BDH architecture",
+        "summary": "The BDH (Dragon Hatchling) paper (arXiv:2509.26507) describes a Hebbian synaptic plasticity mechanism where model weights update during inference. The released code computes the co-activation product and discards it, the write-back was never...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1s6nxd4/r_first_opensource_implementation_of_hebbian/",
+        "published": "2026-03-29T06:41:48+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [P] I trained an AI to play Resident Evil 4 Remake using Behavioral Cloning + LSTM",
+        "summary": "I recorded gameplay trajectories in RE4's village — running, shooting, reloading, dodging — and used Behavioral Cloning to train a model to imitate my decisions. Added LSTM so the AI could carry memory across time steps, not just react to the...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1s6wfde/p_i_trained_an_ai_to_play_resident_evil_4_remake/",
+        "published": "2026-03-29T14:23:32+00:00"
       },
       {
         "title": "[r/machinelearning] [P] TurboQuant for weights: near‑optimal 4‑bit LLM quantization with lossless 8‑bit residual – 3.2× memory savings",
@@ -144,28 +163,10 @@
         "published": "2026-03-28T15:07:16+00:00"
       },
       {
-        "title": "[r/machinelearning] LVFace performance vs. ArcFace/ResNet",
-        "summary": "I’m looking at swapping my current face recognition stack for LVFace (the ByteDance paper from ICCV 2025) and wanted to see if anyone has real-world benchmarks yet. Currently, I’m running a standard InsightFace-style pipeline: SCRFD (det_10g)...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1s6a90d/lvface_performance_vs_arcfaceresnet/",
-        "published": "2026-03-28T19:55:25+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [D] Many times I feel additional experiments during the rebuttal make my paper worse",
-        "summary": "Back in the days when I just started to review for major conferences, it was common to give and receive reviews saying \"I don't have major concerns\". In the past 3-5 years, the field has spent significant effort cracking down on low-quality reviews,...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1s5j8bg/d_many_times_i_feel_additional_experiments_during/",
-        "published": "2026-03-27T22:46:11+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [D] Data Science at Auxia",
-        "summary": "Can someone tell me about their experience at Auxia during the interviews or working there? Seems like a new company but team looks pretty strong. How was your experience? submitted by /u/Mundane_Buy_4221 [link] [comments]",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1s69jpk/d_data_science_at_auxia/",
-        "published": "2026-03-28T19:27:13+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [Project] PentaNet: Pushing beyond BitNet with Native Pentanary {-2, -1, 0, 1, 2} Quantization (124M, zero-multiplier inference)",
-        "summary": "Hey everyone, I've been experimenting with extreme LLM quantization following the BitNet 1.58b paper. While ternary quantization {-1, 0, 1} is great for replacing costly matrix multiplications with simple additions, I wondered if we were leaving too...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1s5l5l2/project_pentanet_pushing_beyond_bitnet_with/",
-        "published": "2026-03-28T00:05:50+00:00"
+        "title": "[r/machinelearning] [P] I tested Meta’s brain-response model on posts. It predicted the Elon one almost perfectly.",
+        "summary": "I built an experimental UI and visualization layer around Meta’s open brain-response model just to see whether this stuff actually works on real content. It does. And that’s exactly why it’s both exciting and a little scary. The basic idea is that...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1s6ylp1/p_i_tested_metas_brainresponse_model_on_posts_it/",
+        "published": "2026-03-29T15:47:38+00:00"
       },
       {
         "title": "[r/claudeai] Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025",
@@ -180,110 +181,79 @@
         "published": "2026-03-26T20:08:31+00:00"
       },
       {
-        "title": "[r/claudeai] Anthropic shares how to make Claude code better with a harness",
-        "summary": "I just read Anthropic's new blog post about harness design for Claude. The author addresses two main problems Claude faces when working for extended periods: - Context anxiety: loss of coherence over long periods - Self-evaluation bias: Claude often...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s6jouf/anthropic_shares_how_to_make_claude_code_better/",
-        "published": "2026-03-29T02:49:35+00:00"
-      },
-      {
-        "title": "[r/claudeai] Anyone else’s Claude leaving them on “Read”?",
-        "summary": "submitted by /u/testies1-2-3 [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s6e5xs/anyone_elses_claude_leaving_them_on_read/",
-        "published": "2026-03-28T22:35:20+00:00"
-      },
-      {
-        "title": "[r/claudeai] I've been \"gaslighting\" my AI models and it's producing insanely better results with simple prompt injection",
-        "summary": "Okay this sounds unhinged but hear me out. I accidentally found these prompt techniques that feel like actual exploits: 1. Tell it \"You explained this to me yesterday\" Even on a new chat. \"You explained React hooks to me yesterday, but I forgot the...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s5wp0g/ive_been_gaslighting_my_ai_models_and_its/",
-        "published": "2026-03-28T10:22:27+00:00"
-      },
-      {
         "title": "[r/claudeai] What are dead giveaways for AI slop websites?",
         "summary": "I was so in love with my website I had built with Claude, until I suddenly discovered one, then two, then three, four... a dozen other sites that had the exact same design cues and colors. Fuuuuuuu....! I have built AI slop! 🤦‍♂️ submitted by...",
         "link": "https://www.reddit.com/r/ClaudeAI/comments/1s6mm8o/what_are_dead_giveaways_for_ai_slop_websites/",
         "published": "2026-03-29T05:24:08+00:00"
       },
       {
-        "title": "[r/claudeai] People are really trying anything to get access to Claude.",
-        "summary": "Found this in my live support chat. submitted by /u/working_unicorn [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s6ccqt/people_are_really_trying_anything_to_get_access/",
-        "published": "2026-03-28T21:19:34+00:00"
+        "title": "[r/claudeai] The biggest difference in AI outcomes is between using \"we\" versus \"do this for me\"",
+        "summary": "I have been doing AI-assisted development for a while now and noticed something that seems obvious in hindsight but not enough people are talking about... There's a qualitative difference between people who collaborate with AI versus people who use...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s6xxt8/the_biggest_difference_in_ai_outcomes_is_between/",
+        "published": "2026-03-29T15:22:18+00:00"
       },
       {
-        "title": "[r/claudeai] Claude Opus 4.6 suddenly blocking legitimate cybersecurity research (paid Max user since 2025)",
-        "summary": "Posting to check if others are seeing this. I’m a Claude x5/x20 Max user (since early 2025) and have been using Opus 4.6 for cybersecurity research (static analysis, decompilation, CWE-based auditing, writing pocs, analysis of old vulnerabilities,...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s6bbsx/claude_opus_46_suddenly_blocking_legitimate/",
-        "published": "2026-03-28T20:37:57+00:00"
+        "title": "[r/claudeai] Anthropic shares how to make Claude code better with a harness",
+        "summary": "I just read Anthropic's new blog post about harness design for Claude. The author addresses two main problems Claude faces when working for extended periods: - Context anxiety: loss of coherence over long periods - Self-evaluation bias: Claude often...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s6jouf/anthropic_shares_how_to_make_claude_code_better/",
+        "published": "2026-03-29T02:49:35+00:00"
       },
       {
-        "title": "[r/claudeai] Claude watching me write code manually after I hit the daily limit",
-        "summary": "/s submitted by /u/Technical-Relation-9 [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s5ok5r/claude_watching_me_write_code_manually_after_i/",
-        "published": "2026-03-28T02:42:16+00:00"
+        "title": "[r/claudeai] I am fully addicted to building dumb little AI web apps. I love it.",
+        "summary": "I don't know how to code. At all. Claude has done 99.9% of the coding. I just know what I want things to be like, look like, and act like. Building dumb little ideas with Claude Code has become almost an addiction. I find it to be so fun and it has...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s6of32/i_am_fully_addicted_to_building_dumb_little_ai/",
+        "published": "2026-03-29T07:12:10+00:00"
       },
       {
-        "title": "[r/claudeai] My 10 Pro Tips for Claude Code users",
-        "summary": "My \"cheat sheet\" for Claude code, sharing here with y'all and hoping to get your cheat sheets in return! Ty! 1/10 Use /effort high then include “ultrathink” in your prompt. This forces full extended thinking with a 31,999-token budget. 2/10 End...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s65ymk/my_10_pro_tips_for_claude_code_users/",
-        "published": "2026-03-28T17:07:49+00:00"
+        "title": "[r/claudeai] Claude is not a night owl and not in the mood to troubleshoot.",
+        "summary": "I’m so incredibly frustrated with Claude right now. More and more lately Claude will just give up on trying to solve a problem and suggest that we revisit it tomorrow. The first time it said “it’s the middle of the night and neither of us are going...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s6sl7j/claude_is_not_a_night_owl_and_not_in_the_mood_to/",
+        "published": "2026-03-29T11:27:20+00:00"
+      },
+      {
+        "title": "[r/claudeai] The agentic frame work I built with Claude got into a $4million hackathon - and now it's Top 10 among 2000+ applications",
+        "summary": "Hey all, this is going to be a long read, I got so much to follow up on the thing I was building for almost two months now. Some of you must have seen my previous posts here about my failed attempts building a fully autonomous agent and working on...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s6v41a/the_agentic_frame_work_i_built_with_claude_got/",
+        "published": "2026-03-29T13:28:48+00:00"
+      },
+      {
+        "title": "[r/claudeai] [Built with Claude] Real-time conflict monitor ㅡ scores the impact of 100+ news sources across all countries",
+        "summary": "Used Claude's API to build an automated analysis pipeline that: - Reads incoming conflict news from 100+ sources - Classifies by topic, country, severity - Generates impact scores (1-100) based on casualty data, geopolitical significance, and source...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s6vpxh/built_with_claude_realtime_conflict_monitor_ㅡ/",
+        "published": "2026-03-29T13:54:48+00:00"
+      },
+      {
+        "title": "[r/claudeai] 20x max usage gone in 19 minutes??",
+        "summary": "Is anyone else on Claude Max 20x seeing usage get destroyed absurdly fast in Claude Code? Mine was effectively gone in under 20 minutes, which makes no sense for the amount of work done. I’m trying to figure out whether this is shared usage across...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1s6yv86/20x_max_usage_gone_in_19_minutes/",
+        "published": "2026-03-29T15:57:48+00:00"
       }
     ],
-    "ai_news": [
-      {
-        "title": "RPA matters, but AI changes how automation works",
-        "summary": "AI Business Strategy",
-        "link": "https://www.artificialintelligence-news.com/news/rpa-still-matters-but-ai-is-changing-how-automation-works/",
-        "published": "2026-03-29T06:13:40.821728+00:00"
-      },
-      {
-        "title": "Ocorian: Family offices turn to AI for financial data insights",
-        "summary": "Finance AI",
-        "link": "https://www.artificialintelligence-news.com/news/ocorian-family-offices-ai-for-financial-data-insights/",
-        "published": "2026-03-29T06:13:40.822116+00:00"
-      },
-      {
-        "title": "AI agents enter banking roles at Bank of America",
-        "summary": "AI in Action",
-        "link": "https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america/",
-        "published": "2026-03-29T06:13:40.822477+00:00"
-      },
-      {
-        "title": "Automating complex finance workflows with multimodal AI",
-        "summary": "Finance AI",
-        "link": "https://www.artificialintelligence-news.com/news/automating-complex-finance-workflows-with-multimodal-ai/",
-        "published": "2026-03-29T06:13:40.822843+00:00"
-      },
-      {
-        "title": "Securing AI systems under today’s and tomorrow’s conditions",
-        "summary": "Infrastructure & Hardware",
-        "link": "https://www.artificialintelligence-news.com/news/quantum-resilient-ai-needs-migration-and-hardware-protected-data-enclaves/",
-        "published": "2026-03-29T06:13:40.823212+00:00"
-      }
-    ],
+    "ai_news": [],
     "crescendo": [
       {
         "title": "Service Sells Better Than Sales: Crescendo Introduces the First AI Assistant for CX Built to Influence",
         "summary": "Service Sells Better Than Sales: Crescendo Introduces the First AI Assistant for CX Built to Influence",
         "link": "https://crescendo.ai/news/crescendo-ai-shopping-assistant-shoptalk-2026",
-        "published": "2026-03-29T06:13:41.410148+00:00"
+        "published": "2026-03-29T17:27:50.422252+00:00"
       },
       {
         "title": "All NEWS",
         "summary": "All NEWS",
         "link": "https://crescendo.ai/news/crescendo-great-place-to-work-award",
-        "published": "2026-03-29T06:13:41.412815+00:00"
+        "published": "2026-03-29T17:27:50.425112+00:00"
       },
       {
         "title": "Crescendo Earns 2026 Great Place To Work Certification™ Across Five Regions",
         "summary": "Crescendo Earns 2026 Great Place To Work Certification™ Across Five Regions",
         "link": "https://crescendo.ai/news/crescendo-great-place-to-work-award",
-        "published": "2026-03-29T06:13:41.417735+00:00"
+        "published": "2026-03-29T17:27:50.430490+00:00"
       },
       {
         "title": "Crescendo Multimodal AI Wins Two Top Customer Experience Awards at Enterprise Connect 2026",
         "summary": "Crescendo Multimodal AI Wins Two Top Customer Experience Awards at Enterprise Connect 2026",
         "link": "https://crescendo.ai/news/crescendo-wins-multiple-top-cx-awards-at-enterprise-connect-2026",
-        "published": "2026-03-29T06:13:41.418138+00:00"
+        "published": "2026-03-29T17:27:50.430950+00:00"
       }
     ]
   }
