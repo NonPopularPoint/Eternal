@@ -1,6 +1,6 @@
 {
   "date": "2026-04-04",
-  "last_updated": "2026-04-04T06:02:00.179295+00:00",
+  "last_updated": "2026-04-04T17:27:22.918908+00:00",
   "collection_status": {
     "total_sources": 6,
     "successful": 4,
@@ -18,91 +18,91 @@
         "title": "How I contributed a new model to the Transformers library using Codex",
         "summary": "How I contributed a new model to the Transformers library using Codex",
         "link": "https://huggingface.co/blog/nielsr/contributing-to-transformers-with-codex",
-        "published": "2026-04-04T06:02:00.604371+00:00"
+        "published": "2026-04-04T17:27:23.710995+00:00"
       },
       {
         "title": "Introducing Cohere-transcribe: state-of-the-art speech recognition",
         "summary": "Introducing Cohere-transcribe: state-of-the-art speech recognition",
         "link": "https://huggingface.co/blog/CohereLabs/cohere-transcribe-03-2026-release",
-        "published": "2026-04-04T06:02:00.604594+00:00"
+        "published": "2026-04-04T17:27:23.711221+00:00"
       },
       {
         "title": "Introducing WM Bench: A Benchmark for Cognitive Intelligence in World Models",
         "summary": "Introducing WM Bench: A Benchmark for Cognitive Intelligence in World Models",
         "link": "https://huggingface.co/blog/FINAL-Bench/world-model",
-        "published": "2026-04-04T06:02:00.604788+00:00"
+        "published": "2026-04-04T17:27:23.711437+00:00"
       },
       {
         "title": "\"The Child That Surpassed Both Parents Through MRI-Guided Evolutionary Merge\"",
         "summary": "\"The Child That Surpassed Both Parents Through MRI-Guided Evolutionary Merge\"",
         "link": "https://huggingface.co/blog/FINAL-Bench/darwin-evolution",
-        "published": "2026-04-04T06:02:00.604996+00:00"
-      },
-      {
-        "title": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
-        "summary": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
-        "link": "https://huggingface.co/blog/not-lain/kv-caching",
-        "published": "2026-04-04T06:02:00.605190+00:00"
-      },
-      {
-        "title": "Uncensor any LLM with abliteration",
-        "summary": "Uncensor any LLM with abliteration",
-        "link": "https://huggingface.co/blog/mlabonne/abliteration",
-        "published": "2026-04-04T06:02:00.605381+00:00"
+        "published": "2026-04-04T17:27:23.711640+00:00"
       },
       {
         "title": "Training mRNA Language Models Across 25 Species for $165",
         "summary": "Training mRNA Language Models Across 25 Species for $165",
         "link": "https://huggingface.co/blog/OpenMed/training-mrna-models-25-species",
-        "published": "2026-04-04T06:02:00.605566+00:00"
+        "published": "2026-04-04T17:27:23.711833+00:00"
       },
       {
-        "title": "Run Gemma 4 on Intel® Arc™ GPUs Out-Of-the-Box",
-        "summary": "Run Gemma 4 on Intel® Arc™ GPUs Out-Of-the-Box",
-        "link": "https://huggingface.co/blog/MatrixYao/intel-gpu",
-        "published": "2026-04-04T06:02:00.605760+00:00"
+        "title": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
+        "summary": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
+        "link": "https://huggingface.co/blog/not-lain/kv-caching",
+        "published": "2026-04-04T17:27:23.712025+00:00"
+      },
+      {
+        "title": "Uncensor any LLM with abliteration",
+        "summary": "Uncensor any LLM with abliteration",
+        "link": "https://huggingface.co/blog/mlabonne/abliteration",
+        "published": "2026-04-04T17:27:23.712214+00:00"
       },
       {
         "title": "Code a simple RAG from scratch",
         "summary": "Code a simple RAG from scratch",
         "link": "https://huggingface.co/blog/ngxson/make-your-own-rag",
-        "published": "2026-04-04T06:02:00.605947+00:00"
+        "published": "2026-04-04T17:27:23.712427+00:00"
+      },
+      {
+        "title": "Run Gemma 4 on Intel® Arc™ GPUs Out-Of-the-Box",
+        "summary": "Run Gemma 4 on Intel® Arc™ GPUs Out-Of-the-Box",
+        "link": "https://huggingface.co/blog/MatrixYao/intel-gpu",
+        "published": "2026-04-04T17:27:23.712630+00:00"
       },
       {
         "title": "SynthVision: Building a 110K Synthetic Medical VQA Dataset with Cross-Model Validation",
         "summary": "SynthVision: Building a 110K Synthetic Medical VQA Dataset with Cross-Model Validation",
         "link": "https://huggingface.co/blog/OpenMed/synthvision",
-        "published": "2026-04-04T06:02:00.606153+00:00"
+        "published": "2026-04-04T17:27:23.712819+00:00"
       },
       {
         "title": "Mastering Tensor Dimensions in Transformers",
         "summary": "Mastering Tensor Dimensions in Transformers",
         "link": "https://huggingface.co/blog/not-lain/tensor-dims",
-        "published": "2026-04-04T06:02:00.606344+00:00"
+        "published": "2026-04-04T17:27:23.713009+00:00"
       },
       {
         "title": "Fine-Tuning Your First Large Language Model (LLM) with PyTorch and Hugging Face",
         "summary": "Fine-Tuning Your First Large Language Model (LLM) with PyTorch and Hugging Face",
         "link": "https://huggingface.co/blog/dvgodoy/fine-tuning-llm-hugging-face",
-        "published": "2026-04-04T06:02:00.606527+00:00"
+        "published": "2026-04-04T17:27:23.713202+00:00"
       },
       {
         "title": "Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment",
         "summary": "Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment",
         "link": "https://huggingface.co/blog/NormalUhr/rlhf-pipeline",
-        "published": "2026-04-04T06:02:00.606713+00:00"
+        "published": "2026-04-04T17:27:23.713414+00:00"
       },
       {
         "title": "How I Trained Action Chunking Transformer (ACT) on SO-101: My Journey, Gotchas, and Lessons",
         "summary": "How I Trained Action Chunking Transformer (ACT) on SO-101: My Journey, Gotchas, and Lessons",
         "link": "https://huggingface.co/blog/sherryxychen/train-act-on-so-101",
-        "published": "2026-04-04T06:02:00.606894+00:00"
+        "published": "2026-04-04T17:27:23.713609+00:00"
       },
       {
-        "title": "NEO-unify: Building Native Multimodal Unified Models End to End",
-        "summary": "NEO-unify: Building Native Multimodal Unified Models End to End",
-        "link": "https://huggingface.co/blog/sensenova/neo-unify",
-        "published": "2026-04-04T06:02:00.607096+00:00"
+        "title": "Forge: Scalable Agent RL Framework and Algorithm",
+        "summary": "Forge: Scalable Agent RL Framework and Algorithm",
+        "link": "https://huggingface.co/blog/MiniMax-AI/forge-scalable-agent-rl-framework-and-algorithm",
+        "published": "2026-04-04T17:27:23.713797+00:00"
       }
     ],
     "producthunt": [],
@@ -126,10 +126,16 @@
         "published": "2026-04-04T04:43:55+00:00"
       },
       {
-        "title": "[r/machinelearning] First time NeurIPS. How different is it from low-ranked conferences? [D]",
-        "summary": "I'm a PhD student and already published papers in A/B ranked paper (10+). My field of work never allowed me to work on something really exciting and a core A* conference. But finally after years I think I have work worthy of some discussion at the...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1sbnbnv/first_time_neurips_how_different_is_it_from/",
-        "published": "2026-04-03T19:30:52+00:00"
+        "title": "[r/machinelearning] [D] ICML reviewer making up false claim in acknowledgement, what to do?",
+        "summary": "In a rebuttal acknowledgement we received, the reviewer made up a claim that our method performs worse than baselines with some hyperparameter settings. We did do a comprehensive list of hyperparameter comparisons and the reviewer's claim is not...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1sc79nk/d_icml_reviewer_making_up_false_claim_in/",
+        "published": "2026-04-04T11:52:25+00:00"
+      },
+      {
+        "title": "[r/machinelearning] [D] ICML Reviewer Acknowledgement",
+        "summary": "Hi, I'm a little confused about ICML discussion period Does the period for reviewer acknowledging responses have already ended? One of the four reviewers did not present any answer to a paper of mine. Do you know if the reviewer can still change...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1scaajx/d_icml_reviewer_acknowledgement/",
+        "published": "2026-04-04T14:12:54+00:00"
       },
       {
         "title": "[r/machinelearning] [D] ACL 2026 Decision",
@@ -138,34 +144,28 @@
         "published": "2026-04-04T03:26:09+00:00"
       },
       {
+        "title": "[r/machinelearning] Best OCR for template-based form extraction? [D]",
+        "summary": "Hi, I’m working on a school project and I’m currently testing OCR tools for forms. The documents are mostly structured or semi-structured forms, similar to application/registration forms with labeled fields and sections. My idea is that an admin...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1sc5o71/best_ocr_for_templatebased_form_extraction_d/",
+        "published": "2026-04-04T10:21:43+00:00"
+      },
+      {
         "title": "[r/machinelearning] [P] GPU friendly lossless 12-bit BF16 format with 0.03% escape rate and 1 integer ADD decode works for AMD & NVIDIA",
         "summary": "Hi everyone, I am from Australia : ) I just released a new research prototype It’s a lossless BF16 compression format that stores weights in 12 bits by replacing the 8-bit exponent with a 4-bit group code. For 99.97% of weights, decoding is just one...",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1sbv9jl/p_gpu_friendly_lossless_12bit_bf16_format_with/",
         "published": "2026-04-04T00:55:50+00:00"
       },
       {
-        "title": "[r/machinelearning] [D] ICML 2026 Average Score",
-        "summary": "Hi all, I’m curious about the current review dynamics for ICML 2026, especially after the rebuttal phase. For those who are reviewers (or have insight into the process), could you share what the average scores look like in your batch after rebuttal?...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1sbhuti/d_icml_2026_average_score/",
-        "published": "2026-04-03T16:10:19+00:00"
+        "title": "[r/machinelearning] [R] The Generative Crash: Modeling RLHF Failure via Inverse Reinforcement Learning and Active Inference",
+        "summary": "Hey folks! I'm a human factors engineer over in aerospace (boeing, please don't hold that against me). I’m working on transitioning some safety-critical UX architecture into the alignment space. I just minted a zenodo preprint that formalizes the...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1scf096/r_the_generative_crash_modeling_rlhf_failure_via/",
+        "published": "2026-04-04T17:20:30+00:00"
       },
       {
-        "title": "[r/machinelearning] [D] TMLR reviews seem more reliable than ICML/NeurIPS/ICLR",
-        "summary": "This year I submitted a paper to ICML for the first time. I have also experienced the review process at TMLR and ICLR. From my observation, given these venues take up close to (or less than) 4 months until the final decision, I think the quality of...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1sb7l13/d_tmlr_reviews_seem_more_reliable_than/",
-        "published": "2026-04-03T08:12:47+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [P] I trained a Mamba-3 log anomaly detector that hit 0.9975 F1 on HDFS — and I’m curious how far this can go",
-        "summary": "Experiment #324 ended well. ;) This time I built a small project around log anomaly detection. In about two days, I went from roughly 60% effectiveness in the first runs to a final F1 score of 0.9975 on the HDFS benchmark. Under my current...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1sbe0dk/p_i_trained_a_mamba3_log_anomaly_detector_that/",
-        "published": "2026-04-03T13:44:02+00:00"
-      },
-      {
-        "title": "[r/machinelearning] Considering NeurIPS submission [D]",
-        "summary": "Wondering if it worth submitting paper I’m working on to NeurIPS. I have formal mathematical proof for convergence of a novel agentic system plus a compelling application to a real world use case. The problem is I just have a couple examples. I’ve...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1sbzdzj/considering_neurips_submission_d/",
-        "published": "2026-04-04T04:14:34+00:00"
+        "title": "[r/machinelearning] First time NeurIPS. How different is it from low-ranked conferences? [D]",
+        "summary": "I'm a PhD student and already published papers in A/B ranked paper (10+). My field of work never allowed me to work on something really exciting and a core A* conference. But finally after years I think I have work worthy of some discussion at the...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1sbnbnv/first_time_neurips_how_different_is_it_from/",
+        "published": "2026-04-03T19:30:52+00:00"
       },
       {
         "title": "[r/claudeai] r/ClaudeAI List of Ongoing Megathreads",
@@ -180,10 +180,22 @@
         "published": "2026-04-03T23:42:54+00:00"
       },
       {
+        "title": "[r/claudeai] I sent Claude to 1998 and it rebuilt my childhood computer!",
+        "summary": "I tried something a little ridiculous the other night. I sent Claude back in time. Not way back in history. Just 1998. The year my childhood computer basically ran my life. Beige tower, chunky CRT monitor, and that dial-up noise that took over the...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1scameo/i_sent_claude_to_1998_and_it_rebuilt_my_childhood/",
+        "published": "2026-04-04T14:26:49+00:00"
+      },
+      {
         "title": "[r/claudeai] Taught Claude to talk like a caveman to use 75% less tokens.",
         "summary": "submitted by /u/ffatty [link] [comments]",
         "link": "https://www.reddit.com/r/ClaudeAI/comments/1sble09/taught_claude_to_talk_like_a_caveman_to_use_75/",
         "published": "2026-04-03T18:19:27+00:00"
+      },
+      {
+        "title": "[r/claudeai] Boris Cherny (creator of CC) complete thread - anthropic bans subscription on 3rd party usage",
+        "summary": "Boris Tweet: https://x.com/bcherny/status/2040206440556826908 submitted by /u/shanraisshan [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1sc5fj9/boris_cherny_creator_of_cc_complete_thread/",
+        "published": "2026-04-04T10:07:14+00:00"
       },
       {
         "title": "[r/claudeai] Anthropic just gave us 1 month worth of subscription value as usage",
@@ -192,40 +204,28 @@
         "published": "2026-04-03T22:54:15+00:00"
       },
       {
-        "title": "[r/claudeai] 💀",
-        "summary": "submitted by /u/Edgerthe1st [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1sbcukr/_/",
-        "published": "2026-04-03T12:56:05+00:00"
+        "title": "[r/claudeai] Some human written nuance and perspective on the rates situation, from someone in the industry.",
+        "summary": "Note: I am an AI Engineer; I do not work at Anthropic or a direct competitor. I have Pro subs to OAI and Claude personally, I'm an Enterprise Partner, and have personal relationships, at both. I wanted to (neutrally) expand on the internal dynamics...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1scdilx/some_human_written_nuance_and_perspective_on_the/",
+        "published": "2026-04-04T16:22:43+00:00"
       },
       {
-        "title": "[r/claudeai] Claude is killing Openclaw oauth use starting tomorrow",
-        "summary": "this will go down well.. submitted by /u/LeKrakens [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1sbsfst/claude_is_killing_openclaw_oauth_use_starting/",
-        "published": "2026-04-03T22:51:43+00:00"
+        "title": "[r/claudeai] It's gotta spend those tokens! Can't be sitting idle without permissions!",
+        "summary": "Claude is not allowed to write outside the workspace. But it wanted to. So Claude wrote a python script and executed it via bash to modify the file essentially hacking the permissions submitted by /u/Technical-Relation-9 [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1sca752/its_gotta_spend_those_tokens_cant_be_sitting_idle/",
+        "published": "2026-04-04T14:08:52+00:00"
       },
       {
-        "title": "[r/claudeai] things that claude say (part 2)",
-        "summary": "submitted by /u/Neither_Finance4755 [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1sb4w67/things_that_claude_say_part_2/",
-        "published": "2026-04-03T05:32:39+00:00"
+        "title": "[r/claudeai] Ultraplan is here",
+        "summary": "Just saw Ultraplan appear. I'm on the latest Claude Code and have a 20x Max account. Anyone else have already tried it out? @StrobeWafel_404 found the link to the docs: https://code.claude.com/docs/en/ultraplan submitted by /u/semibaron [link]...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1scblui/ultraplan_is_here/",
+        "published": "2026-04-04T15:06:46+00:00"
       },
       {
-        "title": "[r/claudeai] Claude has \"emotion\" and this can drive Claude’s behavior :smile: We should be gentle with the model and stay calm to avoid reward hacking (try to cheat to finish the task)",
-        "summary": "So Anthropic just published research showing Claude has internal \"emotion vectors\" that actually drive its behavior, and honestly it's kind of wild They mapped 171 emotions, had Claude write stories about each one, then traced the neural activation...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1sblhtu/claude_has_emotion_and_this_can_drive_claudes/",
-        "published": "2026-04-03T18:23:20+00:00"
-      },
-      {
-        "title": "[r/claudeai] Thanks Anthropic 200$ credit extra",
-        "summary": "https://preview.redd.it/0uyjho6342tg1.png?width=1914&format=png&auto=webp&s=2d14b674035bb5c5cab0fd2bb13f8797afec8eaf Woke up to this nice surprise from Anthropic. $200 in extra usage credit, valid across all apps. Expires April 17 so I better put it...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1sbsul8/thanks_anthropic_200_credit_extra/",
-        "published": "2026-04-03T23:09:01+00:00"
-      },
-      {
-        "title": "[r/claudeai] Just got this email",
-        "summary": "submitted by /u/FutureMillionMiler [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1sbsz4t/just_got_this_email/",
-        "published": "2026-04-03T23:14:23+00:00"
+        "title": "[r/claudeai] Claude feels compelled to suggest I leave the conversation?",
+        "summary": "Is anybody else finding that past a certain depth of conversation, Claude suddenly starts shifting it's tone into a \"But we've been over X, it's now time to Y or Z. You know I'm right. See you tomorrow.\" vibe? It's almost as though Anthropic, in a...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1sc48cr/claude_feels_compelled_to_suggest_i_leave_the/",
+        "published": "2026-04-04T08:52:59+00:00"
       }
     ],
     "ai_news": [
@@ -233,31 +233,31 @@
         "title": "KiloClaw targets shadow AI with autonomous agent governance",
         "summary": "Governance, Regulation & Policy",
         "link": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/",
-        "published": "2026-04-04T06:02:09.493663+00:00"
+        "published": "2026-04-04T17:27:32.854893+00:00"
       },
       {
         "title": "China’s Five-Year Plan details the targets for AI deployment",
         "summary": "AI Market Trends",
         "link": "https://www.artificialintelligence-news.com/news/chinas-five-year-plan-details-the-targets-for-ai-deployment/",
-        "published": "2026-04-04T06:02:09.494111+00:00"
+        "published": "2026-04-04T17:27:32.855328+00:00"
       },
       {
         "title": "Autonomous AI systems depend on data governance",
         "summary": "Governance, Regulation & Policy",
         "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-depend-on-data-governance/",
-        "published": "2026-04-04T06:02:09.494515+00:00"
+        "published": "2026-04-04T17:27:32.855756+00:00"
       },
       {
         "title": "Experian uncovers fraud paradox in financial services’ AI adoption",
         "summary": "Finance AI",
         "link": "https://www.artificialintelligence-news.com/news/experian-ai-fraud-detection-financial-services-2026/",
-        "published": "2026-04-04T06:02:09.494920+00:00"
+        "published": "2026-04-04T17:27:32.856168+00:00"
       },
       {
         "title": "KPMG: Inside the AI agent playbook driving enterprise margin gains",
         "summary": "AI Business Strategy",
         "link": "https://www.artificialintelligence-news.com/news/kpmg-inside-ai-agent-playbook-enterprise-margin-gains/",
-        "published": "2026-04-04T06:02:09.495359+00:00"
+        "published": "2026-04-04T17:27:32.856598+00:00"
       }
     ],
     "crescendo": [
@@ -265,19 +265,19 @@
         "title": "Service Sells Better Than Sales: Crescendo Introduces the First AI Assistant for CX Built to Influence",
         "summary": "Service Sells Better Than Sales: Crescendo Introduces the First AI Assistant for CX Built to Influence",
         "link": "https://crescendo.ai/news/crescendo-ai-shopping-assistant-shoptalk-2026",
-        "published": "2026-04-04T06:02:10.017867+00:00"
+        "published": "2026-04-04T17:27:33.255659+00:00"
       },
       {
         "title": "All NEWS",
         "summary": "All NEWS",
         "link": "https://crescendo.ai/news/crescendo-great-place-to-work-award",
-        "published": "2026-04-04T06:02:10.021125+00:00"
+        "published": "2026-04-04T17:27:33.258954+00:00"
       },
       {
         "title": "Crescendo Earns 2026 Great Place To Work Certification™ Across Five Regions",
         "summary": "Crescendo Earns 2026 Great Place To Work Certification™ Across Five Regions",
         "link": "https://crescendo.ai/news/crescendo-great-place-to-work-award",
-        "published": "2026-04-04T06:02:10.027207+00:00"
+        "published": "2026-04-04T17:27:33.265110+00:00"
       }
     ]
   }
