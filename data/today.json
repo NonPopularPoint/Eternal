@@ -1,6 +1,6 @@
 {
   "date": "2026-04-11",
-  "last_updated": "2026-04-11T06:04:31.441439+00:00",
+  "last_updated": "2026-04-11T17:29:16.861111+00:00",
   "collection_status": {
     "total_sources": 6,
     "successful": 3,
@@ -19,91 +19,91 @@
         "title": "How we OCR'ed 30,000 papers using Codex, open OCR models and Jobs",
         "summary": "How we OCR'ed 30,000 papers using Codex, open OCR models and Jobs",
         "link": "https://huggingface.co/blog/nielsr/ocr-papers-jobs",
-        "published": "2026-04-11T06:04:31.780706+00:00"
+        "published": "2026-04-11T17:29:17.260396+00:00"
       },
       {
         "title": "BidirLM: Turning Generative LLMs into the Best Open-Source Omnimodal Encoders",
         "summary": "BidirLM: Turning Generative LLMs into the Best Open-Source Omnimodal Encoders",
         "link": "https://huggingface.co/blog/Nicolas-BZRD/bidirlm-release",
-        "published": "2026-04-11T06:04:31.780918+00:00"
-      },
-      {
-        "title": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
-        "summary": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
-        "link": "https://huggingface.co/blog/not-lain/kv-caching",
-        "published": "2026-04-11T06:04:31.781112+00:00"
+        "published": "2026-04-11T17:29:17.260603+00:00"
       },
       {
         "title": "Using OCR models with llama.cpp",
         "summary": "Using OCR models with llama.cpp",
         "link": "https://huggingface.co/blog/ggml-org/using-ocr-models-with-llama-cpp",
-        "published": "2026-04-11T06:04:31.781289+00:00"
+        "published": "2026-04-11T17:29:17.260779+00:00"
+      },
+      {
+        "title": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
+        "summary": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
+        "link": "https://huggingface.co/blog/not-lain/kv-caching",
+        "published": "2026-04-11T17:29:17.260952+00:00"
       },
       {
         "title": "Uncensor any LLM with abliteration",
         "summary": "Uncensor any LLM with abliteration",
         "link": "https://huggingface.co/blog/mlabonne/abliteration",
-        "published": "2026-04-11T06:04:31.781461+00:00"
+        "published": "2026-04-11T17:29:17.261122+00:00"
       },
       {
         "title": "Darwin V6: Diagnostic-Guided Evolutionary Model Merging",
         "summary": "Darwin V6: Diagnostic-Guided Evolutionary Model Merging",
         "link": "https://huggingface.co/blog/FINAL-Bench/darwin-v6",
-        "published": "2026-04-11T06:04:31.781637+00:00"
-      },
-      {
-        "title": "Building Harvey-style tabular review from scratch, but better",
-        "summary": "Building Harvey-style tabular review from scratch, but better",
-        "link": "https://huggingface.co/blog/isaacus/tabular-review",
-        "published": "2026-04-11T06:04:31.781810+00:00"
+        "published": "2026-04-11T17:29:17.261294+00:00"
       },
       {
         "title": "Mastering Tensor Dimensions in Transformers",
         "summary": "Mastering Tensor Dimensions in Transformers",
         "link": "https://huggingface.co/blog/not-lain/tensor-dims",
-        "published": "2026-04-11T06:04:31.781997+00:00"
+        "published": "2026-04-11T17:29:17.261477+00:00"
+      },
+      {
+        "title": "Building Harvey-style tabular review from scratch, but better",
+        "summary": "Building Harvey-style tabular review from scratch, but better",
+        "link": "https://huggingface.co/blog/isaacus/tabular-review",
+        "published": "2026-04-11T17:29:17.261654+00:00"
       },
       {
         "title": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
         "summary": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
         "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-4b",
-        "published": "2026-04-11T06:04:31.782175+00:00"
+        "published": "2026-04-11T17:29:17.261828+00:00"
       },
       {
         "title": "How I contributed a new model to the Transformers library using Codex",
         "summary": "How I contributed a new model to the Transformers library using Codex",
         "link": "https://huggingface.co/blog/nielsr/contributing-to-transformers-with-codex",
-        "published": "2026-04-11T06:04:31.782345+00:00"
+        "published": "2026-04-11T17:29:17.261998+00:00"
       },
       {
         "title": "YC-Bench: Can Your AI Agent Run a Startup Without Going Bankrupt?",
         "summary": "YC-Bench: Can Your AI Agent Run a Startup Without Going Bankrupt?",
         "link": "https://huggingface.co/blog/collinear-ai/yc-bench",
-        "published": "2026-04-11T06:04:31.782514+00:00"
+        "published": "2026-04-11T17:29:17.262167+00:00"
       },
       {
         "title": "ArmBench-LLM 1.0: Benchmarking LLMs on Armenian Language Tasks",
         "summary": "ArmBench-LLM 1.0: Benchmarking LLMs on Armenian Language Tasks",
         "link": "https://huggingface.co/blog/Metric-AI/armbench-llm",
-        "published": "2026-04-11T06:04:31.782682+00:00"
+        "published": "2026-04-11T17:29:17.262348+00:00"
       },
       {
         "title": "Fine-Tuning Your First Large Language Model (LLM) with PyTorch and Hugging Face",
         "summary": "Fine-Tuning Your First Large Language Model (LLM) with PyTorch and Hugging Face",
         "link": "https://huggingface.co/blog/dvgodoy/fine-tuning-llm-hugging-face",
-        "published": "2026-04-11T06:04:31.782851+00:00"
+        "published": "2026-04-11T17:29:17.262520+00:00"
       },
       {
         "title": "Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment",
         "summary": "Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment",
         "link": "https://huggingface.co/blog/NormalUhr/rlhf-pipeline",
-        "published": "2026-04-11T06:04:31.783029+00:00"
+        "published": "2026-04-11T17:29:17.262687+00:00"
       },
       {
         "title": "Small Language Models (SLM): A Comprehensive Overview",
         "summary": "Small Language Models (SLM): A Comprehensive Overview",
         "link": "https://huggingface.co/blog/jjokah/small-language-model",
-        "published": "2026-04-11T06:04:31.783195+00:00"
+        "published": "2026-04-11T17:29:17.262861+00:00"
       }
     ],
     "producthunt": [],
@@ -113,31 +113,31 @@
         "title": "IBM: How robust AI governance protects enterprise margins",
         "summary": "Governance, Regulation & Policy",
         "link": "https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/",
-        "published": "2026-04-11T06:04:39.033025+00:00"
+        "published": "2026-04-11T17:29:24.920632+00:00"
       },
       {
         "title": "Why companies like Apple are building AI agents with limits",
         "summary": "Governance, Regulation & Policy",
         "link": "https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/",
-        "published": "2026-04-11T06:04:39.033413+00:00"
+        "published": "2026-04-11T17:29:24.921015+00:00"
       },
       {
         "title": "Meta has a competitive AI model but loses its open-source identity",
         "summary": "Open-Source & Democratised AI",
         "link": "https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/",
-        "published": "2026-04-11T06:04:39.033775+00:00"
+        "published": "2026-04-11T17:29:24.921385+00:00"
       },
       {
         "title": "Agentic AI’s governance challenges under the EU AI Act in 2026",
         "summary": "Governance, Regulation & Policy",
         "link": "https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/",
-        "published": "2026-04-11T06:04:39.034156+00:00"
+        "published": "2026-04-11T17:29:24.921760+00:00"
       },
       {
         "title": "Anthropic keeps new AI model private after it finds thousands of external vulnerabilities",
         "summary": "AI Business Strategy",
         "link": "https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/",
-        "published": "2026-04-11T06:04:39.034512+00:00"
+        "published": "2026-04-11T17:29:24.922124+00:00"
       }
     ],
     "crescendo": [
@@ -145,19 +145,19 @@
         "title": "Crescendo Wins Gold in CMSWire’s 2026 IMPACT Awards for Excellence in CCaaS and Customer Service",
         "summary": "Crescendo Wins Gold in CMSWire’s 2026 IMPACT Awards for Excellence in CCaaS and Customer Service",
         "link": "https://crescendo.ai/news/cmswire-impact-awards-2026",
-        "published": "2026-04-11T06:04:39.390079+00:00"
+        "published": "2026-04-11T17:29:25.371006+00:00"
       },
       {
         "title": "All NEWS",
         "summary": "All NEWS",
         "link": "https://crescendo.ai/news/ai-in-healthcare-news",
-        "published": "2026-04-11T06:04:39.393705+00:00"
+        "published": "2026-04-11T17:29:25.374542+00:00"
       },
       {
         "title": "The Latest AI News and Breakthroughs in Healthcare and Medical",
         "summary": "The Latest AI News and Breakthroughs in Healthcare and Medical",
         "link": "https://crescendo.ai/news/ai-in-healthcare-news",
-        "published": "2026-04-11T06:04:39.400634+00:00"
+        "published": "2026-04-11T17:29:25.381126+00:00"
       }
     ]
   }
