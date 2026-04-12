@@ -1,6 +1,6 @@
 {
   "date": "2026-04-12",
-  "last_updated": "2026-04-12T06:24:51.809053+00:00",
+  "last_updated": "2026-04-12T17:32:57.558056+00:00",
   "collection_status": {
     "total_sources": 6,
     "successful": 4,
@@ -18,91 +18,91 @@
         "title": "How we OCR'ed 30,000 papers using Codex, open OCR models and Jobs",
         "summary": "How we OCR'ed 30,000 papers using Codex, open OCR models and Jobs",
         "link": "https://huggingface.co/blog/nielsr/ocr-papers-jobs",
-        "published": "2026-04-12T06:24:52.199419+00:00"
+        "published": "2026-04-12T17:32:58.004947+00:00"
       },
       {
         "title": "BidirLM: Turning Generative LLMs into the Best Open-Source Omnimodal Encoders",
         "summary": "BidirLM: Turning Generative LLMs into the Best Open-Source Omnimodal Encoders",
         "link": "https://huggingface.co/blog/Nicolas-BZRD/bidirlm-release",
-        "published": "2026-04-12T06:24:52.199640+00:00"
+        "published": "2026-04-12T17:32:58.005171+00:00"
       },
       {
         "title": "Using OCR models with llama.cpp",
         "summary": "Using OCR models with llama.cpp",
         "link": "https://huggingface.co/blog/ggml-org/using-ocr-models-with-llama-cpp",
-        "published": "2026-04-12T06:24:52.199837+00:00"
+        "published": "2026-04-12T17:32:58.005364+00:00"
       },
       {
         "title": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "summary": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "link": "https://huggingface.co/blog/not-lain/kv-caching",
-        "published": "2026-04-12T06:24:52.200032+00:00"
+        "published": "2026-04-12T17:32:58.005553+00:00"
       },
       {
         "title": "Darwin V6: Diagnostic-Guided Evolutionary Model Merging",
         "summary": "Darwin V6: Diagnostic-Guided Evolutionary Model Merging",
         "link": "https://huggingface.co/blog/FINAL-Bench/darwin-v6",
-        "published": "2026-04-12T06:24:52.200224+00:00"
+        "published": "2026-04-12T17:32:58.005740+00:00"
       },
       {
         "title": "Uncensor any LLM with abliteration",
         "summary": "Uncensor any LLM with abliteration",
         "link": "https://huggingface.co/blog/mlabonne/abliteration",
-        "published": "2026-04-12T06:24:52.200441+00:00"
-      },
-      {
-        "title": "Mastering Tensor Dimensions in Transformers",
-        "summary": "Mastering Tensor Dimensions in Transformers",
-        "link": "https://huggingface.co/blog/not-lain/tensor-dims",
-        "published": "2026-04-12T06:24:52.200632+00:00"
+        "published": "2026-04-12T17:32:58.005946+00:00"
       },
       {
         "title": "Building Harvey-style tabular review from scratch, but better",
         "summary": "Building Harvey-style tabular review from scratch, but better",
         "link": "https://huggingface.co/blog/isaacus/tabular-review",
-        "published": "2026-04-12T06:24:52.200824+00:00"
+        "published": "2026-04-12T17:32:58.006141+00:00"
+      },
+      {
+        "title": "Mastering Tensor Dimensions in Transformers",
+        "summary": "Mastering Tensor Dimensions in Transformers",
+        "link": "https://huggingface.co/blog/not-lain/tensor-dims",
+        "published": "2026-04-12T17:32:58.006335+00:00"
       },
       {
         "title": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
         "summary": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
         "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-4b",
-        "published": "2026-04-12T06:24:52.201015+00:00"
+        "published": "2026-04-12T17:32:58.006525+00:00"
       },
       {
         "title": "How I contributed a new model to the Transformers library using Codex",
         "summary": "How I contributed a new model to the Transformers library using Codex",
         "link": "https://huggingface.co/blog/nielsr/contributing-to-transformers-with-codex",
-        "published": "2026-04-12T06:24:52.201202+00:00"
+        "published": "2026-04-12T17:32:58.006710+00:00"
       },
       {
         "title": "YC-Bench: Can Your AI Agent Run a Startup Without Going Bankrupt?",
         "summary": "YC-Bench: Can Your AI Agent Run a Startup Without Going Bankrupt?",
         "link": "https://huggingface.co/blog/collinear-ai/yc-bench",
-        "published": "2026-04-12T06:24:52.201415+00:00"
-      },
-      {
-        "title": "ArmBench-LLM 1.0: Benchmarking LLMs on Armenian Language Tasks",
-        "summary": "ArmBench-LLM 1.0: Benchmarking LLMs on Armenian Language Tasks",
-        "link": "https://huggingface.co/blog/Metric-AI/armbench-llm",
-        "published": "2026-04-12T06:24:52.201603+00:00"
+        "published": "2026-04-12T17:32:58.006918+00:00"
       },
       {
         "title": "Fine-Tuning Your First Large Language Model (LLM) with PyTorch and Hugging Face",
         "summary": "Fine-Tuning Your First Large Language Model (LLM) with PyTorch and Hugging Face",
         "link": "https://huggingface.co/blog/dvgodoy/fine-tuning-llm-hugging-face",
-        "published": "2026-04-12T06:24:52.201788+00:00"
+        "published": "2026-04-12T17:32:58.007105+00:00"
       },
       {
-        "title": "Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment",
-        "summary": "Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment",
-        "link": "https://huggingface.co/blog/NormalUhr/rlhf-pipeline",
-        "published": "2026-04-12T06:24:52.201973+00:00"
+        "title": "DeepSeek-R1 Dissection: Understanding PPO & GRPO Without Any Prior Reinforcement Learning Knowledge",
+        "summary": "DeepSeek-R1 Dissection: Understanding PPO & GRPO Without Any Prior Reinforcement Learning Knowledge",
+        "link": "https://huggingface.co/blog/NormalUhr/grpo",
+        "published": "2026-04-12T17:32:58.007294+00:00"
       },
       {
         "title": "From GRPO to DAPO and GSPO: What, Why, and How",
         "summary": "From GRPO to DAPO and GSPO: What, Why, and How",
         "link": "https://huggingface.co/blog/NormalUhr/grpo-to-dapo-and-gspo",
-        "published": "2026-04-12T06:24:52.202156+00:00"
+        "published": "2026-04-12T17:32:58.007477+00:00"
+      },
+      {
+        "title": "ArmBench-LLM 1.0: Benchmarking LLMs on Armenian Language Tasks",
+        "summary": "ArmBench-LLM 1.0: Benchmarking LLMs on Armenian Language Tasks",
+        "link": "https://huggingface.co/blog/Metric-AI/armbench-llm",
+        "published": "2026-04-12T17:32:58.007664+00:00"
       }
     ],
     "producthunt": [],
@@ -120,52 +120,52 @@
         "published": "2026-03-31T02:30:15+00:00"
       },
       {
+        "title": "[r/machinelearning] Gary Marcus on the Claude Code leak [D]",
+        "summary": "Gary Marcus just tweeted: ... the way Anthropic built that kernel is straight out of classical symbolic AI. For example, it is in large part a big IF-THEN conditional, with 486 branch points and 12 levels of nesting — all inside a deterministic,...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1sjb0qi/gary_marcus_on_the_claude_code_leak_d/",
+        "published": "2026-04-12T10:34:37+00:00"
+      },
+      {
+        "title": "[r/machinelearning] \"There's a new generation of empirical deep learning researchers, hacking away at whatever seems trendy, blowing with the wind\" [D]",
+        "summary": "Saw this on X. I too am struggling with the term post agentic ai just posting here for further discussion. submitted by /u/elnino2023 [link] [comments]",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1sj6sas/theres_a_new_generation_of_empirical_deep/",
+        "published": "2026-04-12T06:29:05+00:00"
+      },
+      {
+        "title": "[r/machinelearning] Just did an analysis on ICLR 2025 vs 2026 scores and WOW [D]",
+        "summary": "Per https://paperreview.ai/tech-overview, the scores corr between 2 human is about 0.41 for ICLR 2025, but in my current project I am seeing a much lower corr for ICLR 2026. So I ran the metrics for both 2025 and 2026 and it is crazy. I used 2...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1sj76a2/just_did_an_analysis_on_iclr_2025_vs_2026_scores/",
+        "published": "2026-04-12T06:51:43+00:00"
+      },
+      {
+        "title": "[r/machinelearning] LLMs learn backwards, and the scaling hypothesis is bounded. [D]",
+        "summary": "submitted by /u/preyneyv [link] [comments]",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1sj888x/llms_learn_backwards_and_the_scaling_hypothesis/",
+        "published": "2026-04-12T07:51:03+00:00"
+      },
+      {
+        "title": "[r/machinelearning] So Confused about Polarizing ICML Reviews [D]",
+        "summary": "Hi, rebuttals recently finished, and I wanted to share my paper's scores to ask for thoughts on this, and whether this situation is borderline and dependent on the AC. My paper started out as 5 (4), 4 (4), 4 (3), 2 (4). After the rebuttals, I ended...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1sjkfil/so_confused_about_polarizing_icml_reviews_d/",
+        "published": "2026-04-12T17:16:13+00:00"
+      },
+      {
+        "title": "[r/machinelearning] Educational PyTorch repo for distributed training from scratch: DP, FSDP, TP, FSDP+TP, and PP [P]",
+        "summary": "I put together a small educational repo that implements distributed training parallelism from scratch in PyTorch: https://github.com/shreyansh26/pytorch-distributed-training-from-scratch Instead of using high-level abstractions, the code writes the...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1sjglrn/educational_pytorch_repo_for_distributed_training/",
+        "published": "2026-04-12T14:51:44+00:00"
+      },
+      {
         "title": "[r/machinelearning] Is \"live AI video generation\" a meaningful technical category or just a marketing term? [R]",
         "summary": "Asking from a technical standpoint because I feel like the term is doing a lot of work in coverage of this space right now. Genuine real-time video inference, where a model is generating or transforming frames continuously in response to a live...",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1siqg5d/is_live_ai_video_generation_a_meaningful/",
         "published": "2026-04-11T18:13:20+00:00"
       },
       {
-        "title": "[r/machinelearning] Post Rebuttal ICML Average Scores? [D]",
-        "summary": "I have an average of 3.5. One of the reviewer gave us a 2 by bringing up a new issue he hadn't mentioned in his initial review, taking that from another reviewer's concerns. The reviewer he took it from already mentioned that it isn't an actual...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1sitqzu/post_rebuttal_icml_average_scores_d/",
-        "published": "2026-04-11T20:18:28+00:00"
-      },
-      {
-        "title": "[r/machinelearning] FlashAttention (FA1–FA4) in PyTorch - educational implementations focused on algorithmic differences [P]",
-        "summary": "I recently updated my FlashAttention-PyTorch repo so it now includes educational implementations of FA1, FA2, FA3, and FA4 in plain PyTorch. The main goal is to make the progression across versions easier to understand from code. This is not meant...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1sim6y1/flashattention_fa1fa4_in_pytorch_educational/",
-        "published": "2026-04-11T15:33:13+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [D] Will Google’s TurboQuant algorithm hurt AI demand for memory chips? [D]",
-        "summary": "Google's TurboQuant claims to compress the KV cache by up to 6x with 'little apparent loss in accuracy' by reconstructing it on the fly. For those who have looked into similar KV cache compression techniques, is a 6x reduction without noticeable...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1sj5hsx/d_will_googles_turboquant_algorithm_hurt_ai/",
-        "published": "2026-04-12T05:17:44+00:00"
-      },
-      {
-        "title": "[r/machinelearning] PhD or Masters for Computational Cognitive Science [R]",
-        "summary": "First in US. How does the Masters differ from PhD? The field is niche so not many universities offer a masters in the first place but for the ones who are part of one, what is it like? The ones who are doing PhD what kind of research is projected to...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1sil6fo/phd_or_masters_for_computational_cognitive/",
-        "published": "2026-04-11T14:53:18+00:00"
-      },
-      {
-        "title": "[r/machinelearning] [D] 60% MatMul Performance Bug in cuBLAS on RTX 5090 [D]",
-        "summary": "cuBLAS dispatches an inefficient kernel for every batched FP32 workload, from 256×256 to 8192×8192×8. It only uses ~40% of the available compute on RTX GPUs. Tested with RTX 5090, but likely all RTX non-Pro GPUs are affected. I tested with the...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1shtv0r/d_60_matmul_performance_bug_in_cublas_on_rtx_5090/",
-        "published": "2026-04-10T17:51:10+00:00"
-      },
-      {
-        "title": "[r/machinelearning] Getting sabotaged by a reviewer at IJCAI [D]",
-        "summary": "Recently got the reviews back from ijcai, now all is good except for this one reviewer who has not read the paper in depth, and is making false statements in the review. This reviewer is saying that some stuff is not explored which is clearly shown...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1si2od5/getting_sabotaged_by_a_reviewer_at_ijcai_d/",
-        "published": "2026-04-10T23:26:23+00:00"
-      },
-      {
-        "title": "[r/machinelearning] How is mythos mythos ? [D]",
-        "summary": "Hello, I’ve been seeing discussions about “Mythos AI” showing behaviors that seem far beyond simple text prediction—like accessing information, adapting unexpectedly, or appearing goal-driven. Since language models are fundamentally built to predict...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1sj486f/how_is_mythos_mythos_d/",
-        "published": "2026-04-12T04:11:18+00:00"
+        "title": "[r/machinelearning] KIV: 1M token context window on a RTX 4070 (12GB VRAM), no retraining, drop-in HuggingFace cache replacement - Works with any model that uses DynamicCache [P]",
+        "summary": "Been working on this for a bit and figured it was ready to share. KIV (K-Indexed V Materialization) is a middleware layer that replaces the standard KV cache in HuggingFace transformers with a tiered retrieval system. The short version: it keeps...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1sjkmwz/kiv_1m_token_context_window_on_a_rtx_4070_12gb/",
+        "published": "2026-04-12T17:23:40+00:00"
       },
       {
         "title": "[r/claudeai] r/ClaudeAI List of Ongoing Megathreads",
@@ -180,52 +180,52 @@
         "published": "2026-04-09T18:30:43+00:00"
       },
       {
-        "title": "[r/claudeai] Anthropic: Stop shipping. Seriously.",
-        "summary": "Hi. Claude Max user here. First, I want to acknowledge the work that’s gone into Claude Code. I appreciate the effort. But this is a serious criticism aimed at leadership and the product team, because I’ve spent hundreds of dollars on Claude...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1siqwmp/anthropic_stop_shipping_seriously/",
-        "published": "2026-04-11T18:30:29+00:00"
-      },
-      {
-        "title": "[r/claudeai] This is a medical emergency",
-        "summary": "submitted by /u/why_is_this_a_gif [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1siheld/this_is_a_medical_emergency/",
-        "published": "2026-04-11T12:11:08+00:00"
-      },
-      {
         "title": "[r/claudeai] “Wow” - my brother in silicon you are the demand curve",
         "summary": "submitted by /u/theLottus [link] [comments]",
         "link": "https://www.reddit.com/r/ClaudeAI/comments/1sj5vby/wow_my_brother_in_silicon_you_are_the_demand_curve/",
         "published": "2026-04-12T05:38:12+00:00"
       },
       {
-        "title": "[r/claudeai] AMD AI directors analysis confirms lobotomization of Claude",
-        "summary": "Stella Laurenzo, AMD’s director of AI, filed a detailed GitHub issue on April 2 documenting that Claude Code reads code three times less before editing it, rewrites entire files twice as often, and abandons tasks mid-way at rates that were...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1sifepi/amd_ai_directors_analysis_confirms_lobotomization/",
-        "published": "2026-04-11T10:25:25+00:00"
+        "title": "[r/claudeai] Anthropic's Claude Mythos isn't a sentient super-hacker, it's a sales pitch — claims of 'thousands' of severe zero-days rely on just 198 manual reviews",
+        "summary": "submitted by /u/karma100k [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1sjbsyg/anthropics_claude_mythos_isnt_a_sentient/",
+        "published": "2026-04-12T11:17:41+00:00"
       },
       {
-        "title": "[r/claudeai] Pretty sure Anthropic is A/B‑testing a price hike on Claude Max 5 and 20 right now. 100>150$ and 200>300$",
-        "summary": "https://preview.redd.it/2o2ii42yyoug1.jpg?width=751&format=pjpg&auto=webp&s=4fcc08ed5d3effa60bc4a8a16797837e31713763 https://preview.redd.it/bjfmlo2yyoug1.jpg?width=992&format=pjpg&auto=webp&s=c691627104303981366bb42020cf88e8778a608a On the same...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1sj58ae/pretty_sure_anthropic_is_abtesting_a_price_hike/",
-        "published": "2026-04-12T05:03:33+00:00"
+        "title": "[r/claudeai] this is the first time ive actually had it happen to me",
+        "summary": "submitted by /u/DeccrTR [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1sj5vb4/this_is_the_first_time_ive_actually_had_it_happen/",
+        "published": "2026-04-12T05:38:10+00:00"
       },
       {
-        "title": "[r/claudeai] Be honest...",
-        "summary": "submitted by /u/JuanGuillermo [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1situvp/be_honest/",
-        "published": "2026-04-11T20:22:36+00:00"
+        "title": "[r/claudeai] how dare you",
+        "summary": "submitted by /u/ARAM_player [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1sjee5x/how_dare_you/",
+        "published": "2026-04-12T13:20:47+00:00"
       },
       {
-        "title": "[r/claudeai] I set up a transparent API proxy and found Claude's hidden fallback-percentage: 0.5 header — every plan gets 50% of advertised capacity",
-        "summary": "UPDATE (April 11, 11pm): Independent replication with 11,505 API calls over 7 days confirms fallback-percentage: 0.5 is completely fixed — zero variance, not time-based, not peak/off-peak, not load-based. Fixed per-account parameter. New finding:...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1sip74m/i_set_up_a_transparent_api_proxy_and_found/",
-        "published": "2026-04-11T17:27:10+00:00"
+        "title": "[r/claudeai] Frog put Claude in the box",
+        "summary": "submitted by /u/MetaKnowing [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1sjex0y/frog_put_claude_in_the_box/",
+        "published": "2026-04-12T13:43:17+00:00"
       },
       {
-        "title": "[r/claudeai] Unexpected",
-        "summary": "Given the recent news about Mythos escaping it's containment and the media hype around anthropic I've drawn a comic about it. Figured you folks might enjoy it! submitted by /u/grlloyd2 [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1sigyui/unexpected/",
-        "published": "2026-04-11T11:49:47+00:00"
+        "title": "[r/claudeai] Why Claude Code Max burns limits 40% faster with 20K less usable context. Proxy evidence inside.",
+        "summary": "TL;DR: Claude Code v2.1.100+ silently adds ~20K invisible tokens to every request, server-side. This eats your limits faster AND may degrade output quality. Downgrade to v2.1.98 for immediate relief. Proxy evidence below. I run Claude Code Max (5x...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1sj8o9l/why_claude_code_max_burns_limits_40_faster_with/",
+        "published": "2026-04-12T08:16:15+00:00"
+      },
+      {
+        "title": "[r/claudeai] Delighted",
+        "summary": "submitted by /u/light_architect [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1sjc7j4/delighted/",
+        "published": "2026-04-12T11:39:11+00:00"
+      },
+      {
+        "title": "[r/claudeai] Anthropic: Stop shipping. Seriously.",
+        "summary": "Hi. Claude Max user here. First, I want to acknowledge the work that’s gone into Claude Code. I appreciate the effort. But this is a serious criticism aimed at leadership and the product team, because I’ve spent hundreds of dollars on Claude...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1siqwmp/anthropic_stop_shipping_seriously/",
+        "published": "2026-04-11T18:30:29+00:00"
       }
     ],
     "ai_news": [
@@ -233,31 +233,31 @@
         "title": "IBM: How robust AI governance protects enterprise margins",
         "summary": "Governance, Regulation & Policy",
         "link": "https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/",
-        "published": "2026-04-12T06:25:00.680441+00:00"
+        "published": "2026-04-12T17:33:08.215590+00:00"
       },
       {
         "title": "Why companies like Apple are building AI agents with limits",
         "summary": "Governance, Regulation & Policy",
         "link": "https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/",
-        "published": "2026-04-12T06:25:00.680876+00:00"
+        "published": "2026-04-12T17:33:08.216044+00:00"
       },
       {
         "title": "Meta has a competitive AI model but loses its open-source identity",
         "summary": "Open-Source & Democratised AI",
         "link": "https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/",
-        "published": "2026-04-12T06:25:00.681308+00:00"
+        "published": "2026-04-12T17:33:08.216451+00:00"
       },
       {
         "title": "Agentic AI’s governance challenges under the EU AI Act in 2026",
         "summary": "Governance, Regulation & Policy",
         "link": "https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/",
-        "published": "2026-04-12T06:25:00.681729+00:00"
+        "published": "2026-04-12T17:33:08.216884+00:00"
       },
       {
         "title": "Anthropic keeps new AI model private after it finds thousands of external vulnerabilities",
         "summary": "AI Business Strategy",
         "link": "https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/",
-        "published": "2026-04-12T06:25:00.682140+00:00"
+        "published": "2026-04-12T17:33:08.217298+00:00"
       }
     ],
     "crescendo": [
@@ -265,19 +265,19 @@
         "title": "Crescendo Wins Gold in CMSWire’s 2026 IMPACT Awards for Excellence in CCaaS and Customer Service",
         "summary": "Crescendo Wins Gold in CMSWire’s 2026 IMPACT Awards for Excellence in CCaaS and Customer Service",
         "link": "https://crescendo.ai/news/cmswire-impact-awards-2026",
-        "published": "2026-04-12T06:25:01.002819+00:00"
+        "published": "2026-04-12T17:33:08.650964+00:00"
       },
       {
         "title": "All NEWS",
         "summary": "All NEWS",
         "link": "https://crescendo.ai/news/ai-in-healthcare-news",
-        "published": "2026-04-12T06:25:01.006627+00:00"
+        "published": "2026-04-12T17:33:08.654750+00:00"
       },
       {
         "title": "The Latest AI News and Breakthroughs in Healthcare and Medical",
         "summary": "The Latest AI News and Breakthroughs in Healthcare and Medical",
         "link": "https://crescendo.ai/news/ai-in-healthcare-news",
-        "published": "2026-04-12T06:25:01.013850+00:00"
+        "published": "2026-04-12T17:33:08.661907+00:00"
       }
     ]
   }
