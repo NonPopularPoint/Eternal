@@ -1,6 +1,6 @@
 {
   "date": "2026-04-16",
-  "last_updated": "2026-04-16T06:58:42.621382+00:00",
+  "last_updated": "2026-04-16T18:06:40.925009+00:00",
   "collection_status": {
     "total_sources": 6,
     "successful": 4,
@@ -17,121 +17,121 @@
         "title": "The Non-Optimality of Scientific Knowledge: Path Dependence, Lock-In, and The Local Minimum Trap",
         "summary": "arXiv:2604.11828v2 Announce Type: new Abstract: Science is widely regarded as humanity's most reliable method for uncovering truths about the natural world. Yet the \\emph{trajectory} of scientific discovery is rarely examined as an optimization...",
         "link": "https://arxiv.org/abs/2604.11828",
-        "published": "2026-04-16T06:58:42.922713+00:00"
+        "published": "2026-04-16T18:06:41.403435+00:00"
       },
       {
         "title": "Self-Monitoring Benefits from Structural Integration: Lessons from Metacognition in Continuous-Time Multi-Timescale Agents",
         "summary": "arXiv:2604.11914v1 Announce Type: new Abstract: Self-monitoring capabilities -- metacognition, self-prediction, and subjective duration -- are often proposed as useful additions to reinforcement learning agents. But do they actually help? We...",
         "link": "https://arxiv.org/abs/2604.11914",
-        "published": "2026-04-16T06:58:42.922783+00:00"
+        "published": "2026-04-16T18:06:41.403516+00:00"
       },
       {
         "title": "GoodPoint: Learning Constructive Scientific Paper Feedback from Author Responses",
         "summary": "arXiv:2604.11924v1 Announce Type: new Abstract: While LLMs hold significant potential to transform scientific research, we advocate for their use to augment and empower researchers rather than to automate research without human oversight. To this...",
         "link": "https://arxiv.org/abs/2604.11924",
-        "published": "2026-04-16T06:58:42.922833+00:00"
+        "published": "2026-04-16T18:06:41.403577+00:00"
       },
       {
         "title": "Narrative-Driven Paper-to-Slide Generation via ArcDeck",
         "summary": "arXiv:2604.11969v1 Announce Type: new Abstract: We introduce ArcDeck, a multi-agent framework that formulates paper-to-slide generation as a structured narrative reconstruction task. Unlike existing methods that directly summarize raw text into...",
         "link": "https://arxiv.org/abs/2604.11969",
-        "published": "2026-04-16T06:58:42.922863+00:00"
+        "published": "2026-04-16T18:06:41.403615+00:00"
       },
       {
         "title": "The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break",
         "summary": "arXiv:2604.11978v1 Announce Type: new Abstract: Large language model (LLM) agents perform strongly on short- and mid-horizon tasks, but often break down on long-horizon tasks that require extended, interdependent action sequences. Despite rapid...",
         "link": "https://arxiv.org/abs/2604.11978",
-        "published": "2026-04-16T06:58:42.922890+00:00"
+        "published": "2026-04-16T18:06:41.403650+00:00"
       },
       {
         "title": "When to Forget: A Memory Governance Primitive",
         "summary": "arXiv:2604.12007v1 Announce Type: new Abstract: Agent memory systems accumulate experience but currently lack a principled operational metric for memory quality governance -- deciding which memories to trust, suppress, or deprecate as the agent's...",
         "link": "https://arxiv.org/abs/2604.12007",
-        "published": "2026-04-16T06:58:42.922929+00:00"
+        "published": "2026-04-16T18:06:41.403696+00:00"
       },
       {
         "title": "Identity as Attractor: Geometric Evidence for Persistent Agent Architecture in LLM Activation Space",
         "summary": "arXiv:2604.12016v1 Announce Type: new Abstract: Large language models map semantically related prompts to similar internal representations -- a phenomenon interpretable as attractor-like dynamics. We ask whether the identity document of a persistent...",
         "link": "https://arxiv.org/abs/2604.12016",
-        "published": "2026-04-16T06:58:42.922962+00:00"
+        "published": "2026-04-16T18:06:41.403736+00:00"
       },
       {
         "title": "A longitudinal health agent framework",
         "summary": "arXiv:2604.12019v1 Announce Type: new Abstract: Although artificial intelligence (AI) agents are increasingly proposed to support potentially longitudinal health tasks, such as symptom management, behavior change, and patient support, most current...",
         "link": "https://arxiv.org/abs/2604.12019",
-        "published": "2026-04-16T06:58:42.922994+00:00"
+        "published": "2026-04-16T18:06:41.403775+00:00"
       },
       {
         "title": "WiseOWL: A Methodology for Evaluating Ontological Descriptiveness and Semantic Correctness for Ontology Reuse and Ontology Recommendations",
         "summary": "arXiv:2604.12025v1 Announce Type: new Abstract: The Semantic Web standardizes concept meaning for humans and machines, enabling machine-operable content and consistent interpretation that improves advanced analytics. Reusing ontologies speeds...",
         "link": "https://arxiv.org/abs/2604.12025",
-        "published": "2026-04-16T06:58:42.923024+00:00"
+        "published": "2026-04-16T18:06:41.403813+00:00"
       },
       {
         "title": "Memory as Metabolism: A Design for Companion Knowledge Systems",
         "summary": "arXiv:2604.12034v1 Announce Type: new Abstract: Retrieval-Augmented Generation remains the dominant pattern for giving LLMs persistent memory, but a visible cluster of personal wiki-style memory architectures emerged in April 2026 -- design...",
         "link": "https://arxiv.org/abs/2604.12034",
-        "published": "2026-04-16T06:58:42.923057+00:00"
+        "published": "2026-04-16T18:06:41.403854+00:00"
       },
       {
         "title": "Mathematics Teachers Interactions with a Multi-Agent System for Personalized Problem Generation",
         "summary": "arXiv:2604.12066v1 Announce Type: new Abstract: Large language models can increasingly adapt educational tasks to learners characteristics. In the present study, we examine a multi-agent teacher-in-the-loop system for personalizing middle school...",
         "link": "https://arxiv.org/abs/2604.12066",
-        "published": "2026-04-16T06:58:42.923088+00:00"
+        "published": "2026-04-16T18:06:41.403908+00:00"
       },
       {
         "title": "Human-Inspired Context-Selective Multimodal Memory for Social Robots",
         "summary": "arXiv:2604.12081v1 Announce Type: new Abstract: Memory is fundamental to social interaction, enabling humans to recall meaningful past experiences and adapt their behavior accordingly based on the context. However, most current social robots and...",
         "link": "https://arxiv.org/abs/2604.12081",
-        "published": "2026-04-16T06:58:42.923117+00:00"
+        "published": "2026-04-16T18:06:41.403943+00:00"
       },
       {
         "title": "LLM-HYPER: Generative CTR Modeling for Cold-Start Ad Personalization via LLM-Based Hypernetworks",
         "summary": "arXiv:2604.12096v1 Announce Type: new Abstract: On online advertising platforms, newly introduced promotional ads face the cold-start problem, as they lack sufficient user feedback for model training. In this work, we propose LLM-HYPER, a novel...",
         "link": "https://arxiv.org/abs/2604.12096",
-        "published": "2026-04-16T06:58:42.923146+00:00"
+        "published": "2026-04-16T18:06:41.403979+00:00"
       },
       {
         "title": "Spatial Atlas: Compute-Grounded Reasoning for Spatial-Aware Research Agent Benchmarks",
         "summary": "arXiv:2604.12102v2 Announce Type: new Abstract: We introduce compute-grounded reasoning (CGR), a design paradigm for spatial-aware research agents in which every answerable sub-problem is resolved by deterministic computation before a language model...",
         "link": "https://arxiv.org/abs/2604.12102",
-        "published": "2026-04-16T06:58:42.923175+00:00"
+        "published": "2026-04-16T18:06:41.404013+00:00"
       },
       {
         "title": "The A-R Behavioral Space: Execution-Level Profiling of Tool-Using Language Model Agents in Organizational Deployment",
         "summary": "arXiv:2604.12116v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as tool-augmented agents capable of executing system-level operations. While existing benchmarks primarily assess textual alignment or task...",
         "link": "https://arxiv.org/abs/2604.12116",
-        "published": "2026-04-16T06:58:42.923204+00:00"
+        "published": "2026-04-16T18:06:41.404050+00:00"
       },
       {
         "title": "Long-Horizon Plan Execution in Large Tool Spaces through Entropy-Guided Branching",
         "summary": "arXiv:2604.12126v1 Announce Type: new Abstract: Large Language Models (LLMs) have significantly advanced tool-augmented agents, enabling autonomous reasoning via API interactions. However, executing multi-step tasks within massive tool libraries...",
         "link": "https://arxiv.org/abs/2604.12126",
-        "published": "2026-04-16T06:58:42.923233+00:00"
+        "published": "2026-04-16T18:06:41.404086+00:00"
       },
       {
         "title": "Aethon: A Reference-Based Replication Primitive for Constant-Time Instantiation of Stateful AI Agents",
         "summary": "arXiv:2604.12129v1 Announce Type: new Abstract: The transition from stateless model inference to stateful agentic execution is reshaping the systems assumptions underlying modern AI infrastructure. While large language models have made persistent,...",
         "link": "https://arxiv.org/abs/2604.12129",
-        "published": "2026-04-16T06:58:42.923261+00:00"
+        "published": "2026-04-16T18:06:41.404123+00:00"
       },
       {
         "title": "Towards Platonic Representation for Table Reasoning: A Foundation for Permutation-Invariant Retrieval",
         "summary": "arXiv:2604.12133v1 Announce Type: new Abstract: Historical approaches to Table Representation Learning (TRL) have largely adopted the sequential paradigms of Natural Language Processing (NLP). We argue that this linearization of tables discards...",
         "link": "https://arxiv.org/abs/2604.12133",
-        "published": "2026-04-16T06:58:42.923295+00:00"
+        "published": "2026-04-16T18:06:41.404165+00:00"
       },
       {
         "title": "Beyond Factual Grounding: The Case for Opinion-Aware Retrieval-Augmented Generation",
         "summary": "arXiv:2604.12138v1 Announce Type: new Abstract: RAG systems have transformed how LLMs access external knowledge, but we find that current implementations exhibit a bias toward factual, objective content, as evidenced by existing benchmarks and...",
         "link": "https://arxiv.org/abs/2604.12138",
-        "published": "2026-04-16T06:58:42.923329+00:00"
+        "published": "2026-04-16T18:06:41.404209+00:00"
       },
       {
         "title": "Development, Evaluation, and Deployment of a Multi-Agent System for Thoracic Tumor Board",
         "summary": "arXiv:2604.12161v1 Announce Type: new Abstract: Tumor boards are multidisciplinary conferences dedicated to producing actionable patient care recommendations with live review of primary radiology and pathology data. Succinct patient case summaries...",
         "link": "https://arxiv.org/abs/2604.12161",
-        "published": "2026-04-16T06:58:42.923360+00:00"
+        "published": "2026-04-16T18:06:41.404244+00:00"
       }
     ],
     "huggingface": [
@@ -139,125 +139,125 @@
         "title": "Using OCR models with llama.cpp",
         "summary": "Using OCR models with llama.cpp",
         "link": "https://huggingface.co/blog/ggml-org/using-ocr-models-with-llama-cpp",
-        "published": "2026-04-16T06:58:43.123386+00:00"
+        "published": "2026-04-16T18:06:41.664001+00:00"
       },
       {
         "title": "How we OCR'ed 30,000 papers using Codex, open OCR models and Jobs",
         "summary": "How we OCR'ed 30,000 papers using Codex, open OCR models and Jobs",
         "link": "https://huggingface.co/blog/nielsr/ocr-papers-jobs",
-        "published": "2026-04-16T06:58:43.123551+00:00"
+        "published": "2026-04-16T18:06:41.664222+00:00"
       },
       {
         "title": "NEO-unify: Building Native Multimodal Unified Models End to End",
         "summary": "NEO-unify: Building Native Multimodal Unified Models End to End",
         "link": "https://huggingface.co/blog/sensenova/neo-unify",
-        "published": "2026-04-16T06:58:43.123714+00:00"
-      },
-      {
-        "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
-        "summary": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
-        "link": "https://huggingface.co/blog/ibm-research/altk-evolve",
-        "published": "2026-04-16T06:58:43.123907+00:00"
+        "published": "2026-04-16T18:06:41.664402+00:00"
       },
       {
         "title": "\"Darwin-27B-Opus: Surpassing the Foundation Model Without Training\"",
         "summary": "\"Darwin-27B-Opus: Surpassing the Foundation Model Without Training\"",
         "link": "https://huggingface.co/blog/FINAL-Bench/darwin-gpqa",
-        "published": "2026-04-16T06:58:43.124040+00:00"
+        "published": "2026-04-16T18:06:41.664572+00:00"
       },
       {
         "title": "When Speech AI Meets the Long Tail of Languages: Inside the VAANI Dataset",
         "summary": "When Speech AI Meets the Long Tail of Languages: Inside the VAANI Dataset",
         "link": "https://huggingface.co/blog/ARTPARK-IISc/inside-the-vaani-dataset",
-        "published": "2026-04-16T06:58:43.124172+00:00"
-      },
-      {
-        "title": "Stop benchmarking inference providers",
-        "summary": "Stop benchmarking inference providers",
-        "link": "https://huggingface.co/blog/SaylorTwift/benchmarking-on-the-hub",
-        "published": "2026-04-16T06:58:43.124301+00:00"
-      },
-      {
-        "title": "Uncensor any LLM with abliteration",
-        "summary": "Uncensor any LLM with abliteration",
-        "link": "https://huggingface.co/blog/mlabonne/abliteration",
-        "published": "2026-04-16T06:58:43.124438+00:00"
-      },
-      {
-        "title": "Darwin-TTS: We Gave a TTS Model 3% of an LLM's Brain — It Started Showing Emotion",
-        "summary": "Darwin-TTS: We Gave a TTS Model 3% of an LLM's Brain — It Started Showing Emotion",
-        "link": "https://huggingface.co/blog/FINAL-Bench/darwin-tts",
-        "published": "2026-04-16T06:58:43.124570+00:00"
-      },
-      {
-        "title": "BidirLM: Turning Generative LLMs into the Best Open-Source Omnimodal Encoders",
-        "summary": "BidirLM: Turning Generative LLMs into the Best Open-Source Omnimodal Encoders",
-        "link": "https://huggingface.co/blog/Nicolas-BZRD/bidirlm-release",
-        "published": "2026-04-16T06:58:43.124714+00:00"
+        "published": "2026-04-16T18:06:41.664743+00:00"
       },
       {
         "title": "Nucleus-Image: Scaling Text-to-Image with Sparse Mixture of Experts",
         "summary": "Nucleus-Image: Scaling Text-to-Image with Sparse Mixture of Experts",
         "link": "https://huggingface.co/blog/NucleusAI/nucleus-image",
-        "published": "2026-04-16T06:58:43.124841+00:00"
+        "published": "2026-04-16T18:06:41.664925+00:00"
       },
       {
-        "title": "Mastering Tensor Dimensions in Transformers",
-        "summary": "Mastering Tensor Dimensions in Transformers",
-        "link": "https://huggingface.co/blog/not-lain/tensor-dims",
-        "published": "2026-04-16T06:58:43.124971+00:00"
+        "title": "Stop benchmarking inference providers",
+        "summary": "Stop benchmarking inference providers",
+        "link": "https://huggingface.co/blog/SaylorTwift/benchmarking-on-the-hub",
+        "published": "2026-04-16T18:06:41.665095+00:00"
+      },
+      {
+        "title": "Darwin-TTS: We Gave a TTS Model 3% of an LLM's Brain — It Started Showing Emotion",
+        "summary": "Darwin-TTS: We Gave a TTS Model 3% of an LLM's Brain — It Started Showing Emotion",
+        "link": "https://huggingface.co/blog/FINAL-Bench/darwin-tts",
+        "published": "2026-04-16T18:06:41.665276+00:00"
+      },
+      {
+        "title": "Uncensor any LLM with abliteration",
+        "summary": "Uncensor any LLM with abliteration",
+        "link": "https://huggingface.co/blog/mlabonne/abliteration",
+        "published": "2026-04-16T18:06:41.665446+00:00"
+      },
+      {
+        "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
+        "summary": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
+        "link": "https://huggingface.co/blog/ibm-research/altk-evolve",
+        "published": "2026-04-16T18:06:41.665615+00:00"
       },
       {
         "title": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "summary": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "link": "https://huggingface.co/blog/not-lain/kv-caching",
-        "published": "2026-04-16T06:58:43.125098+00:00"
+        "published": "2026-04-16T18:06:41.665781+00:00"
       },
       {
-        "title": "Building Harvey-style tabular review from scratch, but better",
-        "summary": "Building Harvey-style tabular review from scratch, but better",
-        "link": "https://huggingface.co/blog/isaacus/tabular-review",
-        "published": "2026-04-16T06:58:43.125225+00:00"
+        "title": "Mastering Tensor Dimensions in Transformers",
+        "summary": "Mastering Tensor Dimensions in Transformers",
+        "link": "https://huggingface.co/blog/not-lain/tensor-dims",
+        "published": "2026-04-16T18:06:41.665955+00:00"
       },
       {
         "title": "Releasing LiteCoder-Terminal-SFT",
         "summary": "Releasing LiteCoder-Terminal-SFT",
         "link": "https://huggingface.co/blog/Lite-Coder/releasing-litecoder-terminal",
-        "published": "2026-04-16T06:58:43.125352+00:00"
+        "published": "2026-04-16T18:06:41.666119+00:00"
+      },
+      {
+        "title": "easyaligner: Forced alignment of text and audio, made easy",
+        "summary": "easyaligner: Forced alignment of text and audio, made easy",
+        "link": "https://huggingface.co/blog/KBLab/easyaligner",
+        "published": "2026-04-16T18:06:41.666282+00:00"
+      },
+      {
+        "title": "A Review on the Evolvement of Load Balancing Strategy in MoE LLMs: Pitfalls and Lessons",
+        "summary": "A Review on the Evolvement of Load Balancing Strategy in MoE LLMs: Pitfalls and Lessons",
+        "link": "https://huggingface.co/blog/NormalUhr/moe-balance",
+        "published": "2026-04-16T18:06:41.666462+00:00"
       }
     ],
     "producthunt": [],
     "reddit": [],
     "ai_news": [
       {
+        "title": "OpenAI Agents SDK improves governance with sandbox execution",
+        "summary": "Governance, Regulation & Policy",
+        "link": "https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/",
+        "published": "2026-04-16T18:06:49.418605+00:00"
+      },
+      {
+        "title": "Cadence expands AI and robotic partnerships with Nvidia, Google Cloud",
+        "summary": "AI in Action",
+        "link": "https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/",
+        "published": "2026-04-16T18:06:49.419001+00:00"
+      },
+      {
         "title": "Commvault launches a ‘Ctrl-Z’ for cloud AI workloads",
         "summary": "Governance, Regulation & Policy",
         "link": "https://www.artificialintelligence-news.com/news/commvault-launches-ctrl-z-for-cloud-ai-workloads/",
-        "published": "2026-04-16T06:58:51.940980+00:00"
+        "published": "2026-04-16T18:06:49.419363+00:00"
       },
       {
         "title": "Citizen developers now have their own Wingman",
         "summary": "Multimodal AI",
         "link": "https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/",
-        "published": "2026-04-16T06:58:51.941288+00:00"
+        "published": "2026-04-16T18:06:49.419729+00:00"
       },
       {
         "title": "Drones get smarter for large farm holdings",
         "summary": "Physical AI",
         "link": "https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/",
-        "published": "2026-04-16T06:58:51.941565+00:00"
-      },
-      {
-        "title": "The US-China AI gap closed. The responsible AI gap didn’t",
-        "summary": "Artificial Intelligence",
-        "link": "https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/",
-        "published": "2026-04-16T06:58:51.941858+00:00"
-      },
-      {
-        "title": "SAP brings agentic AI to human capital management",
-        "summary": "Workforce & HR AI",
-        "link": "https://www.artificialintelligence-news.com/news/sap-brings-agentic-ai-human-capital-management/",
-        "published": "2026-04-16T06:58:51.942139+00:00"
+        "published": "2026-04-16T18:06:49.420101+00:00"
       }
     ],
     "crescendo": [
@@ -265,19 +265,19 @@
         "title": "Crescendo Wins Gold in CMSWire’s 2026 IMPACT Awards for Excellence in CCaaS and Customer Service",
         "summary": "Crescendo Wins Gold in CMSWire’s 2026 IMPACT Awards for Excellence in CCaaS and Customer Service",
         "link": "https://crescendo.ai/news/cmswire-impact-awards-2026",
-        "published": "2026-04-16T06:58:52.192208+00:00"
+        "published": "2026-04-16T18:06:50.177379+00:00"
       },
       {
         "title": "All NEWS",
         "summary": "All NEWS",
-        "link": "https://crescendo.ai/news/ai-in-healthcare-news",
-        "published": "2026-04-16T06:58:52.195095+00:00"
+        "link": "https://crescendo.ai/news/latest-ai-news-and-updates",
+        "published": "2026-04-16T18:06:50.180960+00:00"
       },
       {
-        "title": "The Latest AI News and Breakthroughs in Healthcare and Medical",
-        "summary": "The Latest AI News and Breakthroughs in Healthcare and Medical",
-        "link": "https://crescendo.ai/news/ai-in-healthcare-news",
-        "published": "2026-04-16T06:58:52.200459+00:00"
+        "title": "Latest AI News, Developments, and Breakthroughs | 2026",
+        "summary": "Latest AI News, Developments, and Breakthroughs | 2026",
+        "link": "https://crescendo.ai/news/latest-ai-news-and-updates",
+        "published": "2026-04-16T18:06:50.187722+00:00"
       }
     ]
   }
