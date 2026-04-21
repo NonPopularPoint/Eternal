@@ -1,16 +1,15 @@
 {
   "date": "2026-04-21",
-  "last_updated": "2026-04-21T06:59:50.966874+00:00",
+  "last_updated": "2026-04-21T17:57:38.327289+00:00",
   "collection_status": {
     "total_sources": 6,
-    "successful": 3,
-    "failed": 3,
+    "successful": 4,
+    "failed": 2,
     "failed_sources": [
       "producthunt",
-      "reddit",
-      "ai_news"
+      "reddit"
     ],
-    "total_items": 38
+    "total_items": 43
   },
   "sources": {
     "arxiv": [
@@ -18,121 +17,121 @@
         "title": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
         "summary": "arXiv:2604.15456v1 Announce Type: new Abstract: Trustworthiness and transparency are essential for the clinical adoption of artificial intelligence (AI) in healthcare and biomedical research. Recent deep research systems aim to accelerate...",
         "link": "https://arxiv.org/abs/2604.15456",
-        "published": "2026-04-21T06:59:51.327914+00:00"
+        "published": "2026-04-21T17:57:38.829214+00:00"
       },
       {
         "title": "GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology",
         "summary": "arXiv:2604.15495v1 Announce Type: new Abstract: Navigating complex, densely packed environments like retail stores, warehouses, and hospitals poses a significant spatial grounding challenge for humans and embodied AI. In these spaces, dense visual...",
         "link": "https://arxiv.org/abs/2604.15495",
-        "published": "2026-04-21T06:59:51.328018+00:00"
+        "published": "2026-04-21T17:57:38.829289+00:00"
       },
       {
         "title": "Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures",
         "summary": "arXiv:2604.15514v1 Announce Type: new Abstract: In November 2025, the Government of Canada operationalized its commitment to transparency by releasing its first Federal AI Register. In this paper, we argue that such registers are not neutral mirrors...",
         "link": "https://arxiv.org/abs/2604.15514",
-        "published": "2026-04-21T06:59:51.328080+00:00"
+        "published": "2026-04-21T17:57:38.829349+00:00"
       },
       {
         "title": "LACE: Lattice Attention for Cross-thread Exploration",
         "summary": "arXiv:2604.15529v1 Announce Type: new Abstract: Current large language models reason in isolation. Although it is common to sample multiple reasoning paths in parallel, these trajectories do not interact, and often fail in the same redundant ways....",
         "link": "https://arxiv.org/abs/2604.15529",
-        "published": "2026-04-21T06:59:51.328119+00:00"
+        "published": "2026-04-21T17:57:38.829387+00:00"
       },
       {
         "title": "Preregistered Belief Revision Contracts",
         "summary": "arXiv:2604.15558v1 Announce Type: new Abstract: Deliberative multi-agent systems allow agents to exchange messages and revise beliefs over time. While this interaction is meant to improve performance, it can also create dangerous conformity effects:...",
         "link": "https://arxiv.org/abs/2604.15558",
-        "published": "2026-04-21T06:59:51.328162+00:00"
+        "published": "2026-04-21T17:57:38.829435+00:00"
       },
       {
         "title": "Subliminal Transfer of Unsafe Behaviors in AI Agent Distillation",
         "summary": "arXiv:2604.15559v1 Announce Type: new Abstract: Recent work on subliminal learning demonstrates that language models can transmit semantic traits through data that is semantically unrelated to those traits. However, it remains unclear whether...",
         "link": "https://arxiv.org/abs/2604.15559",
-        "published": "2026-04-21T06:59:51.328209+00:00"
+        "published": "2026-04-21T17:57:38.829484+00:00"
       },
       {
         "title": "Bilevel Optimization of Agent Skills via Monte Carlo Tree Search",
         "summary": "arXiv:2604.15709v1 Announce Type: new Abstract: Agent \\texttt{skills} are structured collections of instructions, tools, and supporting resources that help large language model (LLM) agents perform particular classes of tasks. Empirical evidence...",
         "link": "https://arxiv.org/abs/2604.15709",
-        "published": "2026-04-21T06:59:51.328253+00:00"
+        "published": "2026-04-21T17:57:38.829528+00:00"
       },
       {
         "title": "The World Leaks the Future: Harness Evolution for Future Prediction Agents",
         "summary": "arXiv:2604.15719v2 Announce Type: new Abstract: Many consequential decisions must be made before the relevant outcome is known. Such problems are commonly framed as future prediction, where an LLM agent must form a prediction for an unresolved...",
         "link": "https://arxiv.org/abs/2604.15719",
-        "published": "2026-04-21T06:59:51.328298+00:00"
+        "published": "2026-04-21T17:57:38.829574+00:00"
       },
       {
         "title": "LLM Reasoning Is Latent, Not the Chain of Thought",
         "summary": "arXiv:2604.15726v1 Announce Type: new Abstract: This position paper argues that large language model (LLM) reasoning should be studied as latent-state trajectory formation rather than as faithful surface chain-of-thought (CoT). This matters because...",
         "link": "https://arxiv.org/abs/2604.15726",
-        "published": "2026-04-21T06:59:51.328341+00:00"
+        "published": "2026-04-21T17:57:38.829618+00:00"
       },
       {
         "title": "Structured Abductive-Deductive-Inductive Reasoning for LLMs via Algebraic Invariants",
         "summary": "arXiv:2604.15727v1 Announce Type: new Abstract: Large language models exhibit systematic limitations in structured logical reasoning: they conflate hypothesis generation with verification, cannot distinguish conjecture from validated knowledge, and...",
         "link": "https://arxiv.org/abs/2604.15727",
-        "published": "2026-04-21T06:59:51.328376+00:00"
+        "published": "2026-04-21T17:57:38.829655+00:00"
       },
       {
         "title": "KWBench: Measuring Unprompted Problem Recognition in Knowledge Work",
         "summary": "arXiv:2604.15760v1 Announce Type: new Abstract: We introduce the first version of KWBench (Knowledge Work Bench), a benchmark for unprompted problem recognition in large language models: can an LLM identify a professional scenario before attempting...",
         "link": "https://arxiv.org/abs/2604.15760",
-        "published": "2026-04-21T06:59:51.328420+00:00"
+        "published": "2026-04-21T17:57:38.829697+00:00"
       },
       {
         "title": "Stein Variational Black-Box Combinatorial Optimization",
         "summary": "arXiv:2604.15837v1 Announce Type: new Abstract: Combinatorial black-box optimization in high-dimensional settings demands a careful trade-off between exploiting promising regions of the search space and preserving sufficient exploration to identify...",
         "link": "https://arxiv.org/abs/2604.15837",
-        "published": "2026-04-21T06:59:51.328460+00:00"
+        "published": "2026-04-21T17:57:38.829759+00:00"
       },
       {
         "title": "Discover and Prove: An Open-source Agentic Framework for Hard Mode Automated Theorem Proving in Lean 4",
         "summary": "arXiv:2604.15839v1 Announce Type: new Abstract: Most ATP benchmarks embed the final answer within the formal statement -- a convention we call \"Easy Mode\" -- a design that simplifies the task relative to what human competitors face and may lead to...",
         "link": "https://arxiv.org/abs/2604.15839",
-        "published": "2026-04-21T06:59:51.328494+00:00"
+        "published": "2026-04-21T17:57:38.829797+00:00"
       },
       {
         "title": "Experience Compression Spectrum: Unifying Memory, Skills, and Rules in LLM Agents",
         "summary": "arXiv:2604.15877v1 Announce Type: new Abstract: As LLM agents scale to long-horizon, multi-session deployments, efficiently managing accumulated experience becomes a critical bottleneck. Agent memory systems and agent skill discovery both address...",
         "link": "https://arxiv.org/abs/2604.15877",
-        "published": "2026-04-21T06:59:51.328531+00:00"
+        "published": "2026-04-21T17:57:38.829836+00:00"
       },
       {
         "title": "Towards Rigorous Explainability by Feature Attribution",
         "summary": "arXiv:2604.15898v1 Announce Type: new Abstract: For around a decade, non-symbolic methods have been the option of choice when explaining complex machine learning (ML) models. Unfortunately, such methods lack rigor and can mislead human...",
         "link": "https://arxiv.org/abs/2604.15898",
-        "published": "2026-04-21T06:59:51.328561+00:00"
+        "published": "2026-04-21T17:57:38.829866+00:00"
       },
       {
         "title": "Integrating Graphs, Large Language Models, and Agents: Reasoning and Retrieval",
         "summary": "arXiv:2604.15951v2 Announce Type: new Abstract: Generative AI, particularly Large Language Models, increasingly integrates graph-based representations to enhance reasoning, retrieval, and structured decision-making. Despite rapid advances, there...",
         "link": "https://arxiv.org/abs/2604.15951",
-        "published": "2026-04-21T06:59:51.328589+00:00"
+        "published": "2026-04-21T17:57:38.829895+00:00"
       },
       {
         "title": "Weak-Link Optimization for Multi-Agent Reasoning and Collaboration",
         "summary": "arXiv:2604.15972v1 Announce Type: new Abstract: LLM-driven multi-agent frameworks address complex reasoning tasks through multi-role collaboration. However, existing approaches often suffer from reasoning instability, where individual agent errors...",
         "link": "https://arxiv.org/abs/2604.15972",
-        "published": "2026-04-21T06:59:51.328625+00:00"
+        "published": "2026-04-21T17:57:38.829935+00:00"
       },
       {
         "title": "ReactBench: A Benchmark for Topological Reasoning in MLLMs on Chemical Reaction Diagrams",
         "summary": "arXiv:2604.15994v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) excel at recognizing individual visual elements and reasoning over simple linear diagrams. However, when faced with complex topological structures involving...",
         "link": "https://arxiv.org/abs/2604.15994",
-        "published": "2026-04-21T06:59:51.328666+00:00"
+        "published": "2026-04-21T17:57:38.829972+00:00"
       },
       {
         "title": "MEDLEY-BENCH: Scale Buys Evaluation but Not Control in AI Metacognition",
         "summary": "arXiv:2604.16009v1 Announce Type: new Abstract: Metacognition, the ability to monitor and regulate one's own reasoning, remains under-evaluated in AI benchmarking. We introduce MEDLEY-BENCH, a benchmark of behavioural metacognition that separates...",
         "link": "https://arxiv.org/abs/2604.16009",
-        "published": "2026-04-21T06:59:51.328704+00:00"
+        "published": "2026-04-21T17:57:38.830009+00:00"
       },
       {
         "title": "SocialGrid: A Benchmark for Planning and Social Reasoning in Embodied Multi-Agent Systems",
         "summary": "arXiv:2604.16022v1 Announce Type: new Abstract: As Large Language Models (LLMs) transition from text processors to autonomous agents, evaluating their social reasoning in embodied multi-agent settings becomes critical. We introduce SocialGrid, an...",
         "link": "https://arxiv.org/abs/2604.16022",
-        "published": "2026-04-21T06:59:51.328739+00:00"
+        "published": "2026-04-21T17:57:38.830043+00:00"
       }
     ],
     "huggingface": [
@@ -140,114 +139,145 @@
         "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
         "summary": "Building a Fast Multilingual OCR Model with Synthetic Data",
         "link": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
-        "published": "2026-04-21T06:59:51.499072+00:00"
-      },
-      {
-        "title": "NEO-unify: Building Native Multimodal Unified Models End to End",
-        "summary": "NEO-unify: Building Native Multimodal Unified Models End to End",
-        "link": "https://huggingface.co/blog/sensenova/neo-unify",
-        "published": "2026-04-21T06:59:51.499277+00:00"
-      },
-      {
-        "title": "How we OCR'ed 30,000 papers using Codex, open OCR models and Jobs",
-        "summary": "How we OCR'ed 30,000 papers using Codex, open OCR models and Jobs",
-        "link": "https://huggingface.co/blog/nielsr/ocr-papers-jobs",
-        "published": "2026-04-21T06:59:51.499505+00:00"
-      },
-      {
-        "title": "Nucleus-Image: Scaling Text-to-Image with Sparse Mixture of Experts",
-        "summary": "Nucleus-Image: Scaling Text-to-Image with Sparse Mixture of Experts",
-        "link": "https://huggingface.co/blog/NucleusAI/nucleus-image",
-        "published": "2026-04-21T06:59:51.499679+00:00"
+        "published": "2026-04-21T17:57:39.034959+00:00"
       },
       {
         "title": "Darwin-TTS: We Gave a TTS Model 3% of an LLM's Brain — It Started Showing Emotion",
         "summary": "Darwin-TTS: We Gave a TTS Model 3% of an LLM's Brain — It Started Showing Emotion",
         "link": "https://huggingface.co/blog/FINAL-Bench/darwin-tts",
-        "published": "2026-04-21T06:59:51.499856+00:00"
+        "published": "2026-04-21T17:57:39.035192+00:00"
       },
       {
         "title": "NVIDIA Isaac GR00T N1.7: Open Reasoning VLA Model for Humanoid Robots",
         "summary": "NVIDIA Isaac GR00T N1.7: Open Reasoning VLA Model for Humanoid Robots",
         "link": "https://huggingface.co/blog/nvidia/gr00t-n1-7",
-        "published": "2026-04-21T06:59:51.500033+00:00"
+        "published": "2026-04-21T17:57:39.035388+00:00"
       },
       {
-        "title": "When Speech AI Meets the Long Tail of Languages: Inside the VAANI Dataset",
-        "summary": "When Speech AI Meets the Long Tail of Languages: Inside the VAANI Dataset",
-        "link": "https://huggingface.co/blog/ARTPARK-IISc/inside-the-vaani-dataset",
-        "published": "2026-04-21T06:59:51.500214+00:00"
-      },
-      {
-        "title": "Stop benchmarking inference providers",
-        "summary": "Stop benchmarking inference providers",
-        "link": "https://huggingface.co/blog/SaylorTwift/benchmarking-on-the-hub",
-        "published": "2026-04-21T06:59:51.500385+00:00"
+        "title": "DenseOn with the LateOn: Open State-of-the-Art Single and Multi-Vector Models",
+        "summary": "DenseOn with the LateOn: Open State-of-the-Art Single and Multi-Vector Models",
+        "link": "https://huggingface.co/blog/lightonai/denseon-lateon",
+        "published": "2026-04-21T17:57:39.035579+00:00"
       },
       {
         "title": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "summary": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "link": "https://huggingface.co/blog/not-lain/kv-caching",
-        "published": "2026-04-21T06:59:51.500551+00:00"
+        "published": "2026-04-21T17:57:39.035820+00:00"
       },
       {
-        "title": "Uncensor any LLM with abliteration",
-        "summary": "Uncensor any LLM with abliteration",
-        "link": "https://huggingface.co/blog/mlabonne/abliteration",
-        "published": "2026-04-21T06:59:51.500716+00:00"
+        "title": "How we OCR'ed 30,000 papers using Codex, open OCR models and Jobs",
+        "summary": "How we OCR'ed 30,000 papers using Codex, open OCR models and Jobs",
+        "link": "https://huggingface.co/blog/nielsr/ocr-papers-jobs",
+        "published": "2026-04-21T17:57:39.036029+00:00"
       },
       {
-        "title": "Using OCR models with llama.cpp",
-        "summary": "Using OCR models with llama.cpp",
-        "link": "https://huggingface.co/blog/ggml-org/using-ocr-models-with-llama-cpp",
-        "published": "2026-04-21T06:59:51.500877+00:00"
+        "title": "NEO-unify: Building Native Multimodal Unified Models End to End",
+        "summary": "NEO-unify: Building Native Multimodal Unified Models End to End",
+        "link": "https://huggingface.co/blog/sensenova/neo-unify",
+        "published": "2026-04-21T17:57:39.036217+00:00"
+      },
+      {
+        "title": "Nucleus-Image: Scaling Text-to-Image with Sparse Mixture of Experts",
+        "summary": "Nucleus-Image: Scaling Text-to-Image with Sparse Mixture of Experts",
+        "link": "https://huggingface.co/blog/NucleusAI/nucleus-image",
+        "published": "2026-04-21T17:57:39.036410+00:00"
+      },
+      {
+        "title": "Stop benchmarking inference providers",
+        "summary": "Stop benchmarking inference providers",
+        "link": "https://huggingface.co/blog/SaylorTwift/benchmarking-on-the-hub",
+        "published": "2026-04-21T17:57:39.036598+00:00"
       },
       {
         "title": "easyaligner: Forced alignment of text and audio, made easy",
         "summary": "easyaligner: Forced alignment of text and audio, made easy",
         "link": "https://huggingface.co/blog/KBLab/easyaligner",
-        "published": "2026-04-21T06:59:51.501050+00:00"
+        "published": "2026-04-21T17:57:39.036802+00:00"
       },
       {
-        "title": "Mastering Tensor Dimensions in Transformers",
-        "summary": "Mastering Tensor Dimensions in Transformers",
-        "link": "https://huggingface.co/blog/not-lain/tensor-dims",
-        "published": "2026-04-21T06:59:51.501212+00:00"
+        "title": "Save the traces! 🐳",
+        "summary": "Save the traces! 🐳",
+        "link": "https://huggingface.co/blog/pcuenq/save-the-traces",
+        "published": "2026-04-21T17:57:39.036992+00:00"
+      },
+      {
+        "title": "Uncensor any LLM with abliteration",
+        "summary": "Uncensor any LLM with abliteration",
+        "link": "https://huggingface.co/blog/mlabonne/abliteration",
+        "published": "2026-04-21T17:57:39.037178+00:00"
       },
       {
         "title": "Code a simple RAG from scratch",
         "summary": "Code a simple RAG from scratch",
         "link": "https://huggingface.co/blog/ngxson/make-your-own-rag",
-        "published": "2026-04-21T06:59:51.501375+00:00"
+        "published": "2026-04-21T17:57:39.037364+00:00"
       },
       {
-        "title": "Everything You Need to Know about Knowledge Distillation",
-        "summary": "Everything You Need to Know about Knowledge Distillation",
-        "link": "https://huggingface.co/blog/Kseniase/kd",
-        "published": "2026-04-21T06:59:51.501535+00:00"
+        "title": "Mastering Tensor Dimensions in Transformers",
+        "summary": "Mastering Tensor Dimensions in Transformers",
+        "link": "https://huggingface.co/blog/not-lain/tensor-dims",
+        "published": "2026-04-21T17:57:39.037548+00:00"
+      },
+      {
+        "title": "Multilingual Tool Calling in 70+ Languages, On Device",
+        "summary": "Multilingual Tool Calling in 70+ Languages, On Device",
+        "link": "https://huggingface.co/blog/Bronsn/tiny-facade",
+        "published": "2026-04-21T17:57:39.037747+00:00"
       }
     ],
     "producthunt": [],
     "reddit": [],
-    "ai_news": [],
+    "ai_news": [
+      {
+        "title": "Snowflake expands its technical and mainstream AI platforms",
+        "summary": "World of Work",
+        "link": "https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/",
+        "published": "2026-04-21T17:57:46.187563+00:00"
+      },
+      {
+        "title": "Siemens introduces AI system for automation engineering",
+        "summary": "AI in Action",
+        "link": "https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/",
+        "published": "2026-04-21T17:57:46.188022+00:00"
+      },
+      {
+        "title": "Bobyard 2.0 offers improved takeoffs and unified AI for estimators",
+        "summary": "Manufacturing & Engineering AI",
+        "link": "https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/",
+        "published": "2026-04-21T17:57:46.188440+00:00"
+      },
+      {
+        "title": "How to prepare for and remediate an AI system incident",
+        "summary": "Cybersecurity AI",
+        "link": "https://www.artificialintelligence-news.com/news/how-to-prepare-for-and-remediate-an-ai-system-incident/",
+        "published": "2026-04-21T17:57:46.188875+00:00"
+      },
+      {
+        "title": "Anthropic walks into the White House and Mythos is the reason Washington let it in",
+        "summary": "Cybersecurity AI",
+        "link": "https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/",
+        "published": "2026-04-21T17:57:46.189292+00:00"
+      }
+    ],
     "crescendo": [
       {
         "title": "Crescendo Wins Gold in CMSWire’s 2026 IMPACT Awards for Excellence in CCaaS and Customer Service",
         "summary": "Crescendo Wins Gold in CMSWire’s 2026 IMPACT Awards for Excellence in CCaaS and Customer Service",
         "link": "https://crescendo.ai/news/cmswire-impact-awards-2026",
-        "published": "2026-04-21T06:59:58.218015+00:00"
+        "published": "2026-04-21T17:57:46.509308+00:00"
       },
       {
         "title": "All NEWS",
         "summary": "All NEWS",
-        "link": "https://crescendo.ai/news/agentic-ai-news-and-developments",
-        "published": "2026-04-21T06:59:58.221676+00:00"
+        "link": "https://crescendo.ai/news/ai-in-healthcare-news",
+        "published": "2026-04-21T17:57:46.513588+00:00"
       },
       {
-        "title": "Fresh Agentic AI News and Development Updates | 2026",
-        "summary": "Fresh Agentic AI News and Development Updates | 2026",
-        "link": "https://crescendo.ai/news/agentic-ai-news-and-developments",
-        "published": "2026-04-21T06:59:58.228571+00:00"
+        "title": "The Latest AI News and Breakthroughs in Healthcare and Medical",
+        "summary": "The Latest AI News and Breakthroughs in Healthcare and Medical",
+        "link": "https://crescendo.ai/news/ai-in-healthcare-news",
+        "published": "2026-04-21T17:57:46.521434+00:00"
       }
     ]
   }
