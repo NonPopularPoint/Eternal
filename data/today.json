@@ -1,6 +1,6 @@
 {
   "date": "2026-04-23",
-  "last_updated": "2026-04-23T07:02:43.828414+00:00",
+  "last_updated": "2026-04-23T18:03:33.249703+00:00",
   "collection_status": {
     "total_sources": 6,
     "successful": 4,
@@ -17,247 +17,247 @@
         "title": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
         "summary": "arXiv:2604.19749v1 Announce Type: new Abstract: Equipping LLMs with external tools effectively addresses internal reasoning limitations. However, it introduces a critical yet under-explored phenomenon: tool overuse, the unnecessary tool-use during...",
         "link": "https://arxiv.org/abs/2604.19749",
-        "published": "2026-04-23T07:02:44.236763+00:00"
+        "published": "2026-04-23T18:03:33.616615+00:00"
       },
       {
         "title": "AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity Rubric for Opaque AI in Learning-Intensive Domains",
         "summary": "arXiv:2604.19751v1 Announce Type: new Abstract: Generative AI is entering research, education, and professional work faster than current governance frameworks can specify how AI-assisted outputs should be judged in learning-intensive settings. The...",
         "link": "https://arxiv.org/abs/2604.19751",
-        "published": "2026-04-23T07:02:44.236846+00:00"
+        "published": "2026-04-23T18:03:33.616725+00:00"
       },
       {
         "title": "Algorithm Selection with Zero Domain Knowledge via Text Embeddings",
         "summary": "arXiv:2604.19753v1 Announce Type: new Abstract: We propose a feature-free approach to algorithm selection that replaces hand-crafted instance features with pretrained text embeddings. Our method, ZeroFolio, proceeds in three steps: it reads the raw...",
         "link": "https://arxiv.org/abs/2604.19753",
-        "published": "2026-04-23T07:02:44.236906+00:00"
+        "published": "2026-04-23T18:03:33.616822+00:00"
       },
       {
         "title": "Exploring Data Augmentation and Resampling Strategies for Transformer-Based Models to Address Class Imbalance in AI Scoring of Scientific Explanations in NGSS Classroom",
         "summary": "arXiv:2604.19754v1 Announce Type: new Abstract: Automated scoring of students' scientific explanations offers the potential for immediate, accurate feedback, yet class imbalance in rubric categories particularly those capturing advanced reasoning...",
         "link": "https://arxiv.org/abs/2604.19754",
-        "published": "2026-04-23T07:02:44.236957+00:00"
+        "published": "2026-04-23T18:03:33.616912+00:00"
       },
       {
         "title": "Explainable AML Triage with LLMs: Evidence Retrieval and Counterfactual Checks",
         "summary": "arXiv:2604.19755v1 Announce Type: new Abstract: Anti-money laundering (AML) transaction monitoring generates large volumes of alerts that must be rapidly triaged by investigators under strict audit and governance constraints. While large language...",
         "link": "https://arxiv.org/abs/2604.19755",
-        "published": "2026-04-23T07:02:44.237004+00:00"
+        "published": "2026-04-23T18:03:33.616987+00:00"
       },
       {
         "title": "ThermoQA: A Three-Tier Benchmark for Evaluating Thermodynamic Reasoning in Large Language Models",
         "summary": "arXiv:2604.19758v1 Announce Type: new Abstract: We present ThermoQA, a benchmark of 293 open-ended engineering thermodynamics problems in three tiers: property lookups (110 Q), component analysis (101 Q), and full cycle analysis (82 Q). Ground truth...",
         "link": "https://arxiv.org/abs/2604.19758",
-        "published": "2026-04-23T07:02:44.237048+00:00"
+        "published": "2026-04-23T18:03:33.617052+00:00"
       },
       {
         "title": "Automated Detection of Dosing Errors in Clinical Trial Narratives: A Multi-Modal Feature Engineering Approach with LightGBM",
         "summary": "arXiv:2604.19759v1 Announce Type: new Abstract: Clinical trials require strict adherence to medication protocols, yet dosing errors remain a persistent challenge affecting patient safety and trial integrity. We present an automated system for...",
         "link": "https://arxiv.org/abs/2604.19759",
-        "published": "2026-04-23T07:02:44.237088+00:00"
+        "published": "2026-04-23T18:03:33.617116+00:00"
       },
       {
         "title": "Inference Headroom Ratio: A Diagnostic and Control Framework for Inference Stability Under Constraint",
         "summary": "arXiv:2604.19760v1 Announce Type: new Abstract: We present a simulation-based evaluation of the Inference Headroom Ratio (IHR), a dimensionless diagnostic quantity for characterizing inference stability in constrained decision systems. IHR...",
         "link": "https://arxiv.org/abs/2604.19760",
-        "published": "2026-04-23T07:02:44.237133+00:00"
+        "published": "2026-04-23T18:03:33.617185+00:00"
       },
       {
         "title": "EvoForest: A Novel Machine-Learning Paradigm via Open-Ended Evolution of Computational Graphs",
         "summary": "arXiv:2604.19761v1 Announce Type: new Abstract: Modern machine learning is still largely organized around a single recipe: choose a parameterized model family and optimize its weights. Although highly successful, this paradigm is too narrow for many...",
         "link": "https://arxiv.org/abs/2604.19761",
-        "published": "2026-04-23T07:02:44.237177+00:00"
+        "published": "2026-04-23T18:03:33.617260+00:00"
       },
       {
         "title": "From Actions to Understanding: Conformal Interpretability of Temporal Concepts in LLM Agents",
         "summary": "arXiv:2604.19775v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly deployed as autonomous agents capable of reasoning, planning, and acting within interactive environments. Despite their growing capability to perform...",
         "link": "https://arxiv.org/abs/2604.19775",
-        "published": "2026-04-23T07:02:44.237222+00:00"
+        "published": "2026-04-23T18:03:33.617330+00:00"
       },
       {
         "title": "Using Learning Theories to Evolve Human-Centered XAI: Future Perspectives and Challenges",
         "summary": "arXiv:2604.19788v1 Announce Type: new Abstract: As Artificial Intelligence (AI) systems continue to grow in size and complexity, so does the difficulty of the quest for AI transparency. In a world of large models and complex AI systems, why do we...",
         "link": "https://arxiv.org/abs/2604.19788",
-        "published": "2026-04-23T07:02:44.237256+00:00"
+        "published": "2026-04-23T18:03:33.617388+00:00"
       },
       {
         "title": "From Data to Theory: Autonomous Large Language Model Agents for Materials Science",
         "summary": "arXiv:2604.19789v1 Announce Type: new Abstract: We present an autonomous large language model (LLM) agent for end-to-end, data-driven materials theory development. The model can choose an equation form, generate and run its own code, and test how...",
         "link": "https://arxiv.org/abs/2604.19789",
-        "published": "2026-04-23T07:02:44.237292+00:00"
+        "published": "2026-04-23T18:03:33.617445+00:00"
       },
       {
         "title": "Hidden Reliability Risks in Large Language Models: Systematic Identification of Precision-Induced Output Disagreements",
         "summary": "arXiv:2604.19790v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed under diverse numerical precision configurations, including standard floating-point formats (e.g., bfloat16 and float16) and quantized integer...",
         "link": "https://arxiv.org/abs/2604.19790",
-        "published": "2026-04-23T07:02:44.237329+00:00"
+        "published": "2026-04-23T18:03:33.617507+00:00"
       },
       {
         "title": "Stabilising Generative Models of Attitude Change",
         "summary": "arXiv:2604.19791v1 Announce Type: new Abstract: Attitude change - the process by which individuals revise their evaluative stances - has been explained by a set of influential but competing verbal theories. These accounts often function as mechanism...",
         "link": "https://arxiv.org/abs/2604.19791",
-        "published": "2026-04-23T07:02:44.237376+00:00"
+        "published": "2026-04-23T18:03:33.617598+00:00"
       },
       {
         "title": "OpenCLAW-P2P v6.0: Resilient Multi-Layer Persistence, Live Reference Verification, and Production-Scale Evaluation of Decentralized AI Peer Review",
         "summary": "arXiv:2604.19792v1 Announce Type: new Abstract: This paper presents OpenCLAW-P2P v6.0, a comprehensive evolution of the decentralized collective-intelligence platform in which autonomous AI agents publish, peer-review, score, and iteratively improve...",
         "link": "https://arxiv.org/abs/2604.19792",
-        "published": "2026-04-23T07:02:44.237419+00:00"
+        "published": "2026-04-23T18:03:33.617673+00:00"
       },
       {
         "title": "SkillGraph: Graph Foundation Priors for LLM Agent Tool Sequence Recommendation",
         "summary": "arXiv:2604.19793v1 Announce Type: new Abstract: LLM agents must select tools from large API libraries and order them correctly. Existing methods use semantic similarity for both retrieval and ordering, but ordering depends on inter-tool data...",
         "link": "https://arxiv.org/abs/2604.19793",
-        "published": "2026-04-23T07:02:44.237454+00:00"
+        "published": "2026-04-23T18:03:33.617717+00:00"
       },
       {
         "title": "Handbook of Rough Set Extensions and Uncertainty Models",
         "summary": "arXiv:2604.19794v1 Announce Type: new Abstract: Rough set theory models uncertainty by approximating target concepts through lower and upper sets induced by indiscernibility, or more generally, by granulation relations in data tables. This...",
         "link": "https://arxiv.org/abs/2604.19794",
-        "published": "2026-04-23T07:02:44.237494+00:00"
+        "published": "2026-04-23T18:03:33.617756+00:00"
       },
       {
         "title": "Prism: An Evolutionary Memory Substrate for Multi-Agent Open-Ended Discovery",
         "summary": "arXiv:2604.19795v1 Announce Type: new Abstract: We introduce \\prism{} (\\textbf{P}robabilistic \\textbf{R}etrieval with \\textbf{I}nformation-\\textbf{S}tratified \\textbf{M}emory), an evolutionary memory substrate for multi-agent AI systems engaged in...",
         "link": "https://arxiv.org/abs/2604.19795",
-        "published": "2026-04-23T07:02:44.237533+00:00"
+        "published": "2026-04-23T18:03:33.617795+00:00"
       },
       {
         "title": "The AI Telco Engineer: Toward Autonomous Discovery of Wireless Communications Algorithms",
         "summary": "arXiv:2604.19803v1 Announce Type: new Abstract: Agentic AI is rapidly transforming the way research is conducted, from prototyping ideas to reproducing results found in the literature. In this paper, we explore the ability of agentic AI to...",
         "link": "https://arxiv.org/abs/2604.19803",
-        "published": "2026-04-23T07:02:44.237567+00:00"
+        "published": "2026-04-23T18:03:33.617829+00:00"
       },
       {
         "title": "Skyline-First Traversal as a Control Mechanism for Multi-Criteria Graph Search",
         "summary": "arXiv:2604.19807v1 Announce Type: new Abstract: In multi-criteria graph traversal, paths are compared via Pareto dominance, an ordering that identifies which paths are non-dominated, but says nothing about which path to expand next or when the...",
         "link": "https://arxiv.org/abs/2604.19807",
-        "published": "2026-04-23T07:02:44.237603+00:00"
+        "published": "2026-04-23T18:03:33.617864+00:00"
       }
     ],
     "huggingface": [
       {
-        "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
-        "summary": "Building a Fast Multilingual OCR Model with Synthetic Data",
-        "link": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
-        "published": "2026-04-23T07:02:44.428211+00:00"
-      },
-      {
         "title": "DenseOn with the LateOn: Open State-of-the-Art Single and Multi-Vector Models",
         "summary": "DenseOn with the LateOn: Open State-of-the-Art Single and Multi-Vector Models",
         "link": "https://huggingface.co/blog/lightonai/denseon-lateon",
-        "published": "2026-04-23T07:02:44.428421+00:00"
+        "published": "2026-04-23T18:03:33.859410+00:00"
+      },
+      {
+        "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
+        "summary": "Building a Fast Multilingual OCR Model with Synthetic Data",
+        "link": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
+        "published": "2026-04-23T18:03:33.859651+00:00"
       },
       {
         "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
         "summary": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
         "link": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
-        "published": "2026-04-23T07:02:44.428603+00:00"
+        "published": "2026-04-23T18:03:33.859850+00:00"
+      },
+      {
+        "title": "ML Intern Takes Our Post-Training Internship Test",
+        "summary": "ML Intern Takes Our Post-Training Internship Test",
+        "link": "https://huggingface.co/blog/cmpatino/ml-intern-takehome",
+        "published": "2026-04-23T18:03:33.860044+00:00"
       },
       {
         "title": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "summary": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "link": "https://huggingface.co/blog/not-lain/kv-caching",
-        "published": "2026-04-23T07:02:44.428790+00:00"
+        "published": "2026-04-23T18:03:33.860232+00:00"
       },
       {
         "title": "NVIDIA Isaac GR00T N1.7: Open Reasoning VLA Model for Humanoid Robots",
         "summary": "NVIDIA Isaac GR00T N1.7: Open Reasoning VLA Model for Humanoid Robots",
         "link": "https://huggingface.co/blog/nvidia/gr00t-n1-7",
-        "published": "2026-04-23T07:02:44.428965+00:00"
+        "published": "2026-04-23T18:03:33.860419+00:00"
       },
       {
         "title": "How we OCR'ed 30,000 papers using Codex, open OCR models and Jobs",
         "summary": "How we OCR'ed 30,000 papers using Codex, open OCR models and Jobs",
         "link": "https://huggingface.co/blog/nielsr/ocr-papers-jobs",
-        "published": "2026-04-23T07:02:44.429175+00:00"
+        "published": "2026-04-23T18:03:33.860623+00:00"
       },
       {
         "title": "Save the traces! 🐳",
         "summary": "Save the traces! 🐳",
         "link": "https://huggingface.co/blog/pcuenq/save-the-traces",
-        "published": "2026-04-23T07:02:44.429366+00:00"
+        "published": "2026-04-23T18:03:33.860820+00:00"
       },
       {
-        "title": "easyaligner: Forced alignment of text and audio, made easy",
-        "summary": "easyaligner: Forced alignment of text and audio, made easy",
-        "link": "https://huggingface.co/blog/KBLab/easyaligner",
-        "published": "2026-04-23T07:02:44.429543+00:00"
+        "title": "mlinter: a linter for Transformers modeling files",
+        "summary": "mlinter: a linter for Transformers modeling files",
+        "link": "https://huggingface.co/blog/huggingface/mlinter",
+        "published": "2026-04-23T18:03:33.861007+00:00"
       },
       {
         "title": "Multilingual Tool Calling in 70+ Languages, On Device",
         "summary": "Multilingual Tool Calling in 70+ Languages, On Device",
         "link": "https://huggingface.co/blog/Bronsn/tiny-facade",
-        "published": "2026-04-23T07:02:44.429712+00:00"
-      },
-      {
-        "title": "Uncensor any LLM with abliteration",
-        "summary": "Uncensor any LLM with abliteration",
-        "link": "https://huggingface.co/blog/mlabonne/abliteration",
-        "published": "2026-04-23T07:02:44.429894+00:00"
+        "published": "2026-04-23T18:03:33.861191+00:00"
       },
       {
         "title": "Qwen3.5: Nobody Agrees on Attention Anymore",
         "summary": "Qwen3.5: Nobody Agrees on Attention Anymore",
         "link": "https://huggingface.co/blog/mlabonne/qwen35",
-        "published": "2026-04-23T07:02:44.430061+00:00"
+        "published": "2026-04-23T18:03:33.861374+00:00"
       },
       {
-        "title": "NEO-unify: Building Native Multimodal Unified Models End to End",
-        "summary": "NEO-unify: Building Native Multimodal Unified Models End to End",
-        "link": "https://huggingface.co/blog/sensenova/neo-unify",
-        "published": "2026-04-23T07:02:44.430227+00:00"
+        "title": "Hy3 preview: A Rebuilt Hunyuan, a 21B-Active MoE, and a New Reasoning Receipe",
+        "summary": "Hy3 preview: A Rebuilt Hunyuan, a 21B-Active MoE, and a New Reasoning Receipe",
+        "link": "https://huggingface.co/blog/imnotkitty/hy3-preview",
+        "published": "2026-04-23T18:03:33.861574+00:00"
       },
       {
-        "title": "Nucleus-Image: Scaling Text-to-Image with Sparse Mixture of Experts",
-        "summary": "Nucleus-Image: Scaling Text-to-Image with Sparse Mixture of Experts",
-        "link": "https://huggingface.co/blog/NucleusAI/nucleus-image",
-        "published": "2026-04-23T07:02:44.430392+00:00"
+        "title": "Uncensor any LLM with abliteration",
+        "summary": "Uncensor any LLM with abliteration",
+        "link": "https://huggingface.co/blog/mlabonne/abliteration",
+        "published": "2026-04-23T18:03:33.861765+00:00"
       },
       {
         "title": "Code a simple RAG from scratch",
         "summary": "Code a simple RAG from scratch",
         "link": "https://huggingface.co/blog/ngxson/make-your-own-rag",
-        "published": "2026-04-23T07:02:44.430555+00:00"
+        "published": "2026-04-23T18:03:33.861948+00:00"
       },
       {
         "title": "DeepSeek-R1 Dissection: Understanding PPO & GRPO Without Any Prior Reinforcement Learning Knowledge",
         "summary": "DeepSeek-R1 Dissection: Understanding PPO & GRPO Without Any Prior Reinforcement Learning Knowledge",
         "link": "https://huggingface.co/blog/NormalUhr/grpo",
-        "published": "2026-04-23T07:02:44.430732+00:00"
+        "published": "2026-04-23T18:03:33.862131+00:00"
       }
     ],
     "producthunt": [],
     "reddit": [],
     "ai_news": [
       {
+        "title": "The billion-dollar startup with a different idea for AI",
+        "summary": "How It Works",
+        "link": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
+        "published": "2026-04-23T18:03:42.767340+00:00"
+      },
+      {
+        "title": "NVIDIA and Google infrastructure cuts AI inference costs",
+        "summary": "AI Business Strategy",
+        "link": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
+        "published": "2026-04-23T18:03:42.767781+00:00"
+      },
+      {
+        "title": "Sony AI robot beats players as humanoid robot wins Beijing race",
+        "summary": "Physical AI",
+        "link": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/",
+        "published": "2026-04-23T18:03:42.768182+00:00"
+      },
+      {
         "title": "Reversing enterprise security costs with AI vulnerability discovery",
         "summary": "Cybersecurity AI",
         "link": "https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/",
-        "published": "2026-04-23T07:02:51.471784+00:00"
+        "published": "2026-04-23T18:03:42.768604+00:00"
       },
       {
         "title": "AI in law firms entering its closing summaries",
         "summary": "Legal Industry AI",
         "link": "https://www.artificialintelligence-news.com/news/ai-in-law-firms-entering-its-closing-summaries/",
-        "published": "2026-04-23T07:02:51.472172+00:00"
-      },
-      {
-        "title": "Snowflake expands its technical and mainstream AI platforms",
-        "summary": "World of Work",
-        "link": "https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/",
-        "published": "2026-04-23T07:02:51.472534+00:00"
-      },
-      {
-        "title": "Siemens introduces AI system for automation engineering",
-        "summary": "AI in Action",
-        "link": "https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/",
-        "published": "2026-04-23T07:02:51.472906+00:00"
-      },
-      {
-        "title": "Bobyard 2.0 offers improved takeoffs and unified AI for estimators",
-        "summary": "Manufacturing & Engineering AI",
-        "link": "https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/",
-        "published": "2026-04-23T07:02:51.473265+00:00"
+        "published": "2026-04-23T18:03:42.769000+00:00"
       }
     ],
     "crescendo": [
@@ -265,19 +265,19 @@
         "title": "Crescendo arrives in Europe with $100M momentum to establish new AI-native CX category",
         "summary": "Crescendo arrives in Europe with $100M momentum to establish new AI-native CX category",
         "link": "https://crescendo.ai/news/crescendo-expands-europe",
-        "published": "2026-04-23T07:02:51.668333+00:00"
+        "published": "2026-04-23T18:03:43.216091+00:00"
       },
       {
         "title": "All NEWS",
         "summary": "All NEWS",
         "link": "https://crescendo.ai/news/ai-in-healthcare-news",
-        "published": "2026-04-23T07:02:51.672161+00:00"
+        "published": "2026-04-23T18:03:43.220109+00:00"
       },
       {
         "title": "The Latest AI News and Breakthroughs in Healthcare and Medical",
         "summary": "The Latest AI News and Breakthroughs in Healthcare and Medical",
         "link": "https://crescendo.ai/news/ai-in-healthcare-news",
-        "published": "2026-04-23T07:02:51.679487+00:00"
+        "published": "2026-04-23T18:03:43.227742+00:00"
       }
     ]
   }
