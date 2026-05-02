@@ -1,16 +1,15 @@
 {
   "date": "2026-05-02",
-  "last_updated": "2026-05-02T07:03:26.620613+00:00",
+  "last_updated": "2026-05-02T17:41:29.982678+00:00",
   "collection_status": {
     "total_sources": 6,
-    "successful": 3,
-    "failed": 3,
+    "successful": 4,
+    "failed": 2,
     "failed_sources": [
       "arxiv",
-      "producthunt",
-      "ai_news"
+      "producthunt"
     ],
-    "total_items": 38
+    "total_items": 43
   },
   "sources": {
     "arxiv": [],
@@ -19,91 +18,91 @@
         "title": "NEO-unify: Building Native Multimodal Unified Models End to End",
         "summary": "NEO-unify: Building Native Multimodal Unified Models End to End",
         "link": "https://huggingface.co/blog/sensenova/neo-unify",
-        "published": "2026-05-02T07:03:26.976143+00:00"
+        "published": "2026-05-02T17:41:30.505895+00:00"
       },
       {
         "title": "Pallas for people who know JAX but not kernels yet",
         "summary": "Pallas for people who know JAX but not kernels yet",
         "link": "https://huggingface.co/blog/ariG23498/pallas-for-beginners",
-        "published": "2026-05-02T07:03:26.976369+00:00"
+        "published": "2026-05-02T17:41:30.506116+00:00"
       },
       {
         "title": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "summary": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
         "link": "https://huggingface.co/blog/not-lain/kv-caching",
-        "published": "2026-05-02T07:03:26.976576+00:00"
+        "published": "2026-05-02T17:41:30.506312+00:00"
       },
       {
         "title": "Running AI agents to automate outreach at scale",
         "summary": "Running AI agents to automate outreach at scale",
         "link": "https://huggingface.co/blog/nielsr/gemini-community-science",
-        "published": "2026-05-02T07:03:26.976771+00:00"
+        "published": "2026-05-02T17:41:30.506532+00:00"
       },
       {
         "title": "OpenRA-RL: An Open Platform for AI Agents in Real-Time Strategy Games",
         "summary": "OpenRA-RL: An Open Platform for AI Agents in Real-Time Strategy Games",
         "link": "https://huggingface.co/blog/jadetan/openra-rl",
-        "published": "2026-05-02T07:03:26.976961+00:00"
+        "published": "2026-05-02T17:41:30.506726+00:00"
       },
       {
         "title": "DenseOn with the LateOn: Open State-of-the-Art Single and Multi-Vector Models",
         "summary": "DenseOn with the LateOn: Open State-of-the-Art Single and Multi-Vector Models",
         "link": "https://huggingface.co/blog/lightonai/denseon-lateon",
-        "published": "2026-05-02T07:03:26.977170+00:00"
-      },
-      {
-        "title": "ML Intern Takes Our Post-Training Internship Test",
-        "summary": "ML Intern Takes Our Post-Training Internship Test",
-        "link": "https://huggingface.co/blog/cmpatino/ml-intern-takehome",
-        "published": "2026-05-02T07:03:26.977363+00:00"
-      },
-      {
-        "title": "Mastering Tensor Dimensions in Transformers",
-        "summary": "Mastering Tensor Dimensions in Transformers",
-        "link": "https://huggingface.co/blog/not-lain/tensor-dims",
-        "published": "2026-05-02T07:03:26.977557+00:00"
-      },
-      {
-        "title": "Performant local mixture-of-experts CPU inference with GPU acceleration in llama.cpp",
-        "summary": "Performant local mixture-of-experts CPU inference with GPU acceleration in llama.cpp",
-        "link": "https://huggingface.co/blog/Doctor-Shotgun/llamacpp-moe-offload-guide",
-        "published": "2026-05-02T07:03:26.977754+00:00"
-      },
-      {
-        "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
-        "summary": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
-        "link": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
-        "published": "2026-05-02T07:03:26.977946+00:00"
-      },
-      {
-        "title": "BiomedBERT Small: Medical models at 22.7M parameters",
-        "summary": "BiomedBERT Small: Medical models at 22.7M parameters",
-        "link": "https://huggingface.co/blog/NeuML/biomedbert-small",
-        "published": "2026-05-02T07:03:26.978151+00:00"
-      },
-      {
-        "title": "Training low-bit ternary models with Axolotl",
-        "summary": "Training low-bit ternary models with Axolotl",
-        "link": "https://huggingface.co/blog/axolotl-ai-co/finetuning-ternary-llms-tii-axolotl",
-        "published": "2026-05-02T07:03:26.978342+00:00"
+        "published": "2026-05-02T17:41:30.506915+00:00"
       },
       {
         "title": "Code a simple RAG from scratch",
         "summary": "Code a simple RAG from scratch",
         "link": "https://huggingface.co/blog/ngxson/make-your-own-rag",
-        "published": "2026-05-02T07:03:26.978528+00:00"
+        "published": "2026-05-02T17:41:30.507101+00:00"
+      },
+      {
+        "title": "Performant local mixture-of-experts CPU inference with GPU acceleration in llama.cpp",
+        "summary": "Performant local mixture-of-experts CPU inference with GPU acceleration in llama.cpp",
+        "link": "https://huggingface.co/blog/Doctor-Shotgun/llamacpp-moe-offload-guide",
+        "published": "2026-05-02T17:41:30.507294+00:00"
+      },
+      {
+        "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+        "summary": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+        "link": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
+        "published": "2026-05-02T17:41:30.507500+00:00"
+      },
+      {
+        "title": "ML Intern Takes Our Post-Training Internship Test",
+        "summary": "ML Intern Takes Our Post-Training Internship Test",
+        "link": "https://huggingface.co/blog/cmpatino/ml-intern-takehome",
+        "published": "2026-05-02T17:41:30.507690+00:00"
+      },
+      {
+        "title": "BiomedBERT Small: Medical models at 22.7M parameters",
+        "summary": "BiomedBERT Small: Medical models at 22.7M parameters",
+        "link": "https://huggingface.co/blog/NeuML/biomedbert-small",
+        "published": "2026-05-02T17:41:30.507877+00:00"
+      },
+      {
+        "title": "Training low-bit ternary models with Axolotl",
+        "summary": "Training low-bit ternary models with Axolotl",
+        "link": "https://huggingface.co/blog/axolotl-ai-co/finetuning-ternary-llms-tii-axolotl",
+        "published": "2026-05-02T17:41:30.508061+00:00"
+      },
+      {
+        "title": "Mastering Tensor Dimensions in Transformers",
+        "summary": "Mastering Tensor Dimensions in Transformers",
+        "link": "https://huggingface.co/blog/not-lain/tensor-dims",
+        "published": "2026-05-02T17:41:30.508251+00:00"
       },
       {
         "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
         "summary": "Building a Fast Multilingual OCR Model with Synthetic Data",
         "link": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
-        "published": "2026-05-02T07:03:26.978715+00:00"
+        "published": "2026-05-02T17:41:30.508452+00:00"
       },
       {
         "title": "NVIDIA Isaac GR00T N1.7: Open Reasoning VLA Model for Humanoid Robots",
         "summary": "NVIDIA Isaac GR00T N1.7: Open Reasoning VLA Model for Humanoid Robots",
         "link": "https://huggingface.co/blog/nvidia/gr00t-n1-7",
-        "published": "2026-05-02T07:03:26.978907+00:00"
+        "published": "2026-05-02T17:41:30.508640+00:00"
       }
     ],
     "producthunt": [],
@@ -121,6 +120,12 @@
         "published": "2026-05-01T02:30:08+00:00"
       },
       {
+        "title": "[r/machinelearning] Real World Physics-Informed AI Applications [D]",
+        "summary": "I'm curios to find any real-world applications of physics-informed AI. Conventional AI, talking only about Neural Networks, have already become something casual, they are in hundreds of tools/services we use daily. But I'm curios, apart from...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1t1lmq0/real_world_physicsinformed_ai_applications_d/",
+        "published": "2026-05-02T09:55:56+00:00"
+      },
+      {
         "title": "[r/machinelearning] ICML final decisions rant [D]",
         "summary": "So, ICML accepted ~6.5K of ~24K; obviously, it doesn't mean that all the rejected papers are \"bad,\" and these rejected papers would cascade to NeurIPS, blowing up NeurIPS' total submission count, and this cycle of massive-influx-small-acceptance...",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1t1393a/icml_final_decisions_rant_d/",
@@ -131,6 +136,12 @@
         "summary": "For the past several years I've been quietly assembling and processing what I believe is one of the larger privately held pretraining corpora around... a complete Usenet archive spanning 1980 to 2013. Here's what it ended up being: 103.1 billion...",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1t10xaf/i_spent_years_building_a_103btoken_usenet_corpus/",
         "published": "2026-05-01T18:01:00+00:00"
+      },
+      {
+        "title": "[r/machinelearning] I implemented meta paper [P]",
+        "summary": "github link : genji970/Scaling-Test-Time-Compute-for-Agentic-Coding-: paper implementation of Meta Ai paper link : https://arxiv.org/abs/2604.16529v1 As far as I know, there is no public implementation of this paper yet, so I built a minimal...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1t1rni9/i_implemented_meta_paper_p/",
+        "published": "2026-05-02T14:37:53+00:00"
       },
       {
         "title": "[r/machinelearning] [ECCV 2026] Review Discussion [D]",
@@ -151,18 +162,6 @@
         "published": "2026-05-01T16:22:06+00:00"
       },
       {
-        "title": "[r/machinelearning] Trained a 3B Llama with GRPO on a chemistry RL environment. Drug-like molecules in 6 hours of GPU time. [P]",
-        "summary": "What if AI could design a new drug in 30 seconds? That's the future I'm betting on. Maybe 5 years out. Maybe 15. But it's coming. This week I built a tiny piece of it. A reinforcement learning environment where an AI agent designs drug molecules...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1t1ii3u/trained_a_3b_llama_with_grpo_on_a_chemistry_rl/",
-        "published": "2026-05-02T06:55:32+00:00"
-      },
-      {
-        "title": "[r/machinelearning] Looking for feedback on OpenVidya: an open-source AI classroom layer for NCERT/CBSE [R]",
-        "summary": "I’ve been experimenting with an open-source project called OpenVidya, built as a fork of OpenMAIC. The goal is to adapt multi-agent AI classroom generation for Indian education rather than treating learning as a generic slide/chat experience. Repo:...",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1t1dqwo/looking_for_feedback_on_openvidya_an_opensource/",
-        "published": "2026-05-02T02:47:35+00:00"
-      },
-      {
         "title": "[r/machinelearning] public reviews in conferences [D]",
         "summary": "Why don't all conferences make reviews public? I find ICLR public reviews to be very useful : - I get an idea of how others in the field think about the work - Makes the publishing process more transparent - Reviewers will potentially spend more...",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1t0shbq/public_reviews_in_conferences_d/",
@@ -181,28 +180,28 @@
         "published": "2026-04-23T17:57:18+00:00"
       },
       {
+        "title": "[r/claudeai] I gave Claude Code a $0.02/call coworker and stopped hitting Pro limits — here's the full setup",
+        "summary": "Was hitting my weekly Pro limit by Wednesday every single week. Tried compact, Sonnet for simple tasks, tighter prompts — nothing worked. Built a simple pattern: CLI scripts that delegate bulk file reading and boilerplate generation to Kimi K2.5...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1t1o43w/i_gave_claude_code_a_002call_coworker_and_stopped/",
+        "published": "2026-05-02T12:07:52+00:00"
+      },
+      {
         "title": "[r/claudeai] I built /graphify, 26 days, 450k+ downloads, ~40k stars. Here’s what I didn’t expect.",
         "summary": "On April 5th I shipped a Claude Code skill called graphify. Type /graphify . and it reads every file in your repo, builds a knowledge graph with Leiden community detection, and gives Claude persistent memory of your entire codebase. 71x fewer tokens...",
         "link": "https://www.reddit.com/r/ClaudeAI/comments/1t18eeh/i_built_graphify_26_days_450k_downloads_40k_stars/",
         "published": "2026-05-01T22:44:06+00:00"
       },
       {
-        "title": "[r/claudeai] claude.md files in apple’s support app.",
-        "summary": "submitted by /u/SnooOpinions4234 [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1t0wch0/claudemd_files_in_apples_support_app/",
-        "published": "2026-05-01T15:17:26+00:00"
+        "title": "[r/claudeai] Claude has a friend?",
+        "summary": "who is its friend? I’m afraid to ask. submitted by /u/Level1_Crisis_Bot [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1t1p098/claude_has_a_friend/",
+        "published": "2026-05-02T12:49:25+00:00"
       },
       {
-        "title": "[r/claudeai] I accidentally burned ~$6,000 of Claude usage overnight with one command.",
-        "summary": "Last week I woke up to an email saying my Claude usage limit was gone. I hadn't done anything unusual — or so I thought. After digging through the local session logs, I found the culprit: a single /loop command I had set the night before to check my...",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1t11mmy/i_accidentally_burned_6000_of_claude_usage/",
-        "published": "2026-05-01T18:26:06+00:00"
-      },
-      {
-        "title": "[r/claudeai] I dont even have a funny title for this one, I'm just confused",
-        "summary": "submitted by /u/i_am_new_here_51 [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1t1ag3j/i_dont_even_have_a_funny_title_for_this_one_im/",
-        "published": "2026-05-02T00:12:45+00:00"
+        "title": "[r/claudeai] It’s a Weird Time to Be Named Claude",
+        "summary": "The once-rare name is now shared with Anthropic’s fast-growing AI assistant — leaving the humans called Claude to adjust. submitted by /u/bloomberg [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1t1ocha/its_a_weird_time_to_be_named_claude/",
+        "published": "2026-05-02T12:18:47+00:00"
       },
       {
         "title": "[r/claudeai] Used Claude AI to write a legal notice and got a full refund of Rs. 40,219 (~$480) for a defective refurbished MacBook. Company settled in 48 hours.",
@@ -211,43 +210,74 @@
         "published": "2026-05-02T05:31:37+00:00"
       },
       {
-        "title": "[r/claudeai] Claude is hilariously petty",
-        "summary": "submitted by /u/arihantismm [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1t0nh6v/claude_is_hilariously_petty/",
-        "published": "2026-05-01T08:30:45+00:00"
+        "title": "[r/claudeai] I thought Cowork was gaslighting me about browser use",
+        "summary": "I was testing out Cowork on my Linux machine and asked it to search for a hotel ok booking.com. So off it goes, asks for my permission to use Chrome etc.. However, Chrome wasn't open. In fact, I'd never opened Chrome on that machine. So I asked...",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1t1t9f5/i_thought_cowork_was_gaslighting_me_about_browser/",
+        "published": "2026-05-02T15:39:41+00:00"
       },
       {
-        "title": "[r/claudeai] When to use Claude Cowork vs Claude Code",
-        "summary": "How are people choosing when to use cowork vs code? Claude’s answer: Rule of thumb: codebase → Code, everything else file-based → Cowork. submitted by /u/Talley-Ho [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1t1byip/when_to_use_claude_cowork_vs_claude_code/",
-        "published": "2026-05-02T01:22:49+00:00"
+        "title": "[r/claudeai] Giving Claude access to my MacBook be like",
+        "summary": "Not sure if it's a good idea submitted by /u/CriticalOfSociety [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1t1pn4r/giving_claude_access_to_my_macbook_be_like/",
+        "published": "2026-05-02T13:16:35+00:00"
       },
       {
-        "title": "[r/claudeai] This guy can not be real",
-        "summary": "I'm just using a caveman propmt in system instructions submitted by /u/Medium-Pickle175 [link] [comments]",
-        "link": "https://www.reddit.com/r/ClaudeAI/comments/1t11mtq/this_guy_can_not_be_real/",
-        "published": "2026-05-01T18:26:18+00:00"
+        "title": "[r/claudeai] claude.md files in apple’s support app.",
+        "summary": "submitted by /u/SnooOpinions4234 [link] [comments]",
+        "link": "https://www.reddit.com/r/ClaudeAI/comments/1t0wch0/claudemd_files_in_apples_support_app/",
+        "published": "2026-05-01T15:17:26+00:00"
       }
     ],
-    "ai_news": [],
+    "ai_news": [
+      {
+        "title": "SAP: How enterprise AI governance secures profit margins",
+        "summary": "Governance, Regulation & Policy",
+        "link": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
+        "published": "2026-05-02T17:41:33.970663+00:00"
+      },
+      {
+        "title": "Per-token AI charges come to GitHub Copilot",
+        "summary": "AI Market Trends",
+        "link": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
+        "published": "2026-05-02T17:41:33.971088+00:00"
+      },
+      {
+        "title": "What LG and NVIDIA’s talks reveal about the future of physical AI",
+        "summary": "Physical AI",
+        "link": "https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/",
+        "published": "2026-05-02T17:41:33.971527+00:00"
+      },
+      {
+        "title": "A guide to APIs, MCPs, and MCP Gateways",
+        "summary": "Governance, Regulation & Policy",
+        "link": "https://www.artificialintelligence-news.com/news/a-guide-to-apis-and-mcps-and-mcp-gateways/",
+        "published": "2026-05-02T17:41:33.971947+00:00"
+      },
+      {
+        "title": "AI agent governance takes focus as regulators flag control gaps",
+        "summary": "Governance, Regulation & Policy",
+        "link": "https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/",
+        "published": "2026-05-02T17:41:33.972349+00:00"
+      }
+    ],
     "crescendo": [
       {
         "title": "Crescendo arrives in Europe with $100M momentum to establish new AI-native CX category",
         "summary": "Crescendo arrives in Europe with $100M momentum to establish new AI-native CX category",
         "link": "https://crescendo.ai/news/crescendo-expands-europe",
-        "published": "2026-05-02T07:03:31.645339+00:00"
+        "published": "2026-05-02T17:41:34.343180+00:00"
       },
       {
         "title": "All NEWS",
         "summary": "All NEWS",
         "link": "https://crescendo.ai/news/ai-in-healthcare-news",
-        "published": "2026-05-02T07:03:31.649404+00:00"
+        "published": "2026-05-02T17:41:34.347207+00:00"
       },
       {
         "title": "The Latest AI News and Breakthroughs in Healthcare and Medical",
         "summary": "The Latest AI News and Breakthroughs in Healthcare and Medical",
         "link": "https://crescendo.ai/news/ai-in-healthcare-news",
-        "published": "2026-05-02T07:03:31.657108+00:00"
+        "published": "2026-05-02T17:41:34.354855+00:00"
       }
     ]
   }
